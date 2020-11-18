@@ -4,21 +4,37 @@
 
 ## Summary
 
-Provide a broad overview on emerging quantitative interdisciplinary fields in biosciences, ranging from experimental state-of-the-art techniques in microscopy, synthetic biology and systemic approaches to life science.
+Provide a broad overview on emerging quantitative interdisciplinary fields in biosciences, ranging from experimental state-of-the-art techniques in microscopy, synthetic biology and systemic approaches to life sciences.
 
 ## Topics
 
 "Projects" denotes a topic that could be tackled on the programming, imaging and synbio angle. Some of them could be done by student groups after an introduction from the teacher.
 
-- Introduction on networks in biology
+- Introduction to networks in biology
+
 - Transcription networks and gene regulation
 
-    - Project: stochasticity in biology 
+    - Project: stochasticity in biology, random walks,  
     - Project: Observing gene expression (single molecule/cell vs population)
     - Project: Negative Feedback
     - Project: Bistability and Memory (intro to biocomputing)
-- Large biological dataset (Big data in Biology)
-    - Project: *need to find an application. Something about exploring sequenced genomes and look for promoters, make logo plots, etc etc* 
+    
+- Basics of microscopy
+
+    - Project: Basics of microscopy: lenses, focal points, magnifications, lasers (Francesco)
+- Project: Imaging single molecules (on a surface). Single-molecule detection/ super-resolution microscopy
+    - Project: Imaging single molecule dynamics in plant roots ()
+- Project: Measuring protein dynamics in vitro and in vivo (FCS/ FRAP)
+    - Project: Imaging Spatial patterning in Drosophila (volumetric 3D, 2P?)
+
+- Processing biological datasets (Big data in Biology)
+  
+    - Project: *detect chipSeq peaks and classify. Something about exploring sequenced genomes and look for promoters, make logo plots, etc etc* 
+    - Project: basic processing of 3D images in Python
+    - Project: segmenting PSF using astropy
+    - Project: segmenting DAPI masks using stardist
+    - Project: constructing trajectories from single molecule localizations
+    
 - Key concepts in biology: 
 
   - Robustness
@@ -31,8 +47,10 @@ Provide a broad overview on emerging quantitative interdisciplinary fields in bi
 ## Teachers
 
 - Luca Ciandrini
-- Marcelo Nollman
-- ? More ? I would keep the number pretty small anyway
+- Marcelo Nollmann / Antoine Le Gall
+- Luca/PEM
+- Francesco / Ashley
+- I would keep the number pretty small anyway
 
 ### Bibliography (books only)
 
