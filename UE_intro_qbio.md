@@ -10,6 +10,10 @@ Provide a broad overview on emerging quantitative interdisciplinary fields in bi
 
 "Projects" denotes a topic that could be tackled on the programming, imaging and synbio angle. Some of them could be done by student groups after an introduction from the teacher.
 
+There will be optional and **compulsory** projects. The **compulsory** projects will be those that are required for later stages in this module or on other subsequent modules.
+
+Projects in these UE will not be experimental.
+
 - Introduction to networks in biology
 
 - Transcription networks and gene regulation
@@ -19,9 +23,9 @@ Provide a broad overview on emerging quantitative interdisciplinary fields in bi
     - Project: Negative Feedback
     - Project: Bistability and Memory (intro to biocomputing)
     
-- Basics of microscopy
-
-    - Project: Basics of microscopy: lenses, focal points, magnifications, lasers (Francesco)
+- **Basics of microscopy**
+- **Project: Basics of microscopy**: lenses, focal points, magnifications, lasers
+    - **Project: basic processing of images in Python**
 - Project: Imaging single molecules (on a surface). Single-molecule detection/ super-resolution microscopy
     - Project: Imaging single molecule dynamics in plant roots ()
 - Project: Measuring protein dynamics in vitro and in vivo (FCS/ FRAP)
@@ -30,7 +34,6 @@ Provide a broad overview on emerging quantitative interdisciplinary fields in bi
 - Processing biological datasets (Big data in Biology)
   
     - Project: *detect chipSeq peaks and classify. Something about exploring sequenced genomes and look for promoters, make logo plots, etc etc* 
-    - Project: basic processing of 3D images in Python
     - Project: segmenting PSF using astropy
     - Project: segmenting DAPI masks using stardist
     - Project: constructing trajectories from single molecule localizations
