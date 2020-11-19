@@ -8,41 +8,42 @@ Provide a broad overview on emerging quantitative interdisciplinary fields in bi
 
 ## Topics
 
-"Projects" denotes a topic that could be tackled on the programming, imaging and synbio angle. Some of them could be done by student groups after an introduction from the teacher.
+"Projects" denotes a topic that could be tackled on the programming, imaging and synbio angle. Some of them could be done by student groups after an introduction from the teacher. **Bold** projects are compulsory for everyone. 
+
 
 - Introduction to networks in biology
+    - Key concepts in biology: Robustness 
+    - Key concepts in biology: Optimality
+These concepts need to be highlighted in each theme below.
+
+- Stochasticity in biology, random walks
+    - **Project**: Basics of microscopy: lenses, focal points, magnifications, lasers [ Marcelo ]
+    - **Project**: basic processing of images in Python
+    - Project: constructing trajectories from single molecule localizations (here or in The Genome)
 
 - Transcription networks and gene regulation
-
-    - Project: stochasticity in biology, random walks,  
-    - Project: Observing gene expression (single molecule/cell vs population)
+    - **Project**: Observing gene expression (single molecule/cell vs population)
     - Project: Negative Feedback
     - Project: Bistability and Memory (intro to biocomputing)
+    - Project: Imaging Spatial patterning in development - Drosophila (volumetric 3D, 2P?)
+    - Project: Measuring protein dynamics in vitro and in vivo (FCS/ FRAP)
+    - Project: Kinetics proofreading
     
-- Basics of microscopy
-
-    - Project: Basics of microscopy: lenses, focal points, magnifications, lasers (Francesco)
-- Project: Imaging single molecules (on a surface). Single-molecule detection/ super-resolution microscopy
-    - Project: Imaging single molecule dynamics in plant roots ()
-- Project: Measuring protein dynamics in vitro and in vivo (FCS/ FRAP)
-    - Project: Imaging Spatial patterning in Drosophila (volumetric 3D, 2P?)
-
-- Processing biological datasets (Big data in Biology)
-  
-    - Project: *detect chipSeq peaks and classify. Something about exploring sequenced genomes and look for promoters, make logo plots, etc etc* 
-    - Project: basic processing of 3D images in Python
+- The Genome
+    - **Project**: Basics of genome-wide data processing, exploring sequenced genomes and look for promoters, make logo plots, etc etc
+    - Project: detect chipSeq peaks and classify.
     - Project: segmenting PSF using astropy
     - Project: segmenting DAPI masks using stardist
-    - Project: constructing trajectories from single molecule localizations
+    - Project: Genetic design
     
-- Key concepts in biology: 
-
-  - Robustness
-    - Project: Kinetics proofreading
+- Membrane biophyics
+    - Project: Imaging single molecules (on a surface). Single-molecule detection/ super-resolution microscopy
+    - Project: Imaging single molecule dynamics in plant roots ()
     - Project: Bacterial chemotaxis
-    - Project: Spatial patterning in development ? (Drosophila)
-  - Optimality
-  - Project: Genetic design
+
+    
+
+
 
 ## Teachers
 
