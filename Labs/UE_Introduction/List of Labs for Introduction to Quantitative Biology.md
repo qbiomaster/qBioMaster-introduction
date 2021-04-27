@@ -121,3 +121,27 @@ Lenses, focal points, apertures, magnification, Fourier space, diffraction, inte
 | | | ||
 | | | ||
 | | | ||
+
+
+
+## Teachers
+
+- Luca Ciandrini
+- Marcelo Nollmann
+- PEM?
+
+
+
+## Evaluation
+
+Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + final exam (30%).
+
+
+
+### Bibliography (books only)
+
+1. An introduction to Systems Biology, Uri Alon
+2. Physical Biology of the cell, R. Phillips et al.
+3. Cell biology by the numbers, R. Milo and R. Phillips
+4. Random Walks in Biology, Howard
+
