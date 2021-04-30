@@ -31,6 +31,8 @@ This file will contain the updated list of Labs available for this UE.
 
 Lenses, focal points, apertures, magnification, Fourier space, diffraction, interference.
 
+<!--Be careful, not all students will be in the Bootcamp,this UE is open to other curricula-->
+
 **Tutorials**
 
 1. Imaging systems: 
