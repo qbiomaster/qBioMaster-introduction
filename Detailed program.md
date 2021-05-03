@@ -118,30 +118,90 @@ We will first give an overview of the theory and some biological examples, that 
 
 Gives the basics of Random Walks in biology, with a particular example to be investigated in the Tutorials (or Labs). Intro to polymers?
 
-#### Basics of microscopy (? XXh - MN)
 
-##### Tutorials
 
-1. Imaging systems: 
+### Basics of microscopy (XXh - MN)
 
-   1. widefield  ```LAB: widefield``` 
-   2. TIRF ```LAB: TIRF``` 
-   3. confocal ```LAB: confocal```
-   4. Kohler illumination. ```LAB: Kohler```
+#### Imaging systems
 
-2. Super-resolution microscopies
-   1. STED.
-   2. SIM. ```LAB: Calculating the resolution gain by SIM```
-   3. SMLM. ```LAB: Localization of sources in 2D```. ```LAB: transcription factor diffusion```
+##### Lab:  ```LAB: widefield``` TIRF ```LAB: TIRF```  ```LAB: confocal``` ```LAB: Kohler```
 
-3. Basics of image segmentation
+*Objective:* Introduction to imaging systems. Widefield. TIRF. Confocal. Illumination systems.
 
-   1. Thresholding and watershed. ```LAB: Segmenting nuclei by threshold```
-   2. AI-based segmentation. ```LAB: Segmenting nuclei by AI```
+*Time:* During the class? Demonstration by the teacher?
 
-4. Basics of fluorescence fluctuation.
+*How:*  Jupyter notebook, step-by-step
 
-5. Basics of near-field microscopies (AFM).
+*Evaluation:* not evaluated
+
+*Outline:* To be done
+
+
+
+#### Super-resolution microscopies
+
+##### Lab: ```LAB: Calculating the resolution gain by SIM``` ```LAB: Localization of sources in 2D```. ```LAB: transcription factor diffusion```
+
+*Objective:* Introduction to super-resolution methods. SMLM: PALM/STORM, etc. SIM. STED.
+
+*Time:* During the class? Demonstration by the teacher?
+
+*How:*  Jupyter notebook, step-by-step
+
+*Evaluation:* not evaluated
+
+*Outline:* To be done
+
+
+
+#### Basics of image segmentation
+
+##### Lab: ```LAB: Segmenting nuclei by threshold```  ```LAB: Segmenting nuclei by AI```
+
+##### *Objective:* Introduction to image segmentation. 
+
+*Time:* During the class? Demonstration by the teacher?
+
+*How:*  Jupyter notebook, step-by-step
+
+*Evaluation:* not evaluated
+
+*Outline:* To be done
+
+
+
+1. Thresholding and watershed. AI-based segmentation.Basics of fluorescence fluctuation.
+
+##### Lab: `fluctuation microscopy  `
+
+*Objective:* Introduction to fluctuation methods. Fixed point FCS, FCCS; scanning FCS.
+
+*Time:* During the class? Demonstration by the teacher?
+
+*How:*  Jupyter notebook, step-by-step
+
+*Evaluation:* not evaluated
+
+*Outline:* To be done
+
+*Dependencies:* diffusion, Brownian motion, correlation function, confocal microscopy.
+
+
+
+#### Basics of near-field microscopies (AFM).
+
+##### Lab: `near-field microscopy  `
+
+*Objective:* Introduction to near-field microscopies 
+
+*Time:* During the class? Demonstration by the teacher?
+
+*How:*  Jupyter notebook, step-by-step
+
+*Evaluation:* not evaluated
+
+*Outline:* To be done
+
 
 
 
@@ -207,7 +267,7 @@ Work in progress.
 
 
 
-### Membrane Biophysics
+### Membrane Biophysics (xxh - PEM?)
 
 Work in progress.
 
