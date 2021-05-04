@@ -18,21 +18,21 @@ Slots are 1.5h starting at 8:00, with 15 min pause between two slots.
 
 According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medicine Explique/Phisio the *Intro to qbio* course could be on **Tuesday 8h - 11h15**, **Thursday 8h - 13h00** or **Thursday 13h15 - 18h15**, **Friday 15h-18h15**. In the temporary timetable below I have only used the first 2 slots (Tue and Thu morning).
 
-| Date         | Day  |   #hours | Starting Time | Subject | Where |
-| :----------- | ---- | -------: | ------------- | ------- | ----- |
-| 16 Septembre | Thu  |      1.5 | 9:45          |         |       |
-| 21 Septembre | Tue  |      1.5 | 9:45          |         |       |
-| 23 Septembre | Thu  |      3.0 | 9:45          |         |       |
-| 30 Septembre | Thu  |      4.5 | 8:00          |         |       |
-| 7 October    | Thu  |      4.5 | 8:00          |         |       |
-| 14 October   | Thu  |      4.5 | 8:00          |         |       |
-| 19 October   | Tue  |      3.0 | 8:00          |         |       |
-| 21 October   | Thu  |      4.5 | 8:00          |         |       |
-| 26 October   | Tue  |      3.0 | 8:00          |         |       |
-| 28 October   | Thu  |      4.5 | 8:00          |         |       |
-| 9 November   | Tue  |      3.0 | 8:00          |         |       |
-| 16 November  | Tue  |      3.0 | 8:00          |         |       |
-|              |      | **40.5** |               |         |       |
+| Date             | Day     |   #hours | Starting Time | Subject | Where |
+| :--------------- | ------- | -------: | ------------- | ------- | ----- |
+| ~~16 Septembre~~ | ~~Thu~~ |  ~~1.5~~ | ~~9:45~~      |         |       |
+| 21 Septembre     | Tue     |      3.0 | 8:00          |         |       |
+| 23 Septembre     | Thu     |      3.0 | 9:45          |         |       |
+| 30 Septembre     | Thu     |      4.5 | 8:00          |         |       |
+| 7 October        | Thu     |      4.5 | 8:00          |         |       |
+| 14 October       | Thu     |      4.5 | 8:00          |         |       |
+| 19 October       | Tue     |      3.0 | 8:00          |         |       |
+| 21 October       | Thu     |      4.5 | 8:00          |         |       |
+| 26 October       | Tue     |      3.0 | 8:00          |         |       |
+| 28 October       | Thu     |      4.5 | 8:00          |         |       |
+| 9 November       | Tue     |      3.0 | 8:00          |         |       |
+| 16 November      | Tue     |      3.0 | 8:00          |         |       |
+|                  |         | **40.5** |               |         |       |
 
 
 
