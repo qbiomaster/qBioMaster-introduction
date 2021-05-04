@@ -10,9 +10,37 @@ The majority of classes will not be "standard" lectures. Interaction will be pri
 
 Students will have to develop 4 compulsory projects (to be evaluated), plus one at choice.
 
-## Evaluation
+
+
+### Tentative timetable
+
+Slots are 1.5h starting at 8:00, with 15 min pause between two slots.
+
+According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medicine Explique/Phisio the *Intro to qbio* course could be on **Tuesday 8h - 11h15**, **Thursday 8h - 13h00** or **Thursday 13h15 - 18h15**, **Friday 15h-18h15**. In the temporary timetable below I have only used the first 2 slots (Tue and Thu morning).
+
+| Date         | Day  |   #hours | Starting Time | Subject | Where |
+| :----------- | ---- | -------: | ------------- | ------- | ----- |
+| 16 Septembre | Thu  |      1.5 | 9:45          |         |       |
+| 21 Septembre | Tue  |      1.5 | 9:45          |         |       |
+| 23 Septembre | Thu  |      3.0 | 9:45          |         |       |
+| 30 Septembre | Thu  |      4.5 | 8:00          |         |       |
+| 7 October    | Thu  |      4.5 | 8:00          |         |       |
+| 14 October   | Thu  |      4.5 | 8:00          |         |       |
+| 19 October   | Tue  |      3.0 | 8:00          |         |       |
+| 21 October   | Thu  |      4.5 | 8:00          |         |       |
+| 26 October   | Tue  |      3.0 | 8:00          |         |       |
+| 28 October   | Thu  |      4.5 | 8:00          |         |       |
+| 9 November   | Tue  |      3.0 | 8:00          |         |       |
+| 16 November  | Tue  |      3.0 | 8:00          |         |       |
+|              |      | **40.5** |               |         |       |
+
+
+
+### Evaluation
 
 Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + final exam (30%).
+
+
 
 ## Bibliography (books only)
 
@@ -54,7 +82,7 @@ Give an estimate of how many litres of water per day you consume following your 
 
 - Look for the average European (and worldwide) per day consumption and compare with yours.
 
-- Is that it? What about cooking? How is you diet affecting the amount of water used for your lifestyle?
+- Is that it? What about cooking? How is your diet affecting the amount of water used for your lifestyle?
 
 - Estimate the amount of water (and the extension of the land) that was necessary to produce your typical meal. 
 
