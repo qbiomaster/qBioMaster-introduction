@@ -29,30 +29,35 @@ This file will contain the updated list of Labs available for this UE.
 
 **Bootcamp pre-requisites**
 
-Lenses, focal points, apertures, magnification, Fourier space, diffraction, interference.
+Lenses, focal points, apertures, magnification, filters, Fourier space, diffraction, interference.
 
 **Tutorials**
 
-1. Imaging systems: 
+1. Biological fluorescence
+
+   1. Fluorescence
+   2. Labeling methods
+   
+2. Imaging systems: 
 
    1. widefield  ```LAB: widefield``` 
    2. TIRF ```LAB: TIRF``` 
    3. confocal ```LAB: confocal```
    4. Kohler illumination. ```LAB: Kohler```
 
-2. Super-resolution microscopies
+3. Super-resolution microscopies
    1. STED.
    2. SIM. ```LAB: Calculating the resolution gain by SIM```
    3. SMLM. ```LAB: Localization of sources in 2D```. ```LAB: transcription factor diffusion```
 
-3. Basics of image segmentation
+4. Basics of image segmentation
 
    1. Thresholding and watershed. ```LAB: Segmenting nuclei by threshold```
    2. AI-based segmentation. ```LAB: Segmenting nuclei by AI```
 
-4. Basics of fluorescence fluctuation.
+5. Basics of fluorescence fluctuation.
 
-5. Basics of near-field microscopies (AFM).
+6. Basics of near-field microscopies (AFM).
 
    
 
