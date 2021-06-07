@@ -58,9 +58,10 @@ Lenses, focal points, apertures, magnification, Fourier space, diffraction, inte
 
 | Name                       | Status | Workers | Description                                                  |
 | -------------------------- | ------ | ------- | ------------------------------------------------------------ |
+| Python crash introduction | up | Marcelo | A basic introduction to installing python, using numpy, matplotlib, reading files, and fitting functions |
 | widefield | planned | Marcelo, Antoine | |
 | TIRF | planned | Marcelo, Antoine | |
-| confocal | planned | Marcelo, Antoine | |
+| confocal | planned | Marcelo, Manu | |
 | Kohler | planned | Marcelo, Antoine | |
 | Loading images  in Python [Load_image] | up | Marcelo |This lab will show how to load and display an image in python|
 | Basic image processing in Python | planned | Marcelo |This lab will show how to perform basic image processing in python|
@@ -96,13 +97,15 @@ Lenses, focal points, apertures, magnification, Fourier space, diffraction, inte
    3. Examples.
 3. Nucleosomes and epigenetics
 4. Transcription factors: general and developmental TFs
+   
    1. TF diffusion using sptPALM.  ```LAB: transcription factor diffusion```
 5. cis-regulatory elements
 6. Higher-order chromatin structure:
    1. 3C-based methods. ```LAB: displaying contact maps using Cooler```
    2. Hi-M, ORCA. ```LAB: Calculating PWD maps from localization Tables```
 7. Modeling chromatin: cellular models using polymer dynamics, comparisons to experiments (HiC/ microscopy).  ```LAB: modeling chromatin```
-8. 
+
+   
 
 | Name                       | Status | Workers | Description |
 | -------------------------- | ------ | ------- | ----------|
