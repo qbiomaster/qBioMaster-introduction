@@ -68,11 +68,11 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | TIRF | planned | Marcelo, Antoine | |
 | confocal | planned | Marcelo, Manu | |
 | Kohler | planned | Marcelo, Antoine | |
-| Loading images  in Python [Load_image] | up | Marcelo |This lab will show how to load and display an image in python|
-| Basic image processing in Python | planned | Marcelo |This lab will show how to perform basic image processing in python|
+| Load_image.ipynb | up | Marcelo |This lab will show how to load and display an image in python|
+| Basic_image_processing.ipynb | planned | Marcelo |This lab will show how to perform basic image processing in python|
 | Working with many images         | planned | Marcelo |This lab will show how to load and process a folder of images|
-| Localization of sources in 2D [SMLM_tutorial1] | up     | Marcelo | This lab will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
-| Segmentation of nuclei by threshold | done     | Marcelo | This lab will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
+| SMLM_tutorial1.ipynb | up     | Marcelo | This lab will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
+| Segmentation_masks_imageAnalysis.ipynb | done     | Marcelo | This lab will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
 | Segmentation of nuclei by AI | planned     | Marcelo, JB | This lab will show students how to segment extended nuclei using starDist|
 | Calculating the resolution gain by SIM | planned | Marcelo, Antoine | This lab will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space |
 |                                        |         |                  ||
