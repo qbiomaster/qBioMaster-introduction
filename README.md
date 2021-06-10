@@ -1,115 +1,19 @@
-# Introduction to quantitative biology
+
+| QBIO MASTER PROGRAM| Quantitative biology in practice |
+| ------------------------------------------------------------ | ---------------------------------------------- |
+| ![](README.assets/LOGO_original_RVB_WEB-1.png) | <img src="README.assets/logo_qbio_quadri.png" style="zoom:30%;" /> |
+
+*At the  crossroads of Biology, Physics, Chemistry and Informatics, qbio is the  master program destined for students interested in studying Biology with a quantitative perspective founded on transdisciplinary approaches.*
 
 
 
-## Summary
+Based at the Faculty of Sciences of the [University of Montpellier](https://www.umontpellier.fr), qbio MSc is part of the [BioHealth Master’s Degree](https://masterbs.edu.umontpellier.fr), it reaches an international audience, and it is taught entirely in English.
 
-Provide a broad overview on emerging quantitative interdisciplinary fields in biosciences, ranging from experimental state-of-the-art techniques in microscopy, synthetic biology and systemic approaches to life sciences.
+**qbio** is centred on **hands-on practical courses and teaching by projects**, driven by outstanding researchers from Montpellier’s community.  Students will acquire advanced knowledge by performing small projects  and experiments in the field of imaging, bio engineering, bioinformatics and structural biology, integrated with mathematical and physical  modelling.
 
+We recruit  outstanding students from various backgrounds (biology, physics,  chemistry), who will benefit from an introductory “bootcamp” tailored to their background. At the end of the MSc, the students can apply for a PhD scholarship (3 years) at [doctoral schools](https://www.umontpellier.fr/en/education/doctoral-education) of the University of Montpellier to develop a PhD project within one of the research teams available in Montpellier.
 
+The **qbio** curriculum has been designed to be *highly innovative in pedagogical terms*. Discussions animated by the teachers, together with the observation and manipulation of *real* material and concrete difficulties will help the students to make the different subjects their own.
 
-## Topics
-
-"Projects" denotes a topic that could be tackled on the programming, imaging and synbio angle. Some of them could be done by student groups after an introduction from the teacher. **Bold** projects are compulsory for everyone. 
-
-There will be *optional* and **compulsory** projects. The **compulsory** projects will be those that are required for later stages in this module or for other subsequent modules.
-
-Projects in these UE will not be experimental.
-
-
-
-0. *Introduction:* Quantitative Biology as an inter- and multi-disciplinary meeting point of disciplines to analyse, integrate and construct complex biological behaviours.
-
-
-
-1. *Key concepts in biology*:
-- **Robustness**   
-- **Optimality**
-
-The concepts of Robustness and Optimality will be emphasised in each theme below.
-
-
-
-2. *Random walks and stochasticity in Biology*. We will first give an overview of the theory and some biological examples. We will use these examples to introduce the **basics of microscopy**:
-- **lenses, focal points, aperture, magnification, etc**
-- **imaging systems: widefield, confocal, etc**
-- **Diffraction, interference, diffraction barrier**
-Projects:
-	- ***Project: Basics of microscopy**: simulating ray tracing
-	
-	- ***Project: basic image processing in Python**
-	
-	- Project: Simulating interference patterns
-
-
-
-3. *Introduction to biological networks*. Broad overview.
-
-   
-
-4. *Transcription networks and gene regulation*. 
-
-- ***Project**: Measuring gene expression (single molecule/cell vs population)
-- ***Project**: Basics of genome-wide data processing, exploring sequenced genomes and look for promoters, make logo plots, etc etc
-- Project: Negative Feedback
-- Project: Bistability and Memory (intro to biocomputing)
-- Project: Imaging Spatial patterning in development - Drosophila (volumetric 3D, 2P?)
-- Project: Measuring protein dynamics in vitro and in vivo (FCS/ FRAP)
-- Project: Kinetic proofreading
-
-
-
-5. *Genome Biophysics*
-
-- **DNA structure**
-
-- **epigenetics**
-
-- **modeling DNA**
-
-- **cis-regulatory elements**
-
-  Projects:
-
-  - Project: Genetic design
-  - Project: detect chipSeq peaks and classify.
-  - Project: Reconstructing trajectories from single molecule localizations of ParB
-  - Project: Imaging Spatial patterning I slackn Drosophila (volumetric 3D, 2P?)
-  - Project: segmenting PSF using astropy
-  - Project: segmenting DAPI masks using stardist
-
-
-
-6. Membrane Biophysics
-
-- **Life in 2D: structure and function**
-- **To be decided**: Basics of AFM? 
-Projects:
-    - Project: Imaging single molecule dynamics in plant roots
-    - Project: Bacterial chemotaxis
-	- Project: Something about lipid rafts?
-	
-
-
-
-## Teachers
-
-- Luca Ciandrini
-- Marcelo Nollmann
-- PEM?
-
-
-
-## Evaluation
-
-Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + final exam (30%).
-
-
-
-### Bibliography (books only)
-
-1. An introduction to Systems Biology, Uri Alon
-2. Physical Biology of the cell, R. Phillips et al.
-3. Cell biology by the numbers, R. Milo and R. Phillips
-4. Random Walks in Biology, Howard
+Students will be part of a vibrant and growing community built around them. They will have the possibility to exchange with local and international  researchers during their projects and research seminars, but also profit from a group retreat each year, have the possibility to organise a  conference and obtain scholarship for a paid internship. Furthermore,  students will have the possibility to integrate the iGEM team of the  University of Montpellier to take part in this [international student competition](https://igem.org/Competition).
 
