@@ -38,4 +38,6 @@ Otherwise, follow the clone of this lab in your local jupyter lab by opening [PI
 ## Lecture series can be found at:
 
 - [Scipy](http://scipy-lectures.org/)
-- [Machine Learning workshop by CBS and MRI](https://montpellierressourcesimagerie.github.io/mri-workshop-machine-learning/)
+- Introduction on [Machine Learning with python](https://montpellierressourcesimagerie.github.io/mri-workshop-machine-learning/) JB Fiche, F Pedaci and V Baecker.
+- YouTube tutorials on python and python packages by [DigitalSreeni](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w).
+
