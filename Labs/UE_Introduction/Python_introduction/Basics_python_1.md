@@ -28,7 +28,14 @@ Many websites provide hands-on instructions to setup up your environment to work
   - [MOLssi](https://education.molssi.org/python-data-analysis/03-data-fitting/index.html) 
 
 
-## Lectures
 
-Lecture series can be found at:
+## Jupyter Notebooks
+
+See the excellent introduction on jupyter notebooks from Volker Baecker [here](https://colab.research.google.com/github/MontpellierRessourcesImagerie/python_in_an_hour/blob/master/PIAH_01_jupyter.ipynb).
+
+Otherwise, follow the clone of this lab in your local jupyter lab by opening [PIAH_01_jupyter.ipynb](PIAH_01_jupyter.ipynb).
+
+## Lecture series can be found at:
+
 - [Scipy](http://scipy-lectures.org/)
+- [Machine Learning workshop by CBS and MRI](https://montpellierressourcesimagerie.github.io/mri-workshop-machine-learning/)

@@ -63,7 +63,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 | Name                       | Status | Workers | Description                                                  |
 | -------------------------- | ------ | ------- | ------------------------------------------------------------ |
-| Python crash introduction | up | Marcelo | A basic introduction to installing python, using numpy, matplotlib, reading files, and fitting functions |
+| Python_introduction | up | Marcelo | A basic introduction to installing python, using numpy, matplotlib, reading files, and fitting functions |
 | widefield | planned | Marcelo, Antoine | |
 | TIRF | planned | Marcelo, Antoine | |
 | confocal | planned | Marcelo, Manu | |
