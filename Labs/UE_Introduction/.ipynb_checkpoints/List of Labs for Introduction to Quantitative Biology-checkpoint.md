@@ -29,44 +29,50 @@ This file will contain the updated list of Labs available for this UE.
 
 **Bootcamp pre-requisites**
 
-Lenses, focal points, apertures, magnification, Fourier space, diffraction, interference.
+Lenses, focal points, apertures, magnification, filters, Fourier space, diffraction, interference.
 
 **Tutorials**
 
-1. Imaging systems: 
+1. Biological fluorescence
+
+   1. Fluorescence
+   2. Labeling methods
+   
+2. Imaging systems: 
 
    1. widefield  ```LAB: widefield``` 
    2. TIRF ```LAB: TIRF``` 
    3. confocal ```LAB: confocal```
    4. Kohler illumination. ```LAB: Kohler```
 
-2. Super-resolution microscopies
+3. Super-resolution microscopies
    1. STED.
    2. SIM. ```LAB: Calculating the resolution gain by SIM```
    3. SMLM. ```LAB: Localization of sources in 2D```. ```LAB: transcription factor diffusion```
 
-3. Basics of image segmentation
+4. Basics of image segmentation
 
    1. Thresholding and watershed. ```LAB: Segmenting nuclei by threshold```
    2. AI-based segmentation. ```LAB: Segmenting nuclei by AI```
 
-4. Basics of fluorescence fluctuation.
+5. Basics of fluorescence fluctuation.
 
-5. Basics of near-field microscopies (AFM).
+6. Basics of near-field microscopies (AFM).
 
    
 
 | Name                       | Status | Workers | Description                                                  |
 | -------------------------- | ------ | ------- | ------------------------------------------------------------ |
+| Python crash introduction | up | Marcelo | A basic introduction to installing python, using numpy, matplotlib, reading files, and fitting functions |
 | widefield | planned | Marcelo, Antoine | |
 | TIRF | planned | Marcelo, Antoine | |
-| confocal | planned | Marcelo, Antoine | |
+| confocal | planned | Marcelo, Manu | |
 | Kohler | planned | Marcelo, Antoine | |
-| Loading images  in Python | planned | Marcelo |This lab will show how to load and display an image in python|
+| Loading images  in Python [Load_image] | up | Marcelo |This lab will show how to load and display an image in python|
 | Basic image processing in Python | planned | Marcelo |This lab will show how to perform basic image processing in python|
 | Working with many images         | planned | Marcelo |This lab will show how to load and process a folder of images|
-| Localization of sources in 2D | up     | Marcelo | This lab will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
-| Segmentation of nuclei by threshold | planned     | Marcelo | This lab will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
+| Localization of sources in 2D [SMLM_tutorial1] | up     | Marcelo | This lab will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
+| Segmentation of nuclei by threshold | done     | Marcelo | This lab will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
 | Segmentation of nuclei by AI | planned     | Marcelo, JB | This lab will show students how to segment extended nuclei using starDist|
 | Calculating the resolution gain by SIM | planned | Marcelo, Antoine | This lab will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space |
 |                                        |         |                  ||
@@ -96,13 +102,15 @@ Lenses, focal points, apertures, magnification, Fourier space, diffraction, inte
    3. Examples.
 3. Nucleosomes and epigenetics
 4. Transcription factors: general and developmental TFs
+   
    1. TF diffusion using sptPALM.  ```LAB: transcription factor diffusion```
 5. cis-regulatory elements
 6. Higher-order chromatin structure:
    1. 3C-based methods. ```LAB: displaying contact maps using Cooler```
    2. Hi-M, ORCA. ```LAB: Calculating PWD maps from localization Tables```
 7. Modeling chromatin: cellular models using polymer dynamics, comparisons to experiments (HiC/ microscopy).  ```LAB: modeling chromatin```
-8. 
+
+   
 
 | Name                       | Status | Workers | Description |
 | -------------------------- | ------ | ------- | ----------|
