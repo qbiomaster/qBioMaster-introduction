@@ -64,9 +64,9 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | Name                       | Status | Workers | Description                                                  |
 | -------------------------- | ------ | ------- | ------------------------------------------------------------ |
 | Python_introduction | up | Marcelo | A basic introduction to installing python, using numpy, matplotlib, reading files, and fitting functions |
-| widefield | planned | Marcelo, Antoine | |
-| TIRF | planned | Marcelo, Antoine | |
-| confocal | planned | Marcelo, Manu | |
+| widefield | up | Marcelo, Antoine | Tutorial on widefield microscopy: `needs images` |
+| TIRF_microscopy.ipynb                  | up | Marcelo, Antoine | Tutorial on TIRFM microscopy: `needs images` |
+| confocal_microscopy.ipynb              | up      | Marcelo, Manu | Tutorial on confocal microscopy. `needs images` |
 | Kohler | planned | Marcelo, Antoine | |
 | Load_image.ipynb | up | Marcelo |This lab will show how to load and display an image in python|
 | Basic_image_processing.ipynb | planned | Marcelo |This lab will show how to perform basic image processing in python|
