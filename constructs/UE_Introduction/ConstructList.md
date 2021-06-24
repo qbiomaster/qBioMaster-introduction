@@ -36,29 +36,23 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
    1. principles of fluorescence
    2. labeling methods
    3. widefield microscopy
-
-2. Basics of image processing
+2. Basics of image processing.
 
    1. [Load images](Load_image.ipynb)
    2. [Manipulate images](Basic_image_processing.ipynb)
    3. [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb)
    4. AI-based segmentation. ```construct: Segmenting nuclei by AI```
-
-3. Advanced imaging systems
+3. Advanced imaging systems.
    2. [TIRF microscopy](TIRF_microscopy.ipynb) 
    3. [Confocal microscopy](confocal_microscopy.ipynb)
-
-4. Super-resolution microscopies
+4. Super-resolution microscopies.
    1. [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb)
    2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb)
    3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb)
-
 5. Basics of fluorescence fluctuation.
-
+   
    1. 
-
 6. Basics of near-field microscopies (AFM).
-
    1. 
 
    
@@ -98,7 +92,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 1. DNA.
 
-   1. What is DNA? `construct: Basics_DNA`
+   1. [What is DNA?](Basics_DNA.ipynb)
    2. DNA as a polymer, FJC and WLC models. `construct: modeling_DNA`
    3. Bacterial chromosome organization. `construct: bacterialChromosome`
 
@@ -133,7 +127,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 | Name                       | Status | Workers | Description |
 | -------------------------- | ------ | ------- | ----------|
-| Basics_DNA | planned | marcelo | Introduce DNA: Structure and function. |
+| [What is DNA?](Basics_DNA.ipynb)  | up | marcelo | Introduce DNA: Structure and function. |
 | modeling_DNA                   | planned | marcelo | DNA as a polymer. This construct will show how to produce WLC models and display simulated force extension curves. |
 | bacterialChromosome           | planned | marcelo/ JB? | Bacterial chromosome structure.  Machines in charge of DNA management: topisomerases, replication, transcription, segregation. Activity: structure of ParB using SMLM. |
 | magTweezers_manipulateDNA      | planned | marcelo |Introduction to magnetic tweezers. Activity: load a dataset of extension curves from single-molecule experiments and perform basic display and analysis (e.g. velocity)|
@@ -164,20 +158,9 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 - Luca Ciandrini
 - Marcelo Nollmann
-- PEM?
+- Pierre-Emmanuel Milhiet
 
 
 
-## Evaluation
 
-Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + final exam (30%).
-
-
-
-### Bibliography (books only)
-
-1. An introduction to Systems Biology, Uri Alon
-2. Physical Biology of the cell, R. Phillips et al.
-3. Cell biology by the numbers, R. Milo and R. Phillips
-4. Random Walks in Biology, Howard
 
