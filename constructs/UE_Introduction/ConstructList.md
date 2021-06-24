@@ -31,25 +31,27 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 **Tutorials**
 
-1. Biological fluorescence
-   1. Fluorescence. `construct: fluorescence`
-   2. Labeling methods. `construct: labeling_methods`
-   
+1. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb). This construct will introduce:
+
+   1. principles of fluorescence
+   2. labeling methods
+   3. widefield microscopy
+
 2. Basics of image processing
 
-   1. Load and manipulate images. `construct: Load_image` `Basic_image_processing`
-   2. Image processing-based segmentation. `construct: Segmentation_masks_imageAnalysis`
-   3. AI-based segmentation. ```construct: Segmenting nuclei by AI```
+   1. [Load images](Load_image.ipynb)
+   2. [Manipulate images](Basic_image_processing.ipynb)
+   3. [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb)
+   4. AI-based segmentation. ```construct: Segmenting nuclei by AI```
 
-3. Imaging systems
-   1. widefield  ```construct: widefield_microscopy``` 
-   2. TIRF ```construct: TIRF_microscopy``` 
-   3. confocal ```construct: confocal_microscopy```
+3. Advanced imaging systems
+   2. [TIRF microscopy](TIRF_microscopy.ipynb) 
+   3. [Confocal microscopy](confocal_microscopy.ipynb)
 
 4. Super-resolution microscopies
-   1. Structured illumination microscopy (SMLM). `construct: SIM_microscopy`
-   2. Single-molecule localization microscopy (SIM). `construct: SMLM_tutorial`
-   3. Stimulated emission depletion microscopy (STED). 
+   1. [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb)
+   2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb)
+   3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb)
 
 5. Basics of fluorescence fluctuation.
 
@@ -64,19 +66,17 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 | Name                       | Status | Workers | Description                                                  |
 | -------------------------- | ------ | ------- | ------------------------------------------------------------ |
-| Python_introduction | up | Marcelo | A basic introduction to installing python, using numpy, matplotlib, reading files, and fitting functions |
-| fluorescence | planned | Antoine |  |
-| labeling_methods | planned |  |  |
-| Load_image.ipynb | up | Marcelo |This construct will show how to load and display an image in python|
-| Basic_image_processing.ipynb | up | Marcelo |This construct will show how to perform basic image processing in python|
-| widefield_microscopy.ipynb | up | Marcelo | Tutorial on widefield microscopy: `needs images` |
-| TIRF_microscopy.ipynb                  | up | Marcelo | Tutorial on TIRFM microscopy: `needs images` |
-| confocal_microscopy.ipynb              | up      | Marcelo | Tutorial on confocal microscopy. `needs images` |
-| Segmentation_masks_imageAnalysis.ipynb | up    | Marcelo | This construct will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
+| [Python_introduction](../../docs/Python_introduction/Basics_python_1.md) | up | Marcelo | A basic introduction to installing python, using numpy, matplotlib, reading files, and fitting functions |
+| [Load images](Load_image.ipynb)                              | up | Marcelo |This construct will show how to load and display an image in python|
+| [Load and manipulate images](Basic_image_processing.ipynb)   | up | Marcelo |This construct will show how to perform basic image processing in python|
+| [Widefield fluorescence_microscopy](Fluorescence_microscopy.ipynb) | up | Marcelo | Introduction on fluorescence microscopy with practical: `needs images` |
+| [TIRF microscopy](TIRF_microscopy.ipynb) | up | Marcelo | Tutorial on TIRFM microscopy: `needs images` |
+| [Confocal microscopy](confocal_microscopy.ipynb)             | up      | Marcelo | Tutorial on confocal microscopy. `needs images` |
+| [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb) | up    | Marcelo | This construct will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
 | Segmentation of nuclei by AI | planned     | JB | This construct will show students how to segment extended nuclei using starDist|
-| SMLM_tutorial.ipynb | up     | Marcelo | This construct will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
-| SIM_microscopy.ipynb                   | up | Marcelo | This construct will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space: `needs images` |
-| STED_microscopy.ipynb | planned | JB? ||
+| [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb) | up     | Marcelo | This construct will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
+| [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) | up | Marcelo | This construct will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space: `needs images` |
+| [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) | planned | marcelo/ JB? |Introduction to STED microscopy with practical.  `needs images and most content`|
 |                                        |         |                  ||
 | | | ||
 | | | ||
@@ -135,7 +135,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | -------------------------- | ------ | ------- | ----------|
 | Basics_DNA | planned | marcelo | Introduce DNA: Structure and function. |
 | modeling_DNA                   | planned | marcelo | DNA as a polymer. This construct will show how to produce WLC models and display simulated force extension curves. |
-| bacterialChromosome           | planned | marcelo/ Antoine | Bacterial chromosome structure.  Machines in charge of DNA management: topisomerases, replication, transcription, segregation. Activity: structure of ParB using SMLM. |
+| bacterialChromosome           | planned | marcelo/ JB? | Bacterial chromosome structure.  Machines in charge of DNA management: topisomerases, replication, transcription, segregation. Activity: structure of ParB using SMLM. |
 | magTweezers_manipulateDNA      | planned | marcelo |Introduction to magnetic tweezers. Activity: load a dataset of extension curves from single-molecule experiments and perform basic display and analysis (e.g. velocity)|
 | opticalTweezers_protein_stepSize | planned | marcelo/ Ashley? |Introduction to optical tweezers to study motors. Activity: load traces and calculate motor step sizes.|
 | nucleosomeParticle | planned | marcelo/ Diego? |Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
