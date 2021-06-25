@@ -148,7 +148,7 @@ Gives the basics of Random Walks in biology, with a particular example to be inv
 
 
 
-### Basics of microscopy (XXh - MN)
+### Basics of microscopy (8h - MN)
 
 #### Fluorescence_microscopy (1h)
 
@@ -294,31 +294,31 @@ Work in progress.
 
 ---
 
-### Genome Biophysics (xxh - MN)
+### Genome Biophysics (8h - MN)
 
-1. DNA.
+1. DNA (1.5h).
 
    1. What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. DNA in biotechnology: DNA origami.
    2. DNA is a polymer. Models to understand the mechanical properties of DNA. Freely jointed chain and worm like chain models. `construct: modeling_DNA`
    3. How can DNA build a chromosome? Bacterial chromosome organization as a simple model system. Chromosome choreography. Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. `construct: bacterialChromosome`
 
-2. Manipulating DNA.
+2. Manipulating DNA (1.5h).
    1. DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell? Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. `construct: magTweezers_manipulateDNA`
    2. Molecular motors that push DNA around. Use of optical tweezers to understand the mechanisms of molecular motors: translocases and DNA packaging motors. `opticalTweezers_protein_stepSize`
 
-3. Nucleosomes and epigenetics.
+3. Nucleosomes and epigenetics (1h).
 
    1. First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. `construct: nucleosomeParticle` 
    2. What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Catalogue of the most relevant histone modifications. `construct: histoneModifications`
    3. Proteins that can read and write histone modifications. How do they work? Examples from single molecule manipulation, and fluorescence. `construct: chromatinModifiers`
 
-4. Transcription factors.
+4. Transcription factors (1.5h).
 
    1. What is a transcription factor? what are general and developmental TFs? Why so many? `construct: transcriptionFactors_introduction `
    2. How can we study the dynamics of TFs? Are they always bound to their targets? Study on the diffusion of TFs using sptPALM.  `construct: transcriptionFactorDiffusion`
    3. What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. `construct: mappingCREs_ChipSeq`.
 
-5. Higher-order chromatin structure.
+5. Higher-order chromatin structure (1.5h).
    1. Chromosome territories. Intermediates scales between nucleosomes and territories. Methods to detect organization at these meso-scales. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). Topological associated domains and compartments. ```construct: plotContactMaps```
    2. Localization of genes in the nucleus affect its function. How can DNA-FISH/FROS-based methods be used to detect localization of genomic regions in the nucleus? How can we measure physical distances from the localization of genomic spots? `construct: measureContactFrequencyMicroscopy`
    3. Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can condensins modulate the higher order organization of bacterial chromosomes? `construct: ParB_condensin_bacteria`
