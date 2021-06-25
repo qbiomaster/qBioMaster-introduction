@@ -150,86 +150,103 @@ Gives the basics of Random Walks in biology, with a particular example to be inv
 
 ### Basics of microscopy (XXh - MN)
 
-#### Imaging systems
+#### Fluorescence_microscopy (1h)
 
-##### Lab:  ```LAB: widefield``` TIRF ```LAB: TIRF```  ```LAB: confocal``` ```LAB: Kohler```
+*Objectives: *
+   1. principles of fluorescence
+   2. labeling methods
+   3. widefield microscopy
 
-*Objective:* Introduction to imaging systems. Widefield. TIRF. Confocal. Illumination systems.
-
-*Time:* During the class? Demonstration by the teacher?
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
 
 *How:*  Jupyter notebook, step-by-step
+1. [Widefield fluorescence_microscopy](constructs/UE_Introduction/Fluorescence_microscopy.ipynb)
 
 *Evaluation:* not evaluated
 
-*Outline:* To be done
+*Outline:* 
+- Learn the basics of luminescence/fluorescence (Jablosky diagram)
+- Learn about the existing methods for labeling biological molecules, and the relative advantages of each of them
+- Learn about filters and dichroics, sources and cameras.
+- Learn how a widefield microscope is built.
+- What is the intrinsic resolution of a widefield microscope.
 
+#### Basics of image processing (1h)
 
+*Objectives:*
 
-#### Super-resolution microscopies
+- Basic principles of image manipulation in python
+- Methods for detecting objects
 
-##### Lab: ```LAB: Calculating the resolution gain by SIM``` ```LAB: Localization of sources in 2D```. ```LAB: transcription factor diffusion```
-
-*Objective:* Introduction to super-resolution methods. SMLM: PALM/STORM, etc. SIM. STED.
-
-*Time:* During the class? Demonstration by the teacher?
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
 
 *How:*  Jupyter notebook, step-by-step
+   1. [Learn how to load images](constructs/UE_Introduction/Load_image.ipynb)
+   2. [Learn how to manipulate images](constructs/UE_Introduction/Basic_image_processing.ipynb)
+   3. [Image processing-based segmentation](constructs/UE_Introduction/Segmentation_masks_imageAnalysis.ipynb)
+   4. AI-based segmentation. ```construct: Segmenting nuclei by AI```
 
 *Evaluation:* not evaluated
 
-*Outline:* To be done
+*Outline:*
+-  You will start by following the constructs to load images and learn the basics of image manipulation.
+- You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional methods, such as thresholding and watershed.
+-  Finally, you will learn how to apply deep learning algorithms to segment nuclei.
 
+#### Advanced imaging systems (1.5h)
 
+*Objectives:*
 
-#### Basics of image segmentation
+- Discover more sophisticated imaging techniques that enable background removal.
+- Understand when to apply each method.
+- Understand the physical principles behind these methods
 
-##### Lab: ```LAB: Segmenting nuclei by threshold```  ```LAB: Segmenting nuclei by AI```
-
-##### *Objective:* Introduction to image segmentation. 
-
-*Time:* During the class? Demonstration by the teacher?
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
 
 *How:*  Jupyter notebook, step-by-step
+   1. [TIRF microscopy](constructs/UE_Introduction/TIRF_microscopy.ipynb) 
+   2. [Confocal microscopy](constructs/UE_Introduction/confocal_microscopy.ipynb)
 
 *Evaluation:* not evaluated
 
-*Outline:* To be done
+*Outline:*
+- Follow video lecture on total internal reflection microscopy underlying the basic principles of the method and when to apply it, and answer questions to make sure you understand the basic concepts.
+- Calculate the depth of field in a widefield and a TIRF image. Compare and conclude.
+- Measure the resolution of diffraction limited spots
+- Follow tutorial on confocal microscopy: how are fluorophores excited? how are images build? what kind of detectors are used? How do you scan the sample? What is a pinhole for?
+- Calculate the excitation profile of a confocal microscope and compare to widefield excitation
+- Estimate the 3D resolution in confocal and compare to widefield microscopy.
 
+#### Super-resolution microscopies (2.5h)
 
+*Objectives:*
+- What is the resolution limit imposed by light diffraction?
+- Understand why and when higher spatial resolutions are needed in microscopy
+- Grasp the basic physical concepts behind three well-established super-resolution methods
+- When should you use each?
 
-1. Thresholding and watershed. AI-based segmentation.Basics of fluorescence fluctuation.
-
-##### Lab: `fluctuation microscopy  `
-
-*Objective:* Introduction to fluctuation methods. Fixed point FCS, FCCS; scanning FCS.
-
-*Time:* During the class? Demonstration by the teacher?
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
 
 *How:*  Jupyter notebook, step-by-step
+      1. [Single-molecule localization microscopy (SMLM)](constructs/UE_Introduction/SMLM_microscopy.ipynb)
+      2. [Structured illumination microscopy (SIM)](constructs/UE_Introduction/SIM_microscopy.ipynb)
+      3. [Stimulated emission depletion microscopy (STED)](constructs/UE_Introduction/STED_microscopy.ipynb)
 
 *Evaluation:* not evaluated
 
-*Outline:* To be done
+*Outline:*
+- Follow tutorials on SMLM, SIM and STED microscopies and answer questionnaires.
+- Calculate the resolution gained for each of these methods
+- Localize single molecules from a single-source dataset
+- Read additional resources with examples of how these methods can be used to gain biological insight.
 
-*Dependencies:* diffusion, Brownian motion, correlation function, confocal microscopy.
+#### Basics of fluorescence fluctuation.
 
-
+   1. 
 
 #### Basics of near-field microscopies (AFM).
 
-##### Lab: `near-field microscopy  `
-
-*Objective:* Introduction to near-field microscopies 
-
-*Time:* During the class? Demonstration by the teacher?
-
-*How:*  Jupyter notebook, step-by-step
-
-*Evaluation:* not evaluated
-
-*Outline:* To be done
-
+   1. 
 
 
 
