@@ -130,7 +130,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | [What is DNA?](Basics_DNA.ipynb)  | up | marcelo | Introduce DNA: Structure and function. |
 | modeling_DNA                   | planned | marcelo | DNA as a polymer. This construct will show how to produce WLC models and display simulated force extension curves. |
 | bacterialChromosome           | planned | marcelo/ JB? | Bacterial chromosome structure.  Machines in charge of DNA management: topisomerases, replication, transcription, segregation. Activity: structure of ParB using SMLM. |
-| magTweezers_manipulateDNA      | planned | marcelo |Introduction to magnetic tweezers. Activity: load a dataset of extension curves from single-molecule experiments and perform basic display and analysis (e.g. velocity)|
+| [DNA_supercoiling](DNA_supercoiling.ipynb) | planned | marcelo |Introduction to magnetic tweezers. Activity: load a dataset of extension curves from single-molecule experiments and perform basic display and analysis (e.g. velocity)|
 | opticalTweezers_protein_stepSize | planned | marcelo/ Ashley? |Introduction to optical tweezers to study motors. Activity: load traces and calculate motor step sizes.|
 | nucleosomeParticle | planned | marcelo/ Diego? |Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
 | histoneModifications | planned | marcelo |Basics of histone modifications and epigenetics.|
