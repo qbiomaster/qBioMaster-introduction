@@ -4,35 +4,58 @@
 
 ## OVERVIEW
 
+The UE Imaging Biological Systems is organized around three sections with increasing levels of complexity:
+
+​	In section I. the students will be taught the good practices when handling potentially hazardous or fragile instruments and will learn how to align optics and characterize them. 
+
+​	In section II. they will design and build an imaging setup (among which a TIRF, a confocal and an AFM). Then they will use it to run simple experiments.
+
+​	In section III. the students will use advanced microscopes used routinely by researchers at CBS. They will design the experiment, participate in the sample preparation and then run the experiment and analyse the data.
+
 | Name | Hours | Status | Teachers | Description |
 | ------------ |----| ------ | ------- | ----------- |
-| Basics | 3h CM + 2h TP |       |         | Safety & Good practice |
-| Build a setup | 4h TD + 12h TP + 4h? |      |         | TIRF/Confocal/AFM |
-| Practicals | 5h TD + ~2x5h TP |      |         | SMLM/FCS/AFM |
+| I. Basics | 1h CM + 4h TP = **5 hours** |       |         | Safety & Good practices |
+| II. Build a setup | 4h TD + 12h TP = **16 hours** |      |         | TIRF/Confocal/AFM |
+| III. Practicals | 5h TD + ~2x5h TP = **15 hours** |      |         | SMLM/FCS/AFM |
 
-## List of all Labs planned
-
-
-
-### Basics - 3h
-
-* CM 1h : Laser safety + optics handling
-* TP 2h (3 groups) : Good practices = how to align a laser, lens, iris, etc...
+## List of all Labs 
 
 
 
-### Build a setup - 14h
+### I. Basics - 5h
+
+* CM 1h : Laser safety + optics handling + objective nomenclature
+* TP 4h (3 groups) : 
+  * Good practices = how to align a laser, lens, iris, targets, etc...
+  * Set up a telescope (Keplerian vs Galilean telescope)
+  * Measure a laser beam waist and divergence
+  * Identify laser polarization (linear, circular, ...)
+  * Check dichroic transmission with angle?
+  * Measure a laser beam spectrum vs LED vs white light?
+
+
+
+### II. Build a setup - 14h
 
 | Setup | Experiments | Teachers | Comments |
 | ----- | ----------- | -------- | ----------- |
 | TIRF build+calibrate (beads, grid) | Image nuclear pore complex and cell membrane in Epi vs TIRF | Antoine |             |
-| Confocal build+calibrate (beads, grid) | Image nuclear pore complex and cell membrane | Manu ||
+| Confocal build+calibrate | Characterize concentration of free dyes in solution | Manu ||
 | AFM build+calibrate | Image lipid bilayers? Cell membrane | Luca ||
 
 * TD 2h Introduction 
 
-  *  Optics formula
-  *  How to measure beam waste
+  *  Optics formula to characterize the system:
+     *  Size BFP, objective focal length, objective FOV
+     *  Beam expansion (FOV illumination or BFP coverage)
+     *  Nyquist (cam pix size)
+     *  
+  *  Optical aberrations and how to identify them:
+     *  spherical, 
+     *  astigmatism, 
+     *  coma, 
+     *  chromatism, 
+     *  etc...
   *  Setup simulation tools
   *  
 
@@ -48,7 +71,7 @@
   
 * Oral restitution + written report
 
-### Practicals - 23h
+### III. Practicals - 23h
 
 | Setup | TP1 | Teacher | TP2 |Teacher |
 | ---- | ------ | ------- | ----------- |----------- |
