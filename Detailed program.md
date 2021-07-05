@@ -56,11 +56,11 @@ Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + fi
 
 (In parenthesis the number of hours, 1 lecture is 1.5h)
 
-[LC = Luca Ciandrini; MN = Marcelo Nollmann]
+[AA= Andrea Apolloni (CIRAD); LC = Luca Ciandrini; MN = Marcelo Nollmann; PEM = Pierre-Emmanuel Milhiet]
 
 
 
-### What is quantitative biology? (1.5h - LC) 
+### What is quantitative biology? (1h - LC) 
 
 Explain the course, introduce the teachers, projects, evaluation. Outline the course. Robustness and optimality. Quantitative reasoning, not just in biology but in everyday's life.
 
@@ -70,7 +70,7 @@ Give an estimate of how many litres of water per day you consume following your 
 
 *Objective:* learn how to look for data, how to analyse, present and discuss them. 
 
-*Time:* 1 week
+*Time:* 1-2 weeks
 
 *How:* Discord during the week, written report (2 pages max), Jupiter notebook. Quickly discuss the outcomes the week later. 
 
@@ -92,15 +92,26 @@ Give an estimate of how many litres of water per day you consume following your 
 
 ---
 
-### Biology meets mathematics and physics: modelling toolbox (3h45 - LC)
+### Biology meets mathematics and physics: modelling toolbox (4h - LC)
 
-#### Modelling with Ordinary Differential Equations (1h30)
+In this block we want to introduce a few different modelling approaches, and in particular emphasise the difference between deterministic and stochastic modelling. Those notions are relevant to the Synthetic Biology and Practical Modelling UEs.
 
-##### Lab: `Solving ODE (pencil and computer) `
+*Objectives:*
+
+1. Understand, formulate and analyse mathematical models based on ODEs, with basic analytical tools and numerically.
+2. Grasp the difference between deterministic and stochastic processes and being able to describe the notion of noise.
+3. Simulate a simple stochastic process (Gillespie algorithm) and compare to its deterministic variant.
+4. Understand a model based on PDEs.
+
+READING: D.J. Wilkinson, *"Stochastic modelling for quantitative description of heterogeneous biological systems"*, Nature Reviews (2009) [doi:10.1038/nrg2509](doi:10.1038/nrg2509)
+
+#### Modelling with Ordinary Differential Equations (2h)
+
+##### Project: `Solving ODE (pencil and computer) `
 
 The idea is to build this Lab on the Toggle Switch.
 
-*Objective:* Sketch a model based on ODE, simple solving techniques . Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines. Solve your system of equations with Python. 
+*Objective:* Sketch a model based on ODE, simple solving techniques. Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines. Solve your system of equations with Python. 
 
 *Time:*  During the class? Demonstration by the teacher?
 
@@ -108,17 +119,15 @@ The idea is to build this Lab on the Toggle Switch.
 
 *Evaluation:* not evaluated? 
 
-<!--We could leave a part at the end as a project. Or ask to do the same procedure for another genetic circuit later on during the course-->
-
 *Outline:* To be done
 
 
 
-#### Stochasticity or Noise in Biochemical reactions (1h30)
+#### Stochastic processes and Noise (1.5h)
 
-##### Lab: `Gillespie Algorithm  `
+##### Project: `Gillespie Algorithm  `
 
-*Objective:* Introduction to Monte Carlo methods. Understanding the concept of noise, learn how to simulate a stochastic biochemical reaction. Distributions, coefficient of variation.
+*Objective:* Introduction to Monte Carlo methods. Understanding the concept of noise, learn how to simulate a stochastic biochemical reaction. Distributions, coefficient of variation (and similar).
 
 *Time:* During the class? Demonstration by the teacher?
 
@@ -130,21 +139,35 @@ The idea is to build this Lab on the Toggle Switch.
 
 
 
-#### Modelling with Partial Differential Equations (45 min)
+#### Modelling with Partial Differential Equations (0.5h)
 
-Revise the concept of partial derivatives, in particular make the link to diffusion (macroscopic). 
+Very brief interlude. Revise the concept of partial derivatives, in particular make the link to diffusion (macroscopic). 
 
 
 
 ---
 
-### Random walks and stochasticity in Biology (XXh - LC/MN) 
+### Random walks in Biology (3h - LC) 
 
-We will first give an overview of the theory and some biological examples, that will be the introduction for the microscopy parts.
+We will first give an overview of the theory and some biological examples, that will then be used in the introduction "Basics of microscopy" and "Genome Biophysics" parts.
 
-#### Random Walks (? 1h30 - LC)
+#### Random Walks (1.5h - LC)
 
-Gives the basics of Random Walks in biology, with a particular example to be investigated in the Tutorials (or Labs). Intro to polymers?
+*Objective:* Give the basics of Random Walks in biology and emphasise the relation with the diffusion equation.
+
+*Time:* During the class.
+
+*How:*  Lecture with learning by peers and Jupyter notebook for step-by-step, visualisation of the lecture's concepts.
+
+#### Random Walk models of polymers (1.5h - LC)
+
+*Objective:* Understand the derivation and properties of the Freely Jointed Chain (FJC) and worm-like (WL) models.
+
+*Time:* During the class.
+
+*How:*  Lecture with learning by peers and Jupyter notebook for step-by-step, visualisation of the lecture's concepts.
+
+*Evaluation:* not evaluated
 
 
 
@@ -252,23 +275,51 @@ Gives the basics of Random Walks in biology, with a particular example to be inv
 
 ---
 
-### Introduction to Complex Networks (3h - LC)
+### Introduction to Complex Networks (3h - AA)
 
 Two lectures, one for a general introduction to complex networks, the other for applications to gene networks and metabolic networks.
 
-#### General Introduction on Complex Networks (1.5h - LC or external)
+1. Intro to network theory, with many applications (from traffic to epidemiology, relation with machine learning). Explain the concepts of directed *vs* indirected graph, different topologies, modularity, centrality index,... 
+2. Small world effect, communities and robustness
+3. Models for generating networks: Erdos, Renjy; Preferential attachment
 
-Intro to network theory, with many applications (from traffic to epidemiology, relation with machine learning). Explain the concepts of directed *vs* indirected graph, different topologies, modularity,... 
-
-##### Lab: `    TBD     `
+##### Project: `    TBD     `
 
 
+---
 
-#### Gene regulatory Network (1.5h - LC)
+### Gene Regulation - Robustness and Optimality (8h - LC)
 
-Where do you find networks in Biology? Focus on metabolic and genetic networks. What are their properties?
+#### Revisiting the Central Dogma (3h)
 
-##### Lab: `    Random or genetic network?     `
+1. Timescales of gene expression
+2. Gene regulation: Activator and Repressor, Hill functions, logic gates.
+3. Dynamics and response time of gene regulation
+4. Brief digression on translation regulation 
+
+
+
+#### Gene regulatory Networks (3h)
+
+Where do you find networks in Biology? Focus on metabolic and genetic networks. What are their properties? Network motifs.
+
+##### Project: `Growth and expression: Plate reader data  `
+
+*Objective:* 
+
+*Time:* During the class, demonstration by the teacher.
+
+*How:*  Jupyter notebook, step-by-step
+
+*Evaluation:* not evaluated
+
+*Outline:* To be done
+
+At the end of this project, explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
+
+
+
+##### Homework: `    Random or genetic network?     `
 
 *Objective:* import connectivity of a given GRN from *E.coli*. Plot it and compute relevant quantities (connectivity,...). Compare  to a ER network. 
 
@@ -282,11 +333,27 @@ Where do you find networks in Biology? Focus on metabolic and genetic networks. 
 
 
 
----
+##### Homework: `    Timescales of negative autoregulation     `
 
-### Gene Regulation - Robustness and Optimality (xxh - LC)
+Based on parts of https://www.biorxiv.org/content/10.1101/2021.04.09.439163v1 
 
-Work in progress.
+*Objective:* Merging the concepts learned in networks (negative feedback), gene regulation (timescales), simulations (Gillespie algorithm), stochasticity (noise, CV).
+
+*Time:* 2 weeks for this assignment
+
+*How:*  
+
+*Evaluation:* evaluated
+
+*Outline:* 
+
+
+
+
+
+#### Robustness of protein circuits (2h)
+
+Based on the regulation of bacterial chemotaxis
 
 
 
