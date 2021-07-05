@@ -56,11 +56,11 @@ Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + fi
 
 (In parenthesis the number of hours, 1 lecture is 1.5h)
 
-[LC = Luca Ciandrini; MN = Marcelo Nollmann]
+[AA= Andrea Apolloni (CIRAD); LC = Luca Ciandrini; MN = Marcelo Nollmann; PEM = Pierre-Emmanuel Milhiet]
 
 
 
-### What is quantitative biology? (1.5h - LC) 
+### What is quantitative biology? (1h - LC) 
 
 Explain the course, introduce the teachers, projects, evaluation. Outline the course. Robustness and optimality. Quantitative reasoning, not just in biology but in everyday's life.
 
@@ -70,7 +70,7 @@ Give an estimate of how many litres of water per day you consume following your 
 
 *Objective:* learn how to look for data, how to analyse, present and discuss them. 
 
-*Time:* 1 week
+*Time:* 1-2 weeks
 
 *How:* Discord during the week, written report (2 pages max), Jupiter notebook. Quickly discuss the outcomes the week later. 
 
@@ -92,15 +92,26 @@ Give an estimate of how many litres of water per day you consume following your 
 
 ---
 
-### Biology meets mathematics and physics: modelling toolbox (3h45 - LC)
+### Biology meets mathematics and physics: modelling toolbox (4h - LC)
 
-#### Modelling with Ordinary Differential Equations (1h30)
+In this block we want to introduce a few different modelling approaches, and in particular emphasise the difference between deterministic and stochastic modelling. Those notions are relevant to the Synthetic Biology and Practical Modelling UEs.
 
-##### Lab: `Solving ODE (pencil and computer) `
+*Objectives:*
+
+1. Understand, formulate and analyse mathematical models based on ODEs, with basic analytical tools and numerically.
+2. Grasp the difference between deterministic and stochastic processes and being able to describe the notion of noise.
+3. Simulate a simple stochastic process (Gillespie algorithm) and compare to its deterministic variant.
+4. Understand a model based on PDEs.
+
+READING: D.J. Wilkinson, *"Stochastic modelling for quantitative description of heterogeneous biological systems"*, Nature Reviews (2009) [doi:10.1038/nrg2509](doi:10.1038/nrg2509)
+
+#### Modelling with Ordinary Differential Equations (2h)
+
+##### Project: `Solving ODE (pencil and computer) `
 
 The idea is to build this Lab on the Toggle Switch.
 
-*Objective:* Sketch a model based on ODE, simple solving techniques . Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines. Solve your system of equations with Python. 
+*Objective:* Sketch a model based on ODE, simple solving techniques. Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines. Solve your system of equations with Python. 
 
 *Time:*  During the class? Demonstration by the teacher?
 
@@ -108,17 +119,15 @@ The idea is to build this Lab on the Toggle Switch.
 
 *Evaluation:* not evaluated? 
 
-<!--We could leave a part at the end as a project. Or ask to do the same procedure for another genetic circuit later on during the course-->
-
 *Outline:* To be done
 
 
 
-#### Stochasticity or Noise in Biochemical reactions (1h30)
+#### Stochastic processes and Noise (1.5h)
 
-##### Lab: `Gillespie Algorithm  `
+##### Project: `Gillespie Algorithm  `
 
-*Objective:* Introduction to Monte Carlo methods. Understanding the concept of noise, learn how to simulate a stochastic biochemical reaction. Distributions, coefficient of variation.
+*Objective:* Introduction to Monte Carlo methods. Understanding the concept of noise, learn how to simulate a stochastic biochemical reaction. Distributions, coefficient of variation (and similar).
 
 *Time:* During the class? Demonstration by the teacher?
 
@@ -130,35 +139,25 @@ The idea is to build this Lab on the Toggle Switch.
 
 
 
-#### Modelling with Partial Differential Equations (45 min)
+#### Modelling with Partial Differential Equations (0.5h)
 
-Revise the concept of partial derivatives, in particular make the link to diffusion (macroscopic). 
+Very brief interlude. Revise the concept of partial derivatives, in particular make the link to diffusion (macroscopic). 
 
 
 
 ---
 
-### Random walks and stochasticity in Biology (XXh - LC/MN) 
+### Random walks in Biology (3h - LC) 
 
-We will first give an overview of the theory and some biological examples, that will be the introduction for the microscopy parts.
+We will first give an overview of the theory and some biological examples, that will then be used in the introduction "Basics of microscopy" and "Genome Biophysics" parts.
 
-#### Random Walks (? 1h30 - LC)
+#### Random Walks (1.5h - LC)
 
-Gives the basics of Random Walks in biology, with a particular example to be investigated in the Tutorials (or Labs). Intro to polymers?
+*Objective:* Give the basics of Random Walks in biology and emphasise the relation with the diffusion equation.
 
+*Time:* During the class.
 
-
-### Basics of microscopy (XXh - MN)
-
-#### Imaging systems
-
-##### Lab:  ```LAB: widefield``` TIRF ```LAB: TIRF```  ```LAB: confocal``` ```LAB: Kohler```
-
-*Objective:* Introduction to imaging systems. Widefield. TIRF. Confocal. Illumination systems.
-
-*Time:* During the class? Demonstration by the teacher?
-
-*How:*  Jupyter notebook, step-by-step
+*How:*  Lecture with learning by peers and Jupyter notebook for step-by-step, visualisation of the lecture's concepts.
 
 *Evaluation:* not evaluated
 
@@ -166,15 +165,13 @@ Gives the basics of Random Walks in biology, with a particular example to be inv
 
 
 
-#### Super-resolution microscopies
+#### Random Walk models of polymers (1.5h - LC)
 
-##### Lab: ```LAB: Calculating the resolution gain by SIM``` ```LAB: Localization of sources in 2D```. ```LAB: transcription factor diffusion```
+*Objective:* Understand the derivation and properties of the Freely Jointed Chain (FJC) and worm-like (WL) models.
 
-*Objective:* Introduction to super-resolution methods. SMLM: PALM/STORM, etc. SIM. STED.
+*Time:* During the class.
 
-*Time:* During the class? Demonstration by the teacher?
-
-*How:*  Jupyter notebook, step-by-step
+*How:*  Lecture with learning by peers and Jupyter notebook for step-by-step, visualisation of the lecture's concepts.
 
 *Evaluation:* not evaluated
 
@@ -182,47 +179,148 @@ Gives the basics of Random Walks in biology, with a particular example to be inv
 
 
 
-#### Basics of image segmentation
+------
 
-##### Lab: ```LAB: Segmenting nuclei by threshold```  ```LAB: Segmenting nuclei by AI```
+### Basics of microscopy (8h - MN)
 
-##### *Objective:* Introduction to image segmentation. 
+#### Fluorescence_microscopy (1h)
 
-*Time:* During the class? Demonstration by the teacher?
+*Objectives:*
+
+   1. principles of fluorescence
+   2. labeling methods
+   3. widefield microscopy
+
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
 
 *How:*  Jupyter notebook, step-by-step
+1. [Widefield fluorescence_microscopy](constructs/UE_Introduction/Fluorescence_microscopy.ipynb)
 
 *Evaluation:* not evaluated
 
-*Outline:* To be done
+*Outline:* 
+- Learn the basics of luminescence/fluorescence (Jablosky diagram)
+- Learn about the existing methods for labeling biological molecules, and the relative advantages of each of them
+- Learn about filters and dichroics, sources and cameras.
+- Learn how a widefield microscope is built.
+- What is the intrinsic resolution of a widefield microscope.
 
+#### Basics of image processing (1h)
 
+*Objectives:*
 
-1. Thresholding and watershed. AI-based segmentation.Basics of fluorescence fluctuation.
+- Basic principles of image manipulation in python
+- Methods for detecting objects
 
-##### Lab: `fluctuation microscopy  `
-
-*Objective:* Introduction to fluctuation methods. Fixed point FCS, FCCS; scanning FCS.
-
-*Time:* During the class? Demonstration by the teacher?
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
 
 *How:*  Jupyter notebook, step-by-step
+   1. [Learn how to load images](constructs/UE_Introduction/Load_image.ipynb)
+   2. [Learn how to manipulate images](constructs/UE_Introduction/Basic_image_processing.ipynb)
+   3. [Image processing-based segmentation](constructs/UE_Introduction/Segmentation_masks_imageAnalysis.ipynb)
+   4. AI-based segmentation. ```construct: Segmenting nuclei by AI```
 
 *Evaluation:* not evaluated
 
-*Outline:* To be done
+*Outline:*
 
-*Dependencies:* diffusion, Brownian motion, correlation function, confocal microscopy.
+-  You will start by following the constructs to load images and learn the basics of image manipulation.
+- You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional methods, such as thresholding and watershed.
+-  Finally, you will learn how to apply deep learning algorithms to segment nuclei.
 
+#### Advanced imaging systems (1.5h)
 
+*Objectives:*
+
+- Discover more sophisticated imaging techniques that enable background removal.
+- Understand when to apply each method.
+- Understand the physical principles behind these methods
+
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
+
+*How:*  Jupyter notebook, step-by-step
+   1. [TIRF microscopy](constructs/UE_Introduction/TIRF_microscopy.ipynb) 
+   2. [Confocal microscopy](constructs/UE_Introduction/confocal_microscopy.ipynb)
+
+*Evaluation:* not evaluated
+
+*Outline:*
+- Follow video lecture on total internal reflection microscopy underlying the basic principles of the method and when to apply it, and answer questions to make sure you understand the basic concepts.
+- Calculate the depth of field in a widefield and a TIRF image. Compare and conclude.
+- Measure the resolution of diffraction limited spots
+- Follow tutorial on confocal microscopy: how are fluorophores excited? how are images build? what kind of detectors are used? How do you scan the sample? What is a pinhole for?
+- Calculate the excitation profile of a confocal microscope and compare to widefield excitation
+- Estimate the 3D resolution in confocal and compare to widefield microscopy.
+
+#### Super-resolution microscopies (2.5h)
+
+*Objectives:*
+- What is the resolution limit imposed by light diffraction?
+- Understand why and when higher spatial resolutions are needed in microscopy
+- Grasp the basic physical concepts behind three well-established super-resolution methods
+- When should you use each?
+
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
+
+*How:*  Jupyter notebook, step-by-step
+      1. [Single-molecule localization microscopy (SMLM)](constructs/UE_Introduction/SMLM_microscopy.ipynb)
+      2. [Structured illumination microscopy (SIM)](constructs/UE_Introduction/SIM_microscopy.ipynb)
+      3. [Stimulated emission depletion microscopy (STED)](constructs/UE_Introduction/STED_microscopy.ipynb)
+
+*Evaluation:* not evaluated
+
+*Outline:*
+- Follow tutorials on SMLM, SIM and STED microscopies and answer questionnaires.
+- Calculate the resolution gained for each of these methods
+- Localize single molecules from a single-source dataset
+- Read additional resources with examples of how these methods can be used to gain biological insight.
+
+#### Basics of fluorescence fluctuation.
+
+   1. 
 
 #### Basics of near-field microscopies (AFM).
 
-##### Lab: `near-field microscopy  `
+   1. 
 
-*Objective:* Introduction to near-field microscopies 
 
-*Time:* During the class? Demonstration by the teacher?
+
+---
+
+### Introduction to Complex Networks (3h - AA)
+
+Two lectures, one for a general introduction to complex networks, the other for applications to gene networks and metabolic networks.
+
+1. Intro to network theory, with many applications (from traffic to epidemiology, relation with machine learning). Explain the concepts of directed *vs* indirected graph, different topologies, modularity, centrality index,... 
+2. Small world effect, communities and robustness
+3. Models for generating networks: Erdos, Renjy; Preferential attachment
+
+##### Project: `    TBD     `
+
+
+
+---
+
+### Gene Regulation - Robustness and Optimality (8h - LC)
+
+#### Revisiting the Central Dogma (3h)
+
+1. Timescales of gene expression
+2. Gene regulation: Activator and Repressor, Hill functions, logic gates.
+3. Dynamics and response time of gene regulation
+4. Brief digression on translation regulation 
+
+
+
+#### Gene regulatory Networks (3h)
+
+Where do you find networks in Biology? Focus on metabolic and genetic networks. What are their properties? Network motifs.
+
+##### Project: `Growth and expression: Plate reader data  `
+
+*Objective:* 
+
+*Time:* During the class, demonstration by the teacher.
 
 *How:*  Jupyter notebook, step-by-step
 
@@ -230,28 +328,11 @@ Gives the basics of Random Walks in biology, with a particular example to be inv
 
 *Outline:* To be done
 
+At the end of this project, explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
 
 
 
----
-
-### Introduction to Complex Networks (3h - LC)
-
-Two lectures, one for a general introduction to complex networks, the other for applications to gene networks and metabolic networks.
-
-#### General Introduction on Complex Networks (1.5h - LC or external)
-
-Intro to network theory, with many applications (from traffic to epidemiology, relation with machine learning). Explain the concepts of directed *vs* indirected graph, different topologies, modularity,... 
-
-##### Lab: `    TBD     `
-
-
-
-#### Gene regulatory Network (1.5h - LC)
-
-Where do you find networks in Biology? Focus on metabolic and genetic networks. What are their properties?
-
-##### Lab: `    Random or genetic network?     `
+##### Homework: `    Random or genetic network?     `
 
 *Objective:* import connectivity of a given GRN from *E.coli*. Plot it and compute relevant quantities (connectivity,...). Compare  to a ER network. 
 
@@ -265,35 +346,68 @@ Where do you find networks in Biology? Focus on metabolic and genetic networks. 
 
 
 
+##### Homework: `    Timescales of negative autoregulation     `
+
+Based on parts of https://www.biorxiv.org/content/10.1101/2021.04.09.439163v1 
+
+*Objective:* Merging the concepts learned in networks (negative feedback), gene regulation (timescales), simulations (Gillespie algorithm), stochasticity (noise, CV).
+
+*Time:* 2 weeks for this assignment
+
+*How:*  
+
+*Evaluation:* evaluated
+
+*Outline:* 
+
+
+
+
+
+#### Robustness of protein circuits (2h)
+
+Based on the regulation of bacterial chemotaxis
+
+
+
+
+
 ---
 
-### Gene Regulation - Robustness and Optimality (xxh - LC)
+### Genome Biophysics (8h - MN)
 
-Work in progress.
+1. DNA (1.5h).
 
+   1. What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. DNA in biotechnology: DNA origami.
+   2. DNA is a polymer. Models to understand the mechanical properties of DNA. Freely jointed chain and worm like chain models. `construct: modeling_DNA`
+   3. How can DNA build a chromosome? Bacterial chromosome organization as a simple model system. Chromosome choreography. Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. `construct: bacterialChromosome`
 
+2. Manipulating DNA (1.5h).
+   1. DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell? Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. `construct: magTweezers_manipulateDNA`
+   2. Molecular motors that push DNA around. Use of optical tweezers to understand the mechanisms of molecular motors: translocases and DNA packaging motors. `opticalTweezers_protein_stepSize`
 
+3. Nucleosomes and epigenetics (1h).
 
+   1. First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. `construct: nucleosomeParticle` 
+   2. What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Catalogue of the most relevant histone modifications. `construct: histoneModifications`
+   3. Proteins that can read and write histone modifications. How do they work? Examples from single molecule manipulation, and fluorescence. `construct: chromatinModifiers`
 
----
+4. Transcription factors (1.5h).
 
-### Genome Biophysics (xxh - MN)
+   1. What is a transcription factor? what are general and developmental TFs? Why so many? `construct: transcriptionFactors_introduction `
+   2. How can we study the dynamics of TFs? Are they always bound to their targets? Study on the diffusion of TFs using sptPALM.  `construct: transcriptionFactorDiffusion`
+   3. What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. `construct: mappingCREs_ChipSeq`.
 
-1. DNA structure: DNA as a polymer, FJC and WLC models. ```LAB: modeling DNA```
-2. Manipulating DNA:
-   1. Magnetic tweezers.
-   2. Optical tweezers.
-   3. Examples.
-3. Nucleosomes and epigenetics
-4. Transcription factors: general and developmental TFs
-   1. TF diffusion using sptPALM.  ```LAB: transcription factor diffusion```
-5. cis-regulatory elements
-6. Higher-order chromatin structure:
-   1. 3C-based methods. ```LAB: displaying contact maps using Cooler```
-   2. Hi-M, ORCA. ```LAB: Calculating PWD maps from localization Tables```
-7. Modeling chromatin: cellular models using polymer dynamics, comparisons to experiments (HiC/ microscopy).  ```LAB: modeling chromatin```
+5. Higher-order chromatin structure (1.5h).
+   1. Chromosome territories. Intermediates scales between nucleosomes and territories. Methods to detect organization at these meso-scales. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). Topological associated domains and compartments. ```construct: plotContactMaps```
+   2. Localization of genes in the nucleus affect its function. How can DNA-FISH/FROS-based methods be used to detect localization of genomic regions in the nucleus? How can we measure physical distances from the localization of genomic spots? `construct: measureContactFrequencyMicroscopy`
+   3. Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can condensins modulate the higher order organization of bacterial chromosomes? `construct: ParB_condensin_bacteria`
+   4. Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. `construct: buildPairwiseDistanceMaps`
 
+6. Modeling chromatin. `--> this section may go away the first year?`
 
+   1. cellular models using polymer dynamics.   `construct: modeling chromatin`
+   2. comparisons to experiments (HiC/ microscopy).
 
 ### Membrane Biophysics (xxh - PEM?)
 
