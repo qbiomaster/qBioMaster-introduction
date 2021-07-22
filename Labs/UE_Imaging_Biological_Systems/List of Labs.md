@@ -12,7 +12,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 ​	In section III. the students will use advanced microscopes used routinely by researchers at CBS. They will design the experiment, participate in the sample preparation and then run the experiment and analyse the data.
 
-| Name | Hours | Status | Teachers | Description |
+| Sections | Hours | Status | Teachers | Description |
 | ------------ |----| ------ | ------- | ----------- |
 | I. Basics | 1h CM + 4h TP = **5 hours** |       |         | Safety & Good practices |
 | II. Build a setup | 4h TD + 12h TP = **16 hours** |      |         | TIRF/Confocal/AFM |
@@ -75,7 +75,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 | Setup | TP1 | Teacher | TP2 |Teacher |
 | ---- | ------ | ------- | ----------- |----------- |
-|  PALM  | STORM | JB / Christine | spt-PALM | JB / Christine |
+|  PALM  | STORM : NPC | JB / Christine | spt-PALM : ParA/ParB, Plants?, Pol/Rho? | JB / Christine |
 |  FCS    | FCS | Caro | N&B, RICS, FRET | Caro |
 |  AFM-JPK  | AFM | Cédric / PEM | AFM+Fluo | Cédric / PEM |
 
@@ -96,3 +96,13 @@ The UE Imaging Biological Systems is organized around three sections with increa
 * Data analysis + report preparation
 
 * Oral restitution + written report
+
+
+| TP | Experiment | Analysis |
+| ---- | ------ | ------- |
+| STORM | NPC | Reconstruction with Thunderstorm |
+| SPT | ParA-mEos3.2 | Track reconstruction + MSD analysis |
+| FCS | ??? | Autocorrelation + Fit models of diffusion |
+| smFRET | ??? | ??? |
+| AFM-JPK | ??? | ??? |
+| AFM+Fluo | ??? | ??? |
