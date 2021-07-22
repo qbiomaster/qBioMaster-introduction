@@ -24,7 +24,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 ### I. Basics - 5h
 
-* CM 1h : Laser safety + optics handling + objective nomenclature
+* CM 1h : Laser safety + optics handling + objective nomenclature + good practices
 * TP 4h (3 groups) : 
   * Good practices = how to align a laser, lens, iris, targets, etc...
   * Set up a telescope (Keplerian vs Galilean telescope)
@@ -32,6 +32,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
   * Identify laser polarization (linear, circular, ...)
   * Check dichroic transmission with angle?
   * Measure a laser beam spectrum vs LED vs white light?
+  * oscilloscope ? ...
 
 
 
@@ -57,6 +58,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
      *  chromatism, 
      *  etc...
   *  Setup simulation tools
+  *  Fiji + others ? (Gwyddion ?)
   *  
 
   --> homework : design setup ~4h
@@ -65,25 +67,29 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 * TP 8h (3 groups) : Build setup 
 
-* TP 4h  (3 groups): Run simple experiment
+* TP 2h  (3 groups): Run simple experiment 
 
   --> homework : prepare restitution ~4h
   
-* Oral restitution + written report
+* Oral restitution + written report + demo other groups (4h)
+=> the goal is to have all the groups being familiarized with all setups (to start preparing the second session of TPs). The binome who built the setup will explain and guide the others to use their setup and run an acquisition.
 
-### III. Practicals - 23h
+### III. Practicals - 14h
+
+
 
 | Setup | TP1 | Teacher | TP2 |Teacher |
 | ---- | ------ | ------- | ----------- |----------- |
 |  PALM  | STORM : NPC | JB / Christine | spt-PALM : ParA/ParB, Plants?, Pol/Rho? | JB / Christine |
 |  FCS    | FCS | Caro | N&B, RICS, FRET | Caro |
+| dual-view ?| TIRF FRET | smFRET | Robert, Manu |
 |  AFM-JPK  | AFM | Cédric / PEM | AFM+Fluo | Cédric / PEM |
 
 * CM 15min :  Sample mounting / preparation
 
 * TD 2h : Design experiment
 
-  ​	--> TD: check design
+  ​	--> TD: check design (sample preparation, which dyes, read papers, acquisition conditions, expected results and analysis...)
 
 * TP 2h : sample preparation #1
 
@@ -102,7 +108,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | ---- | ------ | ------- |
 | STORM | NPC | Reconstruction with Thunderstorm |
 | SPT | ParA-mEos3.2 | Track reconstruction + MSD analysis |
-| FCS | ??? | Autocorrelation + Fit models of diffusion |
+| N&B | strains UE SynBio | Autocorrelation + Fit models of diffusion + Analysis concentrations |
 | smFRET | ??? | ??? |
 | AFM-JPK | ??? | ??? |
 | AFM+Fluo | ??? | ??? |
