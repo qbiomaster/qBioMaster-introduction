@@ -21,15 +21,26 @@ According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medic
 | Date             | Day     |   #hours | Starting Time | Subject | Where |
 | :--------------- | ------- | -------: | ------------- | ------- | ----- |
 | ~~16 Septembre~~ | ~~Thu~~ |  ~~1.5~~ | ~~9:45~~      |         |       |
-| 21 Septembre     | Tue     |      3.0 | 8:00          |         |       |
+| 21 Septembre     | Tue     |      1.5 | 8:00-9:30          |         |       |
+| 21 Septembre     | Tue     |      1.5 | 9:45-11:20    | Presentation of methodology and Jupyter labs. Introduction to fluorescence microscopy |  CBS  |
 | 23 Septembre     | Thu     |      3.0 | 9:45          |         |       |
+| 23 Septembre     | Thu     |      1.5 | 1:15-2:50     | Basics of image processing. TIRF microscopy. |  CBS     |
+| 28 Septembre     | Tue     |      1.5 | 9:45-11:20    | Confocal microscopy. Introduction to SMLM.   |   CBS    |
 | 30 Septembre     | Thu     |      4.5 | 8:00          |         |       |
+| 30 Septembre     | Thu     |      1.5 | 1:15-2:50     | SMLM. 3D-SIM    |  CBS     |
+| 5 October        | Thu     |      1.5 | 8:00          | STED + AFM      |  CBS     |
 | 7 October        | Thu     |      4.5 | 8:00          |         |       |
+| 7 October        | Thu     |      1.5 | 1:15-2:50     | Fluctuation microscopies. Introduction to genome biophysics.|  CBS     |
+| 12 October       | Thu     |      1.5 | 9:45-11:20    | DNA origami. DNA supercoiling.|   CBS    |
+| 14 October       | Thu     |      4.5 | 1:15-2:50     | DNA manipulation. Nucleosomes.|  CBS     |
 | 14 October       | Thu     |      4.5 | 8:00          |         |       |
 | 19 October       | Tue     |      3.0 | 8:00          |         |       |
 | 21 October       | Thu     |      4.5 | 8:00          |         |       |
+| 22 October       | Fri     |      1.5 | 9:45-11:20    | Epigenetics. Transcription factors I.    | CBS   |
 | 26 October       | Tue     |      3.0 | 8:00          |         |       |
 | 28 October       | Thu     |      4.5 | 8:00          |         |       |
+| 28 October       | Thu     |      1.5 | 1:15-2:50     |  Transcription factors II. Higher-order chromatin structure I       | CBS   |
+| 29 October       | Fri     |      1.5 | 9:00-10:00    |  Higher-order chromatin structure II       | CBS   |
 | 9 November       | Tue     |      3.0 | 8:00          |         |       |
 | 16 November      | Tue     |      3.0 | 8:00          |         |       |
 |                  |         | **40.5** |               |         |       |
