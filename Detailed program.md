@@ -210,22 +210,23 @@ We will first give an overview of the theory and some biological examples, that 
 *Objectives:*
 
 - Basic principles of image manipulation in python
-- Methods for detecting objects
+- Methods for detecting objects using image processing and artificial intelligence
 
-*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
+*Time:* Constructs are run by students beforehand, and discussed with teacher during class.
 
 *How:*  Jupyter notebook, step-by-step
+
    1. [Learn how to load images](constructs/UE_Introduction/Load_image.ipynb)
    2. [Learn how to manipulate images](constructs/UE_Introduction/Basic_image_processing.ipynb)
    3. [Image processing-based segmentation](constructs/UE_Introduction/Segmentation_masks_imageAnalysis.ipynb)
-   4. AI-based segmentation. ```construct: Segmenting nuclei by AI```
+   4. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb) 
 
 *Evaluation:* not evaluated
 
 *Outline:*
 -  You will start by following the constructs to load images and learn the basics of image manipulation.
-- You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional methods, such as thresholding and watershed.
--  Finally, you will learn how to apply deep learning algorithms to segment nuclei.
+- You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional image segmentation methods, such as thresholding and watershed.
+-  Finally, you will learn how to apply artificial intelligence based (deep learning) algorithms to segment an image of nuclei within a Drosophila embryo.
 
 #### Advanced imaging systems (1.5h)
 
