@@ -119,21 +119,24 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
    
 
-| Name                       | Status | Workers | Time | Description |
-| -------------------------- | ------ | ------- | ----------| ----------|
-| [What is DNA?](Basics_DNA.ipynb)  | up | marcelo | 30' | Introduce DNA: Structure and function. |
-| Talk on DNA origami | planned | gaetan | 30' | How to build 3D shapes using DNA origami. Applications to biotechnology |
-| magTweezers_manipulateDNA      | planned | marcelo |1h|Introduction to magnetic tweezers. Activity: load a dataset of extension curves from single-molecule experiments and perform basic display and analysis (e.g. velocity)|
-| [OT_construct](OT_construct.ipynb) | planned | marcelo/ Ashley? |30'|Introduction to optical tweezers to study motors. Activity: load traces and calculate motor step sizes.|
-| nucleosomeParticle | planned | marcelo/ Diego? |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
-| histoneModifications | planned | marcelo |30'|Basics of histone modifications and epigenetics.|
-| chromatinModifiers | planned | marcelo |30'|Motors involved in modifying chromatin. Case studies: cryo-EM structure of RISC and its ability to move through nucleosomes using optical tweezers.|
-| transcriptionFactors_introduction | planned | marcelo |30'|Introduction on general and specific transcription factors. Activity: load chip-seq profiles of several TFs and find putative enhancers in a specific genomic region.|
-| transcriptionFactorDiffusion      | planned | marcelo |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
-| Talk by William Bourguet | planned |                  |45'||
-| HiC_construct | planned | marcelo Antoine |30'|Activity: Load *B. subtilis* HiC maps using cooler and identify organization of origin region.|
-| LoopExtrusion_construct            | planned | marcelo          |30'|Activity: Load tracking data for ParB and plot diffusion coefficient distributions. Identify species.|
-| HiM_construct | planned | marcelo |45'|Activity: Load pairwise distance matrices from single cells and calculate ensemble contact map.|
+| Name                       | Status | Workers | Description |
+| -------------------------- | ------ | ------- | ----------|
+| [What is DNA?](Basics_DNA.ipynb)  | up | marcelo | Introduce DNA: Structure and function. |
+| modeling_DNA                   | planned | marcelo | DNA as a polymer. This construct will show how to produce WLC models and display simulated force extension curves. |
+| bacterialChromosome           | planned | marcelo/ JB? | Bacterial chromosome structure.  Machines in charge of DNA management: topisomerases, replication, transcription, segregation. Activity: structure of ParB using SMLM. |
+| magTweezers_manipulateDNA      | planned | marcelo |Introduction to magnetic tweezers. Activity: load a dataset of extension curves from single-molecule experiments and perform basic display and analysis (e.g. velocity)|
+| [OT_construct](OT_construct.ipynb) | planned | marcelo/ Ashley? |Introduction to optical tweezers to study motors. Activity: load traces and calculate motor step sizes.|
+| nucleosomeParticle | planned | marcelo/ Diego? |Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
+| histoneModifications | planned | marcelo |Basics of histone modifications and epigenetics.|
+| chromatinModifiers | planned | marcelo |Motors involved in modifying chromatin. Case studies: cryo-EM structure of RISC and its ability to move through nucleosomes using optical tweezers.|
+| transcriptionFactors_introduction | planned | marcelo |Introduction on general and specific transcription factors.|
+| transcriptionFactorDiffusion      | planned | marcelo |This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
+| mappingCREs_ChipSeq | planned | marcelo Olivier |Activity: load chip-seq profiles of several TFs and find putative enhancers in a specific genomic region.|
+| plotContactMaps | planned | marcelo Antoine |Activity: Load *B. subtilis* HiC maps using cooler and identify organization of origin region.|
+| measureContactFrequencyMicroscopy | planned | marcelo Antoine | Activity: Load two color images for 2 FROS probes and calculate their distance distribution. |
+| ParB_condensates_bacteria |  | Antoine |Activity: Load tracking data for ParB and plot diffusion coefficient distributions. Identify species.|
+| buildPairwiseDistanceMaps | planned | marcelo |Activity: Load pairwise distance matrices from single cells and calculate ensemble contact map.|
+| modeling chromatin | planned | marcelo |This construct will show how to load a dataset of simulations of the whole Drosophila genome, and plot pair-wise distance and contact matrices.|
 
 ### Membrane Biophysics
 

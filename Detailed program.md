@@ -296,7 +296,6 @@ Two lectures, one for a general introduction to complex networks, the other for 
 
 ##### Project: `    TBD     `
 
-
 ---
 
 ### Gene Regulation - Robustness and Optimality (8h - LC)
@@ -358,19 +357,15 @@ Based on parts of https://www.biorxiv.org/content/10.1101/2021.04.09.439163v1
 
 *Outline:* 
 
-
-
-
-
 #### Robustness of protein circuits (2h)
 
 Based on the regulation of bacterial chemotaxis
 
-### Genome Biophysics (8h - MN)
+### Genome Biophysics (7h30' - MN)
 
 1. DNA (1h).
    1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. `construct: DNAbasics`.
-   2. (30') DNA in biotechnology: DNA origami. `construct: DNAorigami`. Talk by Gaetan Bellot.
+   2. (30') DNA in biotechnology: DNA origami. Talk by Gaetan Bellot.
 2. Manipulating DNA (1.5h).
    1. (1h) DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. `construct: magTweezers_manipulateDNA`
    2. (30') Use of optical tweezers to understand the mechanisms of molecular motors. `OTconstruct`. Talk by Ashley Nord.
@@ -383,9 +378,9 @@ Based on the regulation of bacterial chemotaxis
    2. (30') How can we study the dynamics of TFs? Are they always bound to their targets? Study on the diffusion of TFs using sptPALM.  `construct: transcriptionFactorDiffusion`
    3. (45') Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
 5. Higher-order chromatin structure (1h45').
-   1. (30') From nucleosomes to chromosome territories. Methods to detect organization at these meso-scales. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). ```construct: plotContactMaps```
-   3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can condensins modulate the higher order organization of bacterial chromosomes? `construct: ParB_condensin_bacteria`
-   4. (45') Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. `construct: buildPairwiseDistanceMaps`
+   1. (30') From nucleosomes to chromosome territories. Methods to detect organization at these meso-scales. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). ```construct: HiC_construct```
+   3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can condensins modulate the higher order organization of bacterial chromosomes? `construct: LoopExtrusion_construct`
+   4. (45') Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. `construct: HiM_construct`
 
 ### Membrane Biophysics (xxh - PEM?)
 
