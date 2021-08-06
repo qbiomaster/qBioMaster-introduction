@@ -61,14 +61,11 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | [TIRF microscopy](TIRF_microscopy.ipynb) | up | Marcelo | Tutorial on TIRFM microscopy: `needs images` |
 | [Confocal microscopy](confocal_microscopy.ipynb)             | up      | Marcelo | Tutorial on confocal microscopy. `needs images` |
 | [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb) | up    | Marcelo | This construct will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
-| Segmentation of nuclei by AI | planned     | JB | This construct will show students how to segment extended nuclei using starDist|
+| [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb) | up    | JB | This construct will show students how to segment extended nuclei using starDist|
 | [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb) | up     | Marcelo | This construct will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
 | [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) | up | Marcelo | This construct will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space: `needs images` |
 | [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) | planned | marcelo/ JB? |Introduction to STED microscopy with practical.  `needs images and most content`|
 |                                        |         |                  ||
-| | | ||
-| | | ||
-| | | ||
 
 
 
@@ -92,7 +89,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 2. Manipulating DNA.
    1. Supercoiling DNA with magnetic tweezers. `construct: magTweezers_manipulateDNA`
-   2. Molecular motors with optical tweezers. `opticalTweezers_protein_stepSize`
+   2. Molecular motors with optical tweezers. [OT_construct](OT_construct.ipynb)  
 
 3. Nucleosomes and epigenetics.
 
@@ -103,19 +100,14 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 4. Transcription factors.
 
    1. General and developmental TFs. `construct: transcriptionFactors_introduction `
-   2. TF diffusion using sptPALM.  `construct: transcriptionFactorDiffusion`
+   2. [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb)  
    3. cis-regulatory elements. `construct: mappingCREs_ChipSeq`.
 
 5. Higher-order chromatin structure.
-   1. 3C-based methods. ```construct: plotContactMaps```
-   2. FISH/FROS-based methods. `construct: measureContactFrequencyMicroscopy`
-   3. Architectural proteins. `construct: ParB_condensin_bacteria`
-   4. Hi-M, ORCA, chromatin tracing. `construct: buildPairwiseDistanceMaps`
-
-6. Modeling chromatin. `--> this section may go away the first year?`
-
-   1. cellular models using polymer dynamics.   `construct: modeling chromatin`
-   2. comparisons to experiments (HiC/ microscopy).
+   1. [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb)
+   2. Architectural proteins. `construct: LoopExtrusion_construct`
+   3. Hi-M, ORCA, chromatin tracing. `construct: buildPairwiseDistanceMaps`
+   
 
    
 
@@ -125,13 +117,13 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | Talk on DNA origami | planned | gaetan | 30' | How to build 3D shapes using DNA origami. Applications to biotechnology |
 | magTweezers_manipulateDNA      | planned | marcelo |1h|Introduction to magnetic tweezers. Activity: load a dataset of extension curves from single-molecule experiments and perform basic display and analysis (e.g. velocity)|
 | [OT_construct](OT_construct.ipynb) | planned | marcelo/ Ashley? |30'|Introduction to optical tweezers to study motors. Activity: load traces and calculate motor step sizes.|
-| nucleosomeParticle | planned | marcelo/ Diego? |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
+| nucleosomeParticle | planned | marcelo |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
 | histoneModifications | planned | marcelo |30'|Basics of histone modifications and epigenetics.|
 | chromatinModifiers | planned | marcelo |30'|Motors involved in modifying chromatin. Case studies: cryo-EM structure of RISC and its ability to move through nucleosomes using optical tweezers.|
 | transcriptionFactors_introduction | planned | marcelo |30'|Introduction on general and specific transcription factors. Activity: load chip-seq profiles of several TFs and find putative enhancers in a specific genomic region.|
-| transcriptionFactorDiffusion      | planned | marcelo |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
+| [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb) | planned | Antoine |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
 | Talk by William Bourguet | planned |                  |45'||
-| HiC_construct | planned | marcelo Antoine |30'|Activity: Load *B. subtilis* HiC maps using cooler and identify organization of origin region.|
+| [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb) | planned | Antoine |30'|Activity: Load *B. subtilis* HiC maps using cooler and identify organization of origin region.|
 | LoopExtrusion_construct            | planned | marcelo          |30'|Activity: Load tracking data for ParB and plot diffusion coefficient distributions. Identify species.|
 | HiM_construct | planned | marcelo |45'|Activity: Load pairwise distance matrices from single cells and calculate ensemble contact map.|
 
@@ -148,8 +140,20 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 ## Teachers
 
 - Luca Ciandrini
+
 - Marcelo Nollmann
+
 - Pierre-Emmanuel Milhiet
+
+- Antoine Le Gall
+
+- JB Fiche
+
+- Gaetan Bellot
+
+- William Bourguet
+
+  
 
 
 
