@@ -264,8 +264,8 @@ We will first give an overview of the theory and some biological examples, that 
 
 *How:*  Jupyter notebook, step-by-step
       1. [Single-molecule localization microscopy (SMLM)](constructs/UE_Introduction/SMLM_microscopy.ipynb)
-      2. [Structured illumination microscopy (SIM)](constructs/UE_Introduction/SIM_microscopy.ipynb)
-      3. [Stimulated emission depletion microscopy (STED)](constructs/UE_Introduction/STED_microscopy.ipynb)
+            2. [Structured illumination microscopy (SIM)](constructs/UE_Introduction/SIM_microscopy.ipynb)
+            3. [Stimulated emission depletion microscopy (STED)](constructs/UE_Introduction/STED_microscopy.ipynb)
 
 *Evaluation:* not evaluated
 
@@ -365,21 +365,21 @@ Based on the regulation of bacterial chemotaxis
 ### Genome Biophysics (7h30' - MN)
 
 1. DNA (1h).
-   1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. `construct: DNAbasics`.
+   1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
    2. (30') DNA in biotechnology: DNA origami. Talk by Gaetan Bellot.
 2. Manipulating DNA (1.5h).
    1. (1h) DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. `construct: magTweezers_manipulateDNA`
-   2. (30') Use of optical tweezers to understand the mechanisms of molecular motors. `OTconstruct`. Talk by Ashley Nord.
+   2. (30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](OT_construct.ipynb).  Talk by Ashley Nord.
 3. Nucleosomes and epigenetics (1.5h).
    1. (30') First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. `construct: nucleosomeParticle` 
    2. (30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Catalogue of the most relevant histone modifications. `construct: histoneModifications`
    3. (30') Proteins that can read and write histone modifications. How do they work? Examples from single molecule manipulation, and fluorescence. `construct: chromatinModifiers`
 4. Transcription factors (1h45').
    1. (30') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles.`construct: transcriptionFactors_introduction `
-   2. (30') How can we study the dynamics of TFs? Are they always bound to their targets? Study on the diffusion of TFs using sptPALM.  `construct: transcriptionFactorDiffusion`
+   2. (30') How can we study the dynamics of DNA binding proteins? Are they always bound to their targets?  [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb)
    3. (45') Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
 5. Higher-order chromatin structure (1h45').
-   1. (30') From nucleosomes to chromosome territories. Methods to detect organization at these meso-scales. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). ```construct: HiC_construct```
+   1. (30') From nucleosomes to chromosome territories. Methods to detect organization at these meso-scales. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb)
    3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can condensins modulate the higher order organization of bacterial chromosomes? `construct: LoopExtrusion_construct`
    4. (45') Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. `construct: HiM_construct`
 
