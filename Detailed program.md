@@ -368,14 +368,14 @@ Based on the regulation of bacterial chemotaxis
    1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
    2. (30') DNA in biotechnology: DNA origami. Talk by Gaetan Bellot.
 2. Manipulating DNA (1.5h).
-   1. (1h) DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. `construct: magTweezers_manipulateDNA`
-   2. (30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](OT_construct.ipynb).  Talk by Ashley Nord.
+   1. (1h) DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb)
+   2. (30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](constructs/UE_Introduction/OT_construct.ipynb).  Talk by Ashley Nord.
 3. Nucleosomes and epigenetics (1.5h).
-   1. (30') First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. `construct: nucleosomeParticle` 
-   2. (30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Catalogue of the most relevant histone modifications. `construct: histoneModifications`
-   3. (30') Proteins that can read and write histone modifications. How do they work? Examples from single molecule manipulation, and fluorescence. `construct: chromatinModifiers`
+   1. (30') First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) 
+   2. (30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Catalogue of the most relevant histone modifications. [Histone modifications](constructs/UE_Introduction/histoneModifications.ipynb)
+   3. (30') Proteins that can read and write histone modifications. How do they work? Examples from single molecule manipulation, and fluorescence.  [chromatinModifiers](constructs/UE_Introduction/chromatinModifiers.ipynb)
 4. Transcription factors (1h45').
-   1. (30') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles.`construct: transcriptionFactors_introduction `
+   1. (30') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
    2. (30') How can we study the dynamics of DNA binding proteins? Are they always bound to their targets?  [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb)
    3. (45') Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
 5. Higher-order chromatin structure (1h45').
