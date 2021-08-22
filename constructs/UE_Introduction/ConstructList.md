@@ -47,7 +47,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
    
    1. 
 6. Basics of near-field microscopies (AFM).
-   1. 
+   1. [Introduction to AFM](STED_microscopy.ipynb)
 
    
 
@@ -63,9 +63,9 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb) | up    | Marcelo | This construct will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
 | [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb) | up    | JB | This construct will show students how to segment extended nuclei using starDist|
 | [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb) | up     | Marcelo | This construct will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
-| [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) | up | Marcelo | This construct will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space: `needs images` |
-| [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) | planned | marcelo/ JB? |Introduction to STED microscopy with practical.  `needs images and most content`|
-|                                        |         |                  ||
+| [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) | up | Marcelo | This construct will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space. |
+| [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) | up | marcelo |Introduction to STED microscopy with practical.|
+| [AFM](STED_microscopy.ipynb) | up | Luca Costa |Introduction to Atomic Force Microscopy.|
 
 
 
@@ -114,9 +114,9 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | Name                       | Status | Workers | Time | Description |
 | -------------------------- | ------ | ------- | ----------| ----------|
 | [What is DNA?](Basics_DNA.ipynb)  | up | marcelo | 30' | Introduce DNA: Structure and function. |
-| Talk on DNA origami | planned | gaetan | 30' | How to build 3D shapes using DNA origami. Applications to biotechnology |
+| Talk by Gaetan Bellot | up | Gaetan Bellot | 30' | How to build 3D shapes using DNA origami. Applications to biotechnology |
 | [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb) | up | marcelo |1h| DNA supercoiling, topoisomerases, magnetic tweezers          |
-| [OT_construct](OT_construct.ipynb) | planned | marcelo/ Ashley? |30'|Introduction to optical tweezers to study motors.|
+| [OT_construct](OT_construct.ipynb) | up | Ashley |30'|Introduction to optical tweezers to study motors.|
 | [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) | planned | marcelo |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
 | [nucleosomes](constructs/UE_Introduction/histoneModifications.ipynb) | planned | marcelo |30'|Basics of histone modifications and epigenetics.|
 | [chromatinModifiers](constructs/UE_Introduction/chromatinModifiers.ipynb) | planned | marcelo |30'|Motors involved in modifying chromatin. Case studies: cryo-EM structure of RISC and its ability to move through nucleosomes using optical tweezers.|
@@ -152,6 +152,8 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 - Gaetan Bellot
 
 - William Bourguet
+
+- Ashley Nord
 
   
 
