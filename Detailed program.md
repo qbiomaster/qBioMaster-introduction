@@ -20,23 +20,23 @@ According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medic
 
 | Date             | Day     |   #hours | Starting Time | Subject | Where |
 | :--------------- | ------- | -------: | ------------- | ------- | ----- |
-| 16 Septembre     | Thu     |      1.5 | 1:15-2:45     |   (LC)  |       |
-| 16 Septembre     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
-| 21 Septembre     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 21 Septembre     | Tue     |      1.5 | 9:45-11:20    | Presentation of methodology and Jupyter labs. Introduction to fluorescence microscopy |  CBS  |
-| 23 Septembre     | Thu     |      1.5 | 1:15-2:50     | Basics of image processing. TIRF microscopy. |  CBS     |
-| 23 Septembre     | Thu     |      3.0 | 3:00-6:15     |   (LC)  |       |
-| 28 Septembre     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 28 Septembre     | Tue     |      1.5 | 9:45-11:20    | Confocal microscopy. Introduction to SMLM.   |   CBS    |
-| 30 Septembre     | Thu     |      1.5 | 1:15-2:50     | SMLM. 3D-SIM    |  CBS     |
-| 30 Septembre     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
+| 16 September     | Thu     |      1.5 | 1:15-2:45     |   (LC)  |       |
+| 16 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
+| 21 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
+| 16 September   | Tue     |      1.5 | 3:00-4:30 | Presentation of methodology and Jupyter labs. Basics of image processing (1h). |  CBS  |
+| 23 September     | Thu     |      1.5 | 1:15-2:50     | Introduction to fluorescence microscopy (1h). TIRF microscopy. |  CBS     |
+| 23 September     | Thu     |      3.0 | 3:00-6:15     |   (LC)  |       |
+| 28 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
+| 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal/SMLM.                                               |   CBS    |
+| 30 September     | Thu     |      1.5 | 1:15-2:50     | SMLM. 3D-SIM.   |  CBS     |
+| 30 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 5 October        | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 5 October        | Tue     |      1.5 | 9:45-11:15    | STED + AFM      |  CBS     |
-| 7 October        | Thu     |      1.5 | 1:15-2:50     | Fluctuation microscopies. Introduction to genome biophysics.|  CBS     |
+| 7 October        | Thu     |      1.5 | 1:15-2:50     | Fluctuation microscopies (1h). Introduction to genome biophysics. |  CBS     |
 | 7 October        | Thu     |      3.0 | 3:00-6:15     |   (AA)  |       |
 | 12 October       | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami. DNA supercoiling.|   CBS    |
-| 14 October       | Thu     |      1.5 | 1:15-2:50     | DNA manipulation. Nucleosomes.|  CBS     |
+| 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami (30'). DNA supercoiling (1h). |   CBS    |
+| 19 October      | Thu     |      1.5 | 9:45-11:20    | DNA manipulation (OT) (45'). Nucleosomes (45'). |  CBS     |
 | 14 October       | Thu     |      1.5 | 3:00-4:30     |  (PEM)  |       |
 | 21 October       | Thu     |      3.0 | 1:15-4:30     |  (PEM)  |       |
 | 22 October       | Fri     |      1.5 | 9:45-11:20    | Epigenetics. Transcription factors I.    | CBS   |
