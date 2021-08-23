@@ -386,13 +386,70 @@ Based on the regulation of bacterial chemotaxis
 
 ### Membrane Biophysics (xxh - PEM?)
 
-Work in progress.
+#### Preliminary knowledge
+
+Introduction to the structural biology of biological membranes (M1 HMBS103 - Biochimie Structurale) - C Doucet & PE Milhiet (pdf available soon)
+
+- Membranes and evolution
+
+- Composition of membranes in archeae and bacteria
+
+- Composition and compartments in eukaryotes
+  - Membrane components (lipid, protein, sugar)
+  - Membrane composition (organelles, organism including virus)
+  - Plasma Membrane
+  - Membrane organelles
+  - Links to the cytoskeleton
+
+- How to manipulate membrane components (detergents, SMALP, nanodiscs...)
+
+- Membrane structure and organization
+  - Lipid phase separation
+  - Membrane diffusion / lateral segregation
+  - Concept of domains
+
+  
+
+#### Program (6h)
+
+##### I - Physics of Membranes - A theoretical point of view (M Abkarian)
+
+- Membrane deformations
+
+- Bending energy
+
+- Equilibrium shapes
+
+- Membrane fluctuation
 
 
 
+#### II - Experimental characterization of biological membranes (L Costa & PE Milhiet)
+
+- Model membranes versus native membranes
+
+- Mimicking biological membranes
+
+- Imaging and spectroscopy
+  - Spectroscopy and Microscopy (SMLM, FFS, NSNOM, EPR, SAXS/SANS, Raman, FTIR, Cryo-EM, NMR, X-ray crystallography)
+  - Computational characterization
+  - Construct FLUOSIM
+
+  
+
+##### III - Probing membrane mechanics (L Costa & PE Milhiet)
+
+- Methodologies
+
+- Cell mechanics probed by Atomic Force Microscopy (AFM)
 
 
 
+#### Bibliography & useful links
+
+- https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Biophysics_241_-_Membrane_Biology
+
+- NanoHUB (Arvind Raman): https://nanohub.org/
 
 
 
