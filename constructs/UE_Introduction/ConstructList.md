@@ -25,27 +25,33 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 **Tutorials**
 
-1. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb). This construct will introduce:
-
-   1. principles of fluorescence
-   2. labeling methods
-   3. widefield microscopy
-2. Basics of image processing.
+1. Basics of image processing.
 
    1. [Load images](Load_image.ipynb)
    2. [Manipulate images](Basic_image_processing.ipynb)
    3. [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb)
-   4. AI-based segmentation. ```construct: Segmenting nuclei by AI```
+   4. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
+   
+2. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb). This construct will introduce:
+
+   1. principles of fluorescence
+   2. labeling methods
+   3. widefield microscopy
+
 3. Advanced imaging systems.
+
    2. [TIRF microscopy](TIRF_microscopy.ipynb) 
    3. [Confocal microscopy](confocal_microscopy.ipynb)
+
 4. Super-resolution microscopies.
    1. [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb)
    2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb)
    3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb)
+
 5. Basics of fluorescence fluctuation.
-   
+
    1. 
+
 6. Basics of near-field microscopies (AFM).
    1. [Introduction to AFM](STED_microscopy.ipynb)
 
@@ -117,8 +123,8 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | Talk by Gaetan Bellot | up | Gaetan Bellot | 30' | How to build 3D shapes using DNA origami. Applications to biotechnology |
 | [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb) | up | marcelo |1h| DNA supercoiling, topoisomerases, magnetic tweezers          |
 | [OT_construct](OT_construct.ipynb) | up | Ashley |30'|Introduction to optical tweezers to study motors.|
-| [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) | planned | marcelo |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
-| [nucleosomes](constructs/UE_Introduction/histoneModifications.ipynb) | planned | marcelo |30'|Basics of histone modifications and epigenetics.|
+| [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) | up | marcelo |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
+| [histoneModifications](constructs/UE_Introduction/histoneModifications.ipynb) | planned | marcelo |30'|Basics of histone modifications and epigenetics.|
 | [chromatinModifiers](constructs/UE_Introduction/chromatinModifiers.ipynb) | planned | marcelo |30'|Motors involved in modifying chromatin. Case studies: cryo-EM structure of RISC and its ability to move through nucleosomes using optical tweezers.|
 | [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb) | planned | marcelo |30'|Introduction on general and specific transcription factors. Activity: load chip-seq profiles of several TFs and find putative enhancers in a specific genomic region.|
 | [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb) | planned | Antoine |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
