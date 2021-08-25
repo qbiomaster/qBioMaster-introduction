@@ -24,7 +24,7 @@ According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medic
 | 16 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 21 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 16 September   | Tue     |      1.5 | 3:00-4:30 | Presentation of methodology and Jupyter labs. Basics of image processing (1h). |  CBS  |
-| 23 September     | Thu     |      1.5 | 1:15-2:50     | Introduction to fluorescence microscopy (1h). TIRF microscopy. |  CBS     |
+| 24 September    | Fri   |      1.5 | 11:30-13:00  | Introduction to fluorescence microscopy (1h). TIRF microscopy. |  CBS     |
 | 23 September     | Thu     |      3.0 | 3:00-6:15     |   (LC)  |       |
 | 28 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal/SMLM.                                               |   CBS    |
