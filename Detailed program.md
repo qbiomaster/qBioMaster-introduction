@@ -61,6 +61,8 @@ Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + fi
 3. *Cell biology by the numbers*, R. Milo and R. Phillips
 4. *Biological Physics: Energy, Information, Life*, Philip Nelson
 5. *Random Walks in Biology*, Howard
+6. *A first course in Network Science*, F. Menczer, S. Fortunato and C. A. Davis
+7. *Network Science*,A.L Barabasi, available on line http://networksciencebook.com/
 
 
 
@@ -296,8 +298,18 @@ Two lectures, one for a general introduction to complex networks, the other for 
 2. Small world effect, communities and robustness
 3. Models for generating networks: Erdos, Renjy; Preferential attachment
 
-##### Project: `    TBD     `
+##### Project: `   Analysis of real and data-driven network    `
+*Objective: To acquire competences in analysing  networks* 
 
+*Time:* After class.
+
+*How:*  The students will be divided in groups and will be given a  dataset of  therotical model networks as well as a data driven one . Based on the lecture's material the students will provide a descriptive analysis of the networks and compared the characteristics of the 2.  Jupyter notebook
+
+*Evaluation:* not evaluated
+
+*Outline:* To be done
+
+At the end of this project, explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
 ---
 
 ### Gene Regulation - Robustness and Optimality (8h - LC)
