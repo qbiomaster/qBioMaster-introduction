@@ -124,7 +124,7 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb) | up | marcelo |1h| DNA supercoiling, topoisomerases, magnetic tweezers          |
 | [OT_construct](OT_construct.ipynb) | up | Ashley |30'|Introduction to optical tweezers to study motors.|
 | [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) | up | marcelo |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
-| [histoneModifications](constructs/UE_Introduction/histoneModifications.ipynb) | planned | marcelo |30'|Basics of histone modifications and epigenetics.|
+| [histoneModifications](constructs/UE_Introduction/histoneModifications.ipynb) | up | marcelo |30'|Basics of histone modifications and epigenetics.|
 | [chromatinModifiers](constructs/UE_Introduction/chromatinModifiers.ipynb) | planned | marcelo |30'|Motors involved in modifying chromatin. Case studies: cryo-EM structure of RISC and its ability to move through nucleosomes using optical tweezers.|
 | [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb) | planned | marcelo |30'|Introduction on general and specific transcription factors. Activity: load chip-seq profiles of several TFs and find putative enhancers in a specific genomic region.|
 | [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb) | planned | Antoine |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
