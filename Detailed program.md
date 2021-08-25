@@ -36,14 +36,14 @@ According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medic
 | 7 October        | Thu     |      3.0 | 3:00-6:15     |   (AA)  |       |
 | 12 October       | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami (30'). DNA supercoiling (1h). |   CBS    |
-| 19 October      | Thu     |      1.5 | 9:45-11:20    | DNA manipulation (OT) (45'). Nucleosomes (45'). |  CBS     |
 | 14 October       | Thu     |      1.5 | 3:00-4:30     |  (PEM)  |       |
+| 19 October      | Thu     |      1.5 | 8:00-9:30     | DNA manipulation (OT) (45'). Nucleosomes (45'). |  CBS     |
+| 19 October      | Fri     |      1.5 | 9:45-11:20    | Epigenetics. Transcription factors I.    | CBS   |
 | 21 October       | Thu     |      3.0 | 1:15-4:30     |  (PEM)  |       |
-| 22 October       | Fri     |      1.5 | 9:45-11:20    | Epigenetics. Transcription factors I.    | CBS   |
+| 21 October      | Thu     |      1.5 | 16:45-18:15 |  Transcription factors II. Higher-order chromatin structure I       | CBS   |
+| 22 October      | Fri   |      1.0 | 9:45-10:45    |  Higher-order chromatin structure II       | CBS   |
 | 22 October       | Fri     |      1.5 | 11:30-1:00    |   (LC)  |       |
-| 28 October       | Thu     |      1.5 | 1:15-2:50     |  Transcription factors II. Higher-order chromatin structure I       | CBS   |
 | 28 October       | Thu     |      1.5 | 3:00-4:30     |  (PEM)  |       |
-| 29 October       | Fri     |      1.0 | 9:00-10:00    |  Higher-order chromatin structure II       | CBS   |
 |                  |         | **40.0** |               |         |       |
 
 
