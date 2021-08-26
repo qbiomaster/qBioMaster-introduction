@@ -187,27 +187,6 @@ We will first give an overview of the theory and some biological examples, that 
 
 ### Basics of microscopy (8h - MN)
 
-#### Fluorescence_microscopy (1h)
-
-*Objectives: *
-   1. principles of fluorescence
-   2. labeling methods
-   3. widefield microscopy
-
-*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
-
-*How:*  Jupyter notebook, step-by-step
-1. [Widefield fluorescence_microscopy](constructs/UE_Introduction/Fluorescence_microscopy.ipynb)
-
-*Evaluation:* not evaluated
-
-*Outline:* 
-- Learn the basics of luminescence/fluorescence (Jablosky diagram)
-- Learn about the existing methods for labeling biological molecules, and the relative advantages of each of them
-- Learn about filters and dichroics, sources and cameras.
-- Learn how a widefield microscope is built.
-- What is the intrinsic resolution of a widefield microscope.
-
 #### Basics of image processing (1h)
 
 *Objectives:*
@@ -230,6 +209,30 @@ We will first give an overview of the theory and some biological examples, that 
 -  You will start by following the constructs to load images and learn the basics of image manipulation.
 - You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional image segmentation methods, such as thresholding and watershed.
 -  Finally, you will learn how to apply artificial intelligence based (deep learning) algorithms to segment an image of nuclei within a Drosophila embryo.
+
+#### Fluorescence_microscopy (1h)
+
+*Objectives: *
+
+      1. principles of fluorescence
+      2. labeling methods
+      3. widefield microscopy
+
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class (1h).
+
+*How:*  Jupyter notebook, step-by-step
+
+1. [Widefield fluorescence_microscopy](constructs/UE_Introduction/Fluorescence_microscopy.ipynb)
+
+*Evaluation:* not evaluated
+
+*Outline:* 
+
+- Learn the basics of luminescence/fluorescence (Jablosky diagram)
+- Learn about the existing methods for labeling biological molecules, and the relative advantages of each of them
+- Learn about filters and dichroics, sources and cameras.
+- Learn how a widefield microscope is built.
+- What is the intrinsic resolution of a widefield microscope.
 
 #### Advanced imaging systems (1.5h)
 
@@ -284,7 +287,7 @@ We will first give an overview of the theory and some biological examples, that 
 
 #### Basics of near-field microscopies (AFM).
 
-   1. 
+   1. [Introduction to AFM](STED_microscopy.ipynb)
 
 
 
@@ -378,23 +381,23 @@ Based on the regulation of bacterial chemotaxis
 ### Genome Biophysics (7h30' - MN)
 
 1. DNA (1h).
-   1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
+   1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. Basics of multi-scale chromosome organization. [DNA basics tutorial](constructs/UE_Introduction/Basics_DNA.ipynb)
    2. (30') DNA in biotechnology: DNA origami. Talk by Gaetan Bellot.
 2. Manipulating DNA (1.5h).
    1. (1h) DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb)
    2. (30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](constructs/UE_Introduction/OT_construct.ipynb).  Talk by Ashley Nord.
 3. Nucleosomes and epigenetics (1.5h).
    1. (30') First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) 
-   2. (30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Catalogue of the most relevant histone modifications. [Histone modifications](constructs/UE_Introduction/histoneModifications.ipynb)
-   3. (30') Proteins that can read and write histone modifications. How do they work? Examples from single molecule manipulation, and fluorescence.  [chromatinModifiers](constructs/UE_Introduction/chromatinModifiers.ipynb)
+   2. (30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Review of the most relevant histone modifications and their consequences. [Histone modifications](constructs/UE_Introduction/histoneModifications.ipynb)
+   3. (30') Mechanism of transcription by single-molecule manipulation methods. How do motor proteins read and write histone modification information. How do they work? Examples from structural and single molecule manipulation studies.  [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) 
 4. Transcription factors (1h45').
    1. (30') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
    2. (30') How can we study the dynamics of DNA binding proteins? Are they always bound to their targets?  [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb)
    3. (45') Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
 5. Higher-order chromatin structure (1h45').
-   1. (30') From nucleosomes to chromosome territories. Methods to detect organization at these meso-scales. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb)
-   3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can condensins modulate the higher order organization of bacterial chromosomes? `construct: LoopExtrusion_construct`
-   4. (45') Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. `construct: HiM_construct`
+   1. (30') From nucleosomes to TADs and chromosome territories. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). [Higher-order chromosome structure](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
+   3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can SMCs modulate the higher order organization of bacterial chromosomes? [The mechanism of loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
+   4. (45') Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
 
 ### Membrane Biophysics (xxh - PEM?)
 

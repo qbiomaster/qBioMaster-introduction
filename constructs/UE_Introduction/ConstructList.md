@@ -10,13 +10,6 @@ This file will contain the updated list of constructs available for this UE.
 
 
 
-### Introduction to networks in biology
-
-1. Robustness
-2. Optimality
-
-
-
 ### Introduction to optics and imaging
 
 **Bootcamp pre-requisites**
@@ -75,44 +68,33 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 
 
-### Transcription networks and gene regulation
-
-| Name                       | Status | Workers | Description |
-| -------------------------- | ------ | ------- | ----------|
-| | | ||
-| | | ||
-| | | ||
-
-
-
 ### Genome Biophysics
 
 1. DNA.
 
-   1. [What is DNA?](Basics_DNA.ipynb)
-   2. DNA as a polymer, FJC and WLC models. `construct: modeling_DNA`
-   3. Bacterial chromosome organization. `construct: bacterialChromosome`
-
+   1. (30') [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
+   2. (30') Talk by Gaetan Bellot on 'DNA origami and biotechnology'
+   
 2. Manipulating DNA.
-   1. Supercoiling DNA with magnetic tweezers. [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb)
-   2. Molecular motors with optical tweezers. [OT_construct](OT_construct.ipynb)  
+   1. (1h) [Studying DNA supercoiling with magnetic tweezers](DNAsupercoiling.ipynb)
+   2. (30') [Study of molecular motors using optical tweezers](OT_construct.ipynb)  
 
 3. Nucleosomes and epigenetics.
 
-   1. The nucleosome structure. `construct: nucleosomeParticle` 
-   2. Histone modifications. `construct: histoneModifications`
-   3. Readers and Writers. `construct: chromatinModifiers`
+   1. (30') [Nucleosomes](nucleosomeParticle.ipynb) 
+   2. (30') [Histone modifications](histoneModifications.ipynb)
+   3. (30') [DNA machines](DNAmachines.ipynb) 
 
 4. Transcription factors.
 
-   1. General and developmental TFs. `construct: transcriptionFactors_introduction `
-   2. [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb)  
-   3. cis-regulatory elements. `construct: mappingCREs_ChipSeq`.
+   1. (30') [Transcription_factors](transcription_factors.ipynb)
+   2. (30') [Study the diffusion of DNA binding proteins using sptPALM](spt_PALM_ParB_proteins.ipynb)
+   3. (45') Talk by William Bourguet.
 
 5. Higher-order chromatin structure.
-   1. [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb)
-   2. Architectural proteins. `construct: LoopExtrusion_construct`
-   3. Hi-M, ORCA, chromatin tracing. `construct: buildPairwiseDistanceMaps`
+   1. (30') [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
+   2. (30') [Loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
+   3. (45') [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
    
 
    
@@ -122,24 +104,16 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 | [What is DNA?](Basics_DNA.ipynb)  | up | marcelo | 30' | Introduce DNA: Structure and function. |
 | Talk by Gaetan Bellot | up | Gaetan Bellot | 30' | How to build 3D shapes using DNA origami. Applications to biotechnology |
 | [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb) | up | marcelo |1h| DNA supercoiling, topoisomerases, magnetic tweezers          |
-| [OT_construct](OT_construct.ipynb) | up | Ashley |30'|Introduction to optical tweezers to study motors.|
+| [Optical tweezers](OT_construct.ipynb) | up | Ashley |30'|Introduction to optical tweezers to study motors.|
 | [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) | up | marcelo |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
 | [histoneModifications](constructs/UE_Introduction/histoneModifications.ipynb) | up | marcelo |30'|Basics of histone modifications and epigenetics.|
-| [chromatinModifiers](constructs/UE_Introduction/chromatinModifiers.ipynb) | up | marcelo |30'|Motors involved in modifying chromatin. Case studies: cryo-EM structure of RISC and its ability to move through nucleosomes using optical tweezers.|
-| [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb) | planned | marcelo |30'|Introduction on general and specific transcription factors. Activity: load chip-seq profiles of several TFs and find putative enhancers in a specific genomic region.|
+| [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) | up | marcelo |30'|Motors involved in DNA processing, including RNA/DNA polymerases, or chromatin remodelers|
+| [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb) | up | marcelo |30'|Introduction on general and specific transcription factors.|
 | [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb) | planned | Antoine |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
-| Talk by William Bourguet | planned |                  |45'||
-| [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb) | planned | Antoine |30'|Activity: Load *B. subtilis* HiC maps using cooler and identify organization of origin region.|
-| LoopExtrusion_construct            | planned | marcelo          |30'|Activity: Load tracking data for ParB and plot diffusion coefficient distributions. Identify species.|
-| HiM_construct | planned | marcelo |45'|Activity: Load pairwise distance matrices from single cells and calculate ensemble contact map.|
-
-### Membrane Biophysics
-
-| Name                       | Status | Workers | Description |
-| -------------------------- | ------ | ------- | ----------|
-| | | ||
-| | | ||
-| | | ||
+| Talk by William Bourguet |  |                  |45'||
+| [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb) | up | Antoine-Marcelo |30'|Activity: Load *B. subtilis* HiC maps using cooler and identify organization of origin region.|
+| [The mechanism of loop extrusion](LoopExtrusion.ipynb) | up | marcelo          |30'|Activity: Load tracking data for ParB and plot diffusion coefficient distributions. Identify species.|
+| [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb) | planned | marcelo |45'|Activity: Load pairwise distance matrices from single cells and calculate ensemble contact map.|
 
 
 
