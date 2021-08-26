@@ -23,25 +23,25 @@ According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medic
 | 16 September     | Thu     |      1.5 | 1:15-2:45     |   (LC)  |       |
 | 16 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 21 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 16 September   | Tue     |      1.5 | 3:00-4:30 | Presentation of methodology and Jupyter labs. Basics of image processing (1h). |  CBS  |
-| 24 September    | Fri   |      1.5 | 11:30-13:00  | Introduction to fluorescence microscopy (1h). TIRF microscopy. |  CBS     |
+| 16 September   | Tue     |      1.5 | 3:00-4:30 | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). |  CBS  |
+| 24 September    | Fri   |      1.5 | 11:30-13:00  | Introduction to fluorescence microscopy (1h). TIRF microscopy (30'). |  CBS     |
 | 23 September     | Thu     |      3.0 | 3:00-6:15     |   (LC)  |       |
 | 28 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal/SMLM.                                               |   CBS    |
-| 30 September     | Thu     |      1.5 | 1:15-2:50     | SMLM. 3D-SIM.   |  CBS     |
+| 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal (30') /SMLM (1h).                                  |   CBS    |
+| 30 September     | Thu     |      1.5 | 1:15-2:50     | 3D-SIM and STED (30'). Fluctuation microscopies (1h). |  CBS     |
 | 30 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 5 October        | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 5 October        | Tue     |      1.5 | 9:45-11:15    | STED + AFM      |  CBS     |
-| 7 October        | Thu     |      1.5 | 1:15-2:50     | Fluctuation microscopies (1h). Introduction to genome biophysics. |  CBS     |
+| 5 October        | Tue     |        1 | 9:45-10:45 | AFM      |  CBS     |
+| 7 October        | Thu     |      1.5 | 1:15-2:50     | Introduction to genome biophysics (30'). DNA supercoiling (1h). |  CBS     |
 | 7 October        | Thu     |      3.0 | 3:00-6:15     |   (AA)  |       |
 | 12 October       | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami (30'). DNA supercoiling (1h). |   CBS    |
+| 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami (30'). Optical Tweezers (30'). Nucleosomes (30'). |   CBS    |
 | 14 October       | Thu     |      1.5 | 3:00-4:30     |  (PEM)  |       |
-| 19 October      | Thu     |      1.5 | 8:00-9:30     | DNA manipulation (OT) (45'). Nucleosomes (45'). |  CBS     |
-| 19 October      | Fri     |      1.5 | 9:45-11:20    | Epigenetics. Transcription factors I.    | CBS   |
+| 19 October      | Thu     |      1.5 | 8:00-9:30     | Histone modifications (30'). DNA machines (30'). Transcription factors I (30'). |  CBS     |
+| 19 October      | Fri     |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
 | 21 October       | Thu     |      3.0 | 1:15-4:30     |  (PEM)  |       |
-| 21 October      | Thu     |      1.5 | 16:45-18:15 |  Transcription factors II. Higher-order chromatin structure I       | CBS   |
-| 22 October      | Fri   |      1.0 | 9:45-10:45    |  Higher-order chromatin structure II       | CBS   |
+| 21 October      | Thu     |      1.5 | 16:45-18:15 |  Higher-order chromatin structure  (1h). Loop extrusion (30').  | CBS   |
+| 22 October      | Fri   |      1.0 | 9:45-10:45    |  Multiplexing methods (1h)  | CBS   |
 | 22 October       | Fri     |      1.5 | 11:30-1:00    |   (LC)  |       |
 | 28 October       | Thu     |      1.5 | 3:00-4:30     |  (PEM)  |       |
 |                  |         | **40.0** |               |         |       |
@@ -185,9 +185,9 @@ We will first give an overview of the theory and some biological examples, that 
 
 
 
-### Basics of microscopy (8h - MN)
+### Basics of microscopy (7h - MN)
 
-#### Basics of image processing (1h)
+#### Basics of image processing (1.5h)
 
 *Objectives:*
 
@@ -234,7 +234,7 @@ We will first give an overview of the theory and some biological examples, that 
 - Learn how a widefield microscope is built.
 - What is the intrinsic resolution of a widefield microscope.
 
-#### Advanced imaging systems (1.5h)
+#### Advanced imaging systems (1h)
 
 *Objectives:*
 
@@ -258,7 +258,7 @@ We will first give an overview of the theory and some biological examples, that 
 - Calculate the excitation profile of a confocal microscope and compare to widefield excitation
 - Estimate the 3D resolution in confocal and compare to widefield microscopy.
 
-#### Super-resolution microscopies (2.5h)
+#### Super-resolution microscopies (1.5h)
 
 *Objectives:*
 - What is the resolution limit imposed by light diffraction?
@@ -281,11 +281,11 @@ We will first give an overview of the theory and some biological examples, that 
 - Localize single molecules from a single-source dataset
 - Read additional resources with examples of how these methods can be used to gain biological insight.
 
-#### Basics of fluorescence fluctuation.
+#### Basics of fluorescence fluctuation (1h).
 
    1. 
 
-#### Basics of near-field microscopies (AFM).
+#### Basics of near-field microscopies (AFM) (1h).
 
    1. [Introduction to AFM](STED_microscopy.ipynb)
 
@@ -313,8 +313,8 @@ Two lectures, one for a general introduction to complex networks, the other for 
 *Outline:* To be done
 
 At the end of this project, explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
----
 
+---
 ### Gene Regulation - Robustness and Optimality (8h - LC)
 
 #### Revisiting the Central Dogma (3h)
@@ -378,7 +378,7 @@ Based on parts of https://www.biorxiv.org/content/10.1101/2021.04.09.439163v1
 
 Based on the regulation of bacterial chemotaxis
 
-### Genome Biophysics (7h30' - MN)
+### Genome Biophysics (8h30' - MN)
 
 1. DNA (1h).
    1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. Basics of multi-scale chromosome organization. [DNA basics tutorial](constructs/UE_Introduction/Basics_DNA.ipynb)
@@ -390,16 +390,16 @@ Based on the regulation of bacterial chemotaxis
    1. (30') First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) 
    2. (30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Review of the most relevant histone modifications and their consequences. [Histone modifications](constructs/UE_Introduction/histoneModifications.ipynb)
    3. (30') Mechanism of transcription by single-molecule manipulation methods. How do motor proteins read and write histone modification information. How do they work? Examples from structural and single molecule manipulation studies.  [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) 
-4. Transcription factors (1h45').
-   1. (30') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
+4. Transcription factors (2h).
+   1. (45') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
    2. (30') How can we study the dynamics of DNA binding proteins? Are they always bound to their targets?  [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb)
    3. (45') Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
-5. Higher-order chromatin structure (1h45').
-   1. (30') From nucleosomes to TADs and chromosome territories. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). [Higher-order chromosome structure](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
+5. Higher-order chromatin structure (2h30').
+   1. (1h) From nucleosomes to TADs and chromosome territories. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). [Higher-order chromosome structure](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
    3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can SMCs modulate the higher order organization of bacterial chromosomes? [The mechanism of loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
-   4. (45') Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+   4. (1h) Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
 
-### Membrane Biophysics (xxh - PEM?)
+### Membrane Biophysics (6h)
 
 #### Preliminary knowledge
 

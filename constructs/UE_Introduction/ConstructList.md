@@ -10,42 +10,41 @@ This file will contain the updated list of constructs available for this UE.
 
 
 
-### Introduction to optics and imaging
+### Introduction to optics and imaging (7h)
 
-**Bootcamp pre-requisites**
+**Constructs**
 
-Lenses, focal points, apertures, magnification, filters, Fourier space, diffraction, interference.
+1. Basics of image processing (1.5h).
 
-**Tutorials**
-
-1. Basics of image processing.
-
-   1. [Load images](Load_image.ipynb)
-   2. [Manipulate images](Basic_image_processing.ipynb)
-   3. [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb)
-   4. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
+   1. [Jupyter labs](../../docs/resourcesJupyter.md)
+   2. [Load images](Load_image.ipynb)
+   3. [Manipulate images](Basic_image_processing.ipynb)
+   4. [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb)
+   5. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
    
-2. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb). This construct will introduce:
+2. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb) (1h).
+
+   This construct will introduce:
 
    1. principles of fluorescence
    2. labeling methods
    3. widefield microscopy
 
-3. Advanced imaging systems.
+3. Advanced imaging systems (1h).
 
-   2. [TIRF microscopy](TIRF_microscopy.ipynb) 
-   3. [Confocal microscopy](confocal_microscopy.ipynb)
+   2. [TIRF microscopy](TIRF_microscopy.ipynb) (30')
+   3. [Confocal microscopy](confocal_microscopy.ipynb) (30')
 
-4. Super-resolution microscopies.
-   1. [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb)
-   2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb)
-   3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb)
+4. Super-resolution microscopies (1.5h).
+   1. [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb) (1h)
+   2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) (15')
+   3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) (15')
 
-5. Basics of fluorescence fluctuation.
+5. Basics of fluorescence fluctuation (1h).
 
    1. 
 
-6. Basics of near-field microscopies (AFM).
+6. Basics of near-field microscopies (AFM) (1h).
    1. [Introduction to AFM](STED_microscopy.ipynb)
 
    
@@ -68,33 +67,33 @@ Lenses, focal points, apertures, magnification, filters, Fourier space, diffract
 
 
 
-### Genome Biophysics
+### Genome Biophysics (8.5h)
 
-1. DNA.
+1. DNA (1h).
 
    1. (30') [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
    2. (30') Talk by Gaetan Bellot on 'DNA origami and biotechnology'
    
-2. Manipulating DNA.
+2. Manipulating DNA (1.5h).
    1. (1h) [Studying DNA supercoiling with magnetic tweezers](DNAsupercoiling.ipynb)
    2. (30') [Study of molecular motors using optical tweezers](OT_construct.ipynb)  
 
-3. Nucleosomes and epigenetics.
+3. Nucleosomes and epigenetics (1.5h).
 
    1. (30') [Nucleosomes](nucleosomeParticle.ipynb) 
    2. (30') [Histone modifications](histoneModifications.ipynb)
    3. (30') [DNA machines](DNAmachines.ipynb) 
 
-4. Transcription factors.
+4. Transcription factors (2h).
 
-   1. (30') [Transcription_factors](transcription_factors.ipynb)
+   1. (45') [Transcription_factors](transcription_factors.ipynb)
    2. (30') [Study the diffusion of DNA binding proteins using sptPALM](spt_PALM_ParB_proteins.ipynb)
    3. (45') Talk by William Bourguet.
 
-5. Higher-order chromatin structure.
-   1. (30') [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
+5. Higher-order chromatin structure (2.5h).
+   1. (1h) [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
    2. (30') [Loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
-   3. (45') [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+   3. (1h) [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
    
 
    
