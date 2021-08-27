@@ -108,11 +108,11 @@ This file will contain the updated list of constructs available for this UE.
 | [histoneModifications](constructs/UE_Introduction/histoneModifications.ipynb) | up | marcelo |30'|Basics of histone modifications and epigenetics.|
 | [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) | up | marcelo |30'|Motors involved in DNA processing, including RNA/DNA polymerases, or chromatin remodelers|
 | [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb) | up | marcelo |30'|Introduction on general and specific transcription factors.|
-| [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb) | planned | Antoine |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
+| [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_nucleus.ipynb) | planned | Antoine |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
 | Talk by William Bourguet |  |                  |45'||
-| [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb) | up | Antoine-Marcelo |30'|Activity: Load *B. subtilis* HiC maps using cooler and identify organization of origin region.|
-| [The mechanism of loop extrusion](LoopExtrusion.ipynb) | up | marcelo          |30'|Activity: Load tracking data for ParB and plot diffusion coefficient distributions. Identify species.|
-| [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb) | planned | marcelo |45'|Activity: Load pairwise distance matrices from single cells and calculate ensemble contact map.|
+| [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb) | up | Antoine-Marcelo |30'| Studying protein diffusion by spt-PALM                       |
+| [The mechanism of loop extrusion](LoopExtrusion.ipynb) | up | marcelo          |30'|Read and comment TIRF microscopy paper demonstrating loop extrusion|
+| [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb) | up | marcelo |45'|Hi-M and chromatin tracing|
 
 
 

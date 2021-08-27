@@ -392,12 +392,12 @@ Based on the regulation of bacterial chemotaxis
    3. (30') Mechanism of transcription by single-molecule manipulation methods. How do motor proteins read and write histone modification information. How do they work? Examples from structural and single molecule manipulation studies.  [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) 
 4. Transcription factors (2h).
    1. (45') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
-   2. (30') How can we study the dynamics of DNA binding proteins? Are they always bound to their targets?  [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_ParB_proteins.ipynb)
+   2. (30') How can we study the dynamics of DNA binding proteins? Are they always bound to their targets?  [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_nucleus.ipynb)
    3. (45') Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
 5. Higher-order chromatin structure (2h30').
    1. (1h) From nucleosomes to TADs and chromosome territories. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). [Higher-order chromosome structure](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
    3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can SMCs modulate the higher order organization of bacterial chromosomes? [The mechanism of loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
-   4. (1h) Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, ORCA, chromatin tracing, etc. [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+   4. (1h) Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, chromatin tracing, ORCA, etc. [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
 
 ### Membrane Biophysics (6h)
 
