@@ -287,7 +287,28 @@ We will first give an overview of the theory and some biological examples, that 
 
 #### Basics of near-field microscopies (AFM) (1h).
 
-   1. [Introduction to AFM](STED_microscopy.ipynb)
+
+
+*Objectives:*
+
+- Get introduced to the main elements of an Atomic Force Microscope and understand how they work.
+- Understand the main AFM imaging modes (static and dynamic).
+- Understand the harmonic oscillator (physical concept) and why it is relevant in dynamic AFM.
+- What we can image with an AFM, what is the spatial and temporal resolution we can achieve.
+
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class and after class (1h).
+
+*How:* Jupyter notebook, step-by-step 1. [Introduction to AFM](constructs/UE_Introduction/AFM.ipynb)
+
+*Evaluation:* not evaluated
+
+*Outline:*
+
+- Follow tutorials on AFM microscopies and answer questionnaires.
+- Briefly describe the static and dynamic AFM operational schemes (drawings required).
+- AFM operating in ambient (air) conditions and in physiological conditions (liquids) for biological purposes.
+- You will get introduced to the most relevant calibrations necessary to run conventional AFM experiments.
+- Read additional resources with examples of how AFM can be used to gain biological insight.
 
 
 
