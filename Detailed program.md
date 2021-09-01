@@ -283,7 +283,28 @@ We will first give an overview of the theory and some biological examples, that 
 
 #### Basics of fluorescence fluctuation (1h).
 
-   1. 
+
+*Objectives:*
+
+- Introduction to the concept of FCS : Fluorescence Correlation Spectroscopy
+- What can we measure : molecular diffusion, molecular interactions, chemical reactions
+- How do we measure : confocal microscope, alternating laser excitation
+- Data analysis : auto and cross correlation, photon counting histogram
+
+*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class and after class (1h).
+
+*How:* 
+
+*Evaluation:* not evaluated
+
+*Outline:*
+- Follow tutorials on FCS and answer questionnaires.
+- Undersdand the autocorrealtion curve and describe the type of information that can be extracted from it
+- Discussion around the possibilities and the limitaion of the methods
+- Advanced notions : time resolved FCS, scanning FCS, Number and Brightnedd
+- Read additional resources with examples of how fluctuation microscopie can be used to gain biological insight.
+
+
 
 #### Basics of near-field microscopies (AFM) (1h).
 
