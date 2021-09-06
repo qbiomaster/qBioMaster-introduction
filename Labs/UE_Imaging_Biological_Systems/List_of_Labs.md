@@ -63,7 +63,13 @@ The UE Imaging Biological Systems is organized around three sections with increa
   * Measure a laser beam spectrum vs LED vs white light?
   * oscilloscope ? ...
 
+* CM : 4h
 
+  * Piezoelectric
+  * Electronic
+
+  * smFRET
+  * N&B
 
 ### II. Build a setup - 14h
 
@@ -107,12 +113,12 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 
 
-| Setup | TP1 | Teacher | TP2 |Teacher |
-| ---- | ------ | ------- | ----------- |----------- |
-|  PALM  | STORM : NPC | JB / Christine | spt-PALM : ParA/ParB, Plants?, Pol/Rho? | JB / Christine |
-|  FCS    | FCS | Caro | N&B, RICS, FRET | Caro |
-| dual-view ?| TIRF FRET | smFRET | Robert, Manu |
-|  AFM-JPK  | AFM | Cédric / PEM | AFM+Fluo | Cédric / PEM |
+| Setup | Sample Preparation | TP | Teacher | 
+| ---- | ------ | ------- | ----------- |
+|  AiryScan/PALM  | Nuclear pore complex : labeling | AiryScan / SMLM |  | JBF/CD(/ALG?) |
+|  FCS    | Dyes solution, bacteria samples | N&B, RICS, FRET | CC |
+| FRET          | GPCR mGluR purif and labeling| smFRET | RQ, EM|
+|  AFM-FLUO  | Lipid bilayers with bodipy labeling | Topography, force measurements, life time measurements | CG/PEM |
 
 * CM 15min :  Sample mounting / preparation
 
