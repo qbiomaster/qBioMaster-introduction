@@ -21,11 +21,12 @@ According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medic
 | Date             | Day     |   #hours | Starting Time | Subject | Where |
 | :--------------- | ------- | -------: | ------------- | ------- | ----- |
 | 16 September     | Thu     |      1.5 | 1:15-2:45     |   (LC)  |       |
-| 16 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
+| 16 September   | Thu     |      1.5 | 3:00-4:30 | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). |  CBS  |
 | 21 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 16 September   | Tue     |      1.5 | 3:00-4:30 | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). |  CBS  |
-| 24 September    | Fri   |      1.5 | 11:30-13:00  | Introduction to fluorescence microscopy (1h). TIRF microscopy (30'). |  CBS     |
-| 23 September     | Thu     |      3.0 | 3:00-6:15     |   (LC)  |       |
+| 21 September     | Tue     |      1.5 | 9:45-11:15     |   (LC)  |       |
+| 23 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
+| 23 September     | Thu     |      1.5 | 4:45-6:15     |   (LC)  |       |
+| **24 September**    | Fri   |      1.5 | 11:30-13:00  | Introduction to fluorescence microscopy (1h). TIRF microscopy (30'). |  CBS     |
 | 28 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal (30') /SMLM (1h).                                  |   CBS    |
 | 30 September     | Thu     |      1.5 | 1:15-2:50     | 3D-SIM and STED (30'). Fluctuation microscopies (1h). |  CBS     |
@@ -36,11 +37,11 @@ According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medic
 | 7 October        | Thu     |      3.0 | 3:00-6:15     |   (AA)  |       |
 | 12 October       | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami (30'). Optical Tweezers (30'). Nucleosomes (30'). |   CBS    |
-| 14 October       | Thu     |      1.5 | 3:00-4:30     |  (PEM)  |       |
-| 19 October      | Thu     |      1.5 | 8:00-9:30     | Histone modifications (30'). DNA machines (30'). Transcription factors I (30'). |  CBS     |
-| 19 October      | Fri     |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
+| 15 October       | Fri     |      1.5 | 3:00-4:30     |  (PEM)  |       |
+| 19 October      | Tue     |      1.5 | 8:00-9:30     | Histone modifications (30'). DNA machines (30'). Transcription factors I (30'). |  CBS     |
+| 19 October      | Tue     |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
 | 21 October       | Thu     |      3.0 | 1:15-4:30     |  (PEM)  |       |
-| 21 October      | Thu     |      1.5 | 16:45-18:15 |  Higher-order chromatin structure  (1h). Loop extrusion (30').  | CBS   |
+| 21 October      | Thu     |      1.5 | 4:45-6:15 |  Higher-order chromatin structure  (1h). Loop extrusion (30').  | CBS   |
 | 22 October      | Fri   |      1.0 | 9:45-10:45    |  Multiplexing methods (1h)  | CBS   |
 | 22 October       | Fri     |      1.5 | 11:30-1:00    |   (LC)  |       |
 | 28 October       | Thu     |      1.5 | 3:00-4:30     |  (PEM)  |       |
