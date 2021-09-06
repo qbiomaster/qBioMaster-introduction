@@ -24,7 +24,7 @@ Slots are usually 1.5h long.
 | 21 September     | Tue     |      1.5 | 9:45-11:15     |   (LC)  |       |
 | 23 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 23 September     | Thu     |      1.5 | 4:45-6:15     |   (LC)  |       |
-| **24 September**    | Fri   |      1.5 | 11:30-13:00  | Introduction to fluorescence microscopy (1h). TIRF microscopy (30'). |  CBS     |
+| 24 September    | Fri   |      1.5 | 3:00-4:30  | Introduction to fluorescence microscopy (1h). TIRF microscopy (30'). |  CBS     |
 | 28 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal (30') /SMLM (1h).                                  |   CBS    |
 | 30 September     | Thu     |      1.5 | 1:15-2:50     | 3D-SIM and STED (30'). Fluctuation microscopies (1h). |  CBS     |
