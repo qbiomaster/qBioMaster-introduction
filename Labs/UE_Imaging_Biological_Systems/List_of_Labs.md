@@ -20,6 +20,19 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 
 ## Tentative timetable
+**Teachers**:
+ALG : Antoine Le Gall
+CC : Caroline Clerté
+CD : Christine Doucet
+CG : Cédric Godefroy
+EM : Emmanuel Margeat
+JBF : Jean-Bernard Fiche
+LC : Luca Costa
+RQ : Robert Quast
+PEM : Pierre-Emmanuel Milhiet
+
+
+
 ### Section #1-Basics
 | Date | Schedule | Subject | Location | Teachers|
 | ------------ |----| ------ | ------- | ----------- |
@@ -36,7 +49,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | 17/11/21 |14:00-18:00| TP : Building your setup| CBS | ALG, EM, LC  |
 | 18/11/21 |14:00-18:00| TP : Building your setup| CBS | ALG, EM, LC  |
 | 19/11/21 |14:00-16:00| TP : Building your setup-acquisition| CBS | ALG, EM, LC  |
-| ? |14:00-16:00| Oral restitutions #1| CBS | ALG, EM, LC  |
+| ? |14:00-16:00| Oral restitutions #1| CBS | ALG, EM, LC, CD  |
 
 ### Section #3-Practicals
 | Date | Schedule | Subject | Location | Teachers|
@@ -113,7 +126,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 
 
-| Technique | Sample Preparation | Experiment | Teacher | 
+| Technique | Sample Preparation | Experiment | Teacher |
 | ---- | ------ | ------- | ----------- |
 |  AiryScan-PALM  | Nuclear pore complex : labeling | Super resolution | JBF/CD(/ALG?) |
 |  FCS-N&B    | Dyes solution, bacteria samples | volume and diffusion time characterization, oligomerization state | CC |
@@ -142,7 +155,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 | TP | Experiment | Analysis tools |
 | ---- | ------ | ------- |
 | STORM | NPC | Reconstruction with Thunderstorm |
-|  | ParA-mEos3.2 | Track reconstruction + MSD analysis |
-| N&B | strains UE SynBio + Rho | Patrack|
-| smFRET | ??? | ??? |
-| AFM+Fluo | ??? | ??? |
+| N&B | strains UE SynBio + Rho | Patrack |
+|  smFRET     |     mGluR                    |   ?  |
+|    AFM+FLIM   |           ?              |       ?                           |
+|       |                         |                                  |
