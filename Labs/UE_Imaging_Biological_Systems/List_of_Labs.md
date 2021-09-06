@@ -115,7 +115,7 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 | Technique | Sample Preparation | Experiment | Teacher | 
 | ---- | ------ | ------- | ----------- |
-|  AiryScan-PALM  | Nuclear pore complex : labeling | Super resolution |  | JBF/CD(/ALG?) |
+|  AiryScan-PALM  | Nuclear pore complex : labeling | Super resolution | JBF/CD(/ALG?) |
 |  FCS-N&B    | Dyes solution, bacteria samples | volume and diffusion time characterization, oligomerization state | CC |
 | TIRF-FRET          | GPCR mGluR purif and labeling| Conformation dynamics | RQ, EM|
 |  AFM-FLIM  | Lipid bilayers with bodipy labeling | Topography, force measurements, life time measurements | CG/PEM |
@@ -139,11 +139,10 @@ The UE Imaging Biological Systems is organized around three sections with increa
 * Oral restitution + written report
 
 
-| TP | Experiment | Analysis |
+| TP | Experiment | Analysis tools |
 | ---- | ------ | ------- |
 | STORM | NPC | Reconstruction with Thunderstorm |
-| SPT | ParA-mEos3.2 | Track reconstruction + MSD analysis |
-| N&B | strains UE SynBio | Autocorrelation + Fit models of diffusion + Analysis concentrations |
+|  | ParA-mEos3.2 | Track reconstruction + MSD analysis |
+| N&B | strains UE SynBio + Rho | Patrack|
 | smFRET | ??? | ??? |
-| AFM-JPK | ??? | ??? |
 | AFM+Fluo | ??? | ??? |
