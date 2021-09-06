@@ -113,12 +113,12 @@ The UE Imaging Biological Systems is organized around three sections with increa
 
 
 
-| Setup | Sample Preparation | TP | Teacher | 
+| Technique | Sample Preparation | Experiment | Teacher | 
 | ---- | ------ | ------- | ----------- |
-|  AiryScan/PALM  | Nuclear pore complex : labeling | AiryScan / SMLM |  | JBF/CD(/ALG?) |
-|  FCS    | Dyes solution, bacteria samples | N&B, RICS, FRET | CC |
-| FRET          | GPCR mGluR purif and labeling| smFRET | RQ, EM|
-|  AFM-FLUO  | Lipid bilayers with bodipy labeling | Topography, force measurements, life time measurements | CG/PEM |
+|  AiryScan-PALM  | Nuclear pore complex : labeling | Super resolution |  | JBF/CD(/ALG?) |
+|  FCS-N&B    | Dyes solution, bacteria samples | volume and diffusion time characterization, oligomerization state | CC |
+| TIRF-FRET          | GPCR mGluR purif and labeling| Conformation dynamics | RQ, EM|
+|  AFM-FLIM  | Lipid bilayers with bodipy labeling | Topography, force measurements, life time measurements | CG/PEM |
 
 * CM 15min :  Sample mounting / preparation
 
