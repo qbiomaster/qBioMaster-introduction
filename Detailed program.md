@@ -14,9 +14,7 @@ Students will have to develop 4 compulsory projects (to be evaluated), plus one 
 
 ### Tentative timetable
 
-Slots are 1.5h starting at 8:00, with 15 min pause between two slots.
-
-According to the compulsory courses of the curricula EpiGenBio, CancerBio, Medicine Explique/Phisio the *Intro to qbio* course could be on **Tuesday 8h - 11h15**, **Thursday 8h - 13h00** or **Thursday 13h15 - 18h15**, **Friday 15h-18h15**. In the temporary timetable below I have only used the first 2 slots (Tue and Thu morning).
+Slots are usually 1.5h long.
 
 | Date             | Day     |   #hours | Starting Time | Subject | Where |
 | :--------------- | ------- | -------: | ------------- | ------- | ----- |
