@@ -29,10 +29,11 @@ Slots are usually 1.5h long.
 | 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal (30') /SMLM (1h).                                  |   CBS    |
 | 30 September     | Thu     |      1.5 | 1:15-2:50     | 3D-SIM and STED (30'). Fluctuation microscopies (1h). |  CBS     |
 | 30 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
-| 5 October        | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
+| 5 October        | Tue     |      1.5 | 8:00-9:30     |   (AA)  |       |
 | 5 October        | Tue     |        1 | 9:45-10:45 | AFM      |  CBS     |
 | 7 October        | Thu     |      1.5 | 1:15-2:50     | Introduction to genome biophysics (30'). DNA supercoiling (1h). |  CBS     |
-| 7 October        | Thu     |      3.0 | 3:00-6:15     |   (AA)  |       |
+| 7 October        | Thu     |      1.5 | 3:00-4:30     |   (AA)  |       |
+| 7 October        | Thu     |      1.5 | 4:45-6:15     |   (LC)  |       |
 | 12 October       | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami (30'). Optical Tweezers (30'). Nucleosomes (30'). |   CBS    |
 | 15 October       | Fri     |      1.5 | 3:00-4:30     |  (PEM)  |       |
