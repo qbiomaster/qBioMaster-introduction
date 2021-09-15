@@ -24,10 +24,10 @@ Slots are usually 1.5h long.
 | 21 September     | Tue     |      1.5 | 9:45-11:15     |   (LC)  |       |
 | 23 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 23 September     | Thu     |      1.5 | 4:45-6:15     |   (LC)  |       |
-| 24 September    | Fri   |      1.5 | 3:00-4:30  | Introduction to fluorescence microscopy (1h). TIRF microscopy (30'). |  CBS     |
+| 24 September    | Fri   |      1.5 | 3:00-4:30  | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). |  CBS     |
 | 28 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal (30') /SMLM (1h).                                  |   CBS    |
-| 30 September     | Thu     |      1.5 | 1:15-2:50     | 3D-SIM and STED (30'). Fluctuation microscopies (1h). |  CBS     |
+| 28 September     | Tue     |      1.5 | 9:45-11:20    | Advanced Imaging Systems 1 : Confocal (30') / Superresolution microscopies 1 : SMLM (1h) - MN.                                  |   CBS    |
+| 30 September     | Thu     |      1.5 | 1:15-2:50     | Superresolution microscopies 2 : 3D-SIM and STED (30'-MN). Fluctuation microscopies (1h - EM). |  CBS     |
 | 30 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 5 October        | Tue     |      1.5 | 8:00-9:30     |   (AA)  |       |
 | 5 October        | Tue     |        1 | 9:45-10:45 | AFM      |  CBS     |
@@ -70,7 +70,7 @@ Mixed evaluation between project (compulsory 4*10% + chosen 10%) + CC (20%) + fi
 
 (In parenthesis the number of hours, 1 lecture is 1.5h)
 
-[AA= Andrea Apolloni (CIRAD); LC = Luca Ciandrini; MN = Marcelo Nollmann; PEM = Pierre-Emmanuel Milhiet]
+[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nollmann; PEM = Pierre-Emmanuel Milhiet]
 
 
 
@@ -185,9 +185,9 @@ We will first give an overview of the theory and some biological examples, that 
 
 
 
-### Basics of microscopy (7h - MN)
+### Basics of microscopy (7h - MN/EM)
 
-#### Basics of image processing (1.5h)
+#### Basics of image processing (1.5h - MN)
 
 *Objectives:*
 
@@ -210,7 +210,7 @@ We will first give an overview of the theory and some biological examples, that 
 - You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional image segmentation methods, such as thresholding and watershed.
 -  Finally, you will learn how to apply artificial intelligence based (deep learning) algorithms to segment an image of nuclei within a Drosophila embryo.
 
-#### Fluorescence_microscopy (1h)
+#### Introduction to fluroescence microscopy (1h - EM)
 
 *Objectives: *
 
@@ -234,7 +234,7 @@ We will first give an overview of the theory and some biological examples, that 
 - Learn how a widefield microscope is built.
 - What is the intrinsic resolution of a widefield microscope.
 
-#### Advanced imaging systems (1h)
+#### Advanced imaging systems (1h - MN)
 
 *Objectives:*
 
@@ -258,7 +258,7 @@ We will first give an overview of the theory and some biological examples, that 
 - Calculate the excitation profile of a confocal microscope and compare to widefield excitation
 - Estimate the 3D resolution in confocal and compare to widefield microscopy.
 
-#### Super-resolution microscopies (1.5h)
+#### Super-resolution microscopies (1.5h - MN)
 
 *Objectives:*
 - What is the resolution limit imposed by light diffraction?
@@ -281,7 +281,7 @@ We will first give an overview of the theory and some biological examples, that 
 - Localize single molecules from a single-source dataset
 - Read additional resources with examples of how these methods can be used to gain biological insight.
 
-#### Basics of fluorescence fluctuation (1h).
+#### Basics of fluorescence fluctuation (1h - EM).
 
 
 *Objectives:*
@@ -306,7 +306,7 @@ We will first give an overview of the theory and some biological examples, that 
 
 
 
-#### Basics of near-field microscopies (AFM) (1h).
+#### Basics of near-field microscopies (AFM) (1h - LCo).
 
 
 
