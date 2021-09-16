@@ -26,7 +26,7 @@ Slots are usually 1.5h long.
 | 23 September     | Thu     |      1.5 | 4:45-6:15     |   (LC)  |       |
 | 24 September    | Fri   |      1.5 | 3:00-4:30  | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). |  CBS     |
 | 28 September     | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
-| 28 September     | Tue     |      1.5 | 9:45-11:20    | Confocal (30') /SMLM (1h).                                  |   CBS    |
+| 28 September     | Tue     |      1.5 | 9:45-11:20    | Advanced Imaging Systems: Confocal (30') /SMLM (1h).    |   CBS    |
 | 30 September     | Thu     |      1.5 | 1:15-2:50     | Introduction to genome biophysics (30'). DNA supercoiling (1h). |  CBS     |
 | 30 September     | Thu     |      1.5 | 3:00-4:30     |   (LC)  |       |
 | 5 October        | Tue     |      1.5 | 8:00-9:30     |   (AA)  |       |
@@ -37,7 +37,7 @@ Slots are usually 1.5h long.
 | 12 October       | Tue     |      1.5 | 8:00-9:30     |   (LC)  |       |
 | 12 October       | Tue     |      1.5 | 9:45-11:20    | DNA origami (30') by Gaetan Bellot. Optical Tweezers (30') by Ashley Nord. |   CBS    |
 | 15 October       | Fri     |      1.5 | 3:00-4:30     |  (PEM)  |       |
-| 19 October      | Tue     |      1.5 | 8:00-9:30     | 3D-SIM and STED (30'). Fluctuation microscopies (1h). Transcription factors I (30'). |  CBS     |
+| 19 October      | Tue     |      1.5 | 8:00-9:30     | Advanced Imaging Systems: 3D-SIM and STED (30'). Fluctuation microscopies (1h). Genome Biophysics: Transcription factors I (30'). |  CBS     |
 | 19 October      | Tue     |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
 | 21 October       | Thu     |      3.0 | 1:15-4:30     |  (PEM)  |       |
 | 21 October      | Thu     |      1.5 | 3:00-4:30 |  Higher-order chromatin structure  (1h). Loop extrusion (30').  | CBS   |
