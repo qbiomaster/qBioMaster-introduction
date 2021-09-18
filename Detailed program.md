@@ -8,11 +8,15 @@
 
 The majority of classes will not be "standard" lectures. Interaction will be privileged (learning by peers, Rolling boards,... )
 
-Students will have to develop 4 compulsory projects (to be evaluated), plus one at choice.
-
 
 
 ### Tentative timetable
+
+#### Instructors
+
+[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet]
+
+
 
 Slots are usually 1.5h long.
 
@@ -48,9 +52,21 @@ Slots are usually 1.5h long.
 
 
 
+### Assignments 
+
+Assignments given by LC should be sent to him by email (.ipynb file plus other needed material in case) by the deadline. Returning the homework with a delay will bring you a penalty.
+
+| **Title**                                                    | **Deadline**      | Instructor |
+| ------------------------------------------------------------ | ----------------- | ---------- |
+| [Water consumption](./constructs/UE_introduction/water.ipynb) [Not evaluated but compulsory] | Wed 22/9 at 23:59 | LC         |
+|                                                              |                   |            |
+|                                                              |                   |            |
+
+
+
 ### Evaluation
 
-Evaluation by projects (compulsory 5*20%).
+Evaluation by projects (compulsory 5*20%). Students will have to return 5 compulsory homework projects - assignments, no other exam is planned.
 
 
 
@@ -70,8 +86,6 @@ Evaluation by projects (compulsory 5*20%).
 
 (In parenthesis the number of hours, 1 lecture is 1.5h)
 
-[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nollmann; PEM = Pierre-Emmanuel Milhiet]
-
 
 
 ### What is quantitative biology? (1h - LC) 
@@ -80,15 +94,17 @@ Explain the course, introduce the teachers, projects, evaluation. Outline the co
 
 #### Homework: *How many litres of water do you use each day?*
 
+[Water consumption](./constructs/UE_introduction/water.ipynb) 
+
 Give an estimate of how many litres of water per day you consume following your lifestyle.
 
 *Objective:* learn how to look for data, how to analyse, present and discuss them. 
 
-*Time:* 1-2 weeks
+*Time:* 1 week 
 
 *How:* Discord during the week, written report (2 pages max), Jupiter notebook. Quickly discuss the outcomes the week later. 
 
-*Evaluation:* not compulsory, to be discussed.  
+*Evaluation:* compulsory but not evaluated.  
 
 *Outline:*
 
