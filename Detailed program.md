@@ -20,35 +20,38 @@ The majority of classes will not be "standard" lectures. Interaction will be pri
 
 Slots are usually 1.5h long.
 
-| Date         | Day  |   #hours | Starting Time | Subject                                                      | Where |
-| :----------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- |
-| 16 September | Thu  |      1.5 | 1:15-2:45     | Introduction and course organisation (LC)                    | CBS   |
-| 16 September | Thu  |      1.5 | 3:00-4:30     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). | CBS   |
-| 21 September | Tue  |      1.5 | 8:00-9:30     | Modelling tools: ODE (LC)                                    | CBS   |
-| 21 September | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   |
-| 23 September | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   |
-| 23 September | Thu  |      1.5 | 4:45-6:15     | Macromolecules as Random Walks (LC)                          | CBS   |
-| 24 September | Fri  |      1.5 | 3:00-4:30     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS   |
-| 28 September | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
-| 28 September | Tue  |      1.5 | 9:45-11:20    | Advanced Imaging Systems: Confocal (30') /SMLM (1h).         | CBS   |
-| 30 September | Thu  |      1.5 | 1:15-2:50     | Introduction to genome biophysics (30'). DNA supercoiling (1h). | CBS   |
-| 30 September | Thu  |      1.5 | 3:00-4:30     | (LC)                                                         | CBS   |
-| 5 October    | Tue  |      1.5 | 8:00-9:30     | (AA)                                                         | CBS   |
-| 5 October    | Tue  |        1 | 9:45-10:45    | AFM                                                          | CBS   |
-| 7 October    | Thu  |      1.5 | 1:15-2:50     | Nucleosomes (30'). Histone modifications (30'). DNA machines (30'). | CBS   |
-| 7 October    | Thu  |      1.5 | 3:00-4:30     | (AA)                                                         | CBS   |
-| 7 October    | Thu  |      1.5 | 4:45-6:15     | (LC)                                                         | CBS   |
-| 12 October   | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
-| 12 October   | Tue  |      1.5 | 9:45-11:20    | DNA origami (30') by Gaetan Bellot. Optical Tweezers (30') by Ashley Nord. | CBS   |
-| 15 October   | Fri  |      1.5 | 3:00-4:30     | (PEM)                                                        | CBS   |
-| 19 October   | Tue  |      1.5 | 8:00-9:30     | Advanced Imaging Systems: 3D-SIM and STED (30'). Fluctuation microscopies (1h). Genome Biophysics: Transcription factors I (30'). | CBS   |
-| 19 October   | Tue  |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
-| 21 October   | Thu  |      3.0 | 1:15-4:30     | (PEM)                                                        | CBS   |
-| 21 October   | Thu  |      1.5 | 3:00-4:30     | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS   |
-| 22 October   | Fri  |      1.0 | 9:45-11:15    | Multiplexing methods (1h)                                    | CBS   |
-| 22 October   | Fri  |      1.5 | 11:30-1:00    | (LC)                                                         | CBS   |
-| 28 October   | Thu  |      1.5 | 3:00-4:30     | (PEM)                                                        | CBS   |
-|              |      | **40.0** |               |                                                              | CBS   |
+| Date             | Day  |   #hours | Starting Time | Subject                                                      | Where |
+| :--------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- |
+| 16 September     | Thu  |      1.5 | 1:15-2:45     | Introduction and course organisation (LC)                    | CBS   |
+| 16 September     | Thu  |      1.5 | 3:00-4:30     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). | CBS   |
+| 21 September     | Tue  |      1.5 | 8:00-9:30     | Modelling tools: ODE (LC)                                    | CBS   |
+| 21 September     | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   |
+| 23 September     | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   |
+| 23 September     | Thu  |      1.5 | 4:45-6:15     | Macromolecules as Random Walks (LC)                          | CBS   |
+| 24 September     | Fri  |      1.5 | 3:00-4:30     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS   |
+| 28 September     | Tue  |      1.5 | 8:00-9:30     | Gene expression regulation (LC)                              | CBS   |
+| 1 October        | Fri  |      1.5 | 11:00-12:30   | Advanced Imaging Systems: Confocal (30') /SMLM (1h).         | CBS   |
+| 5 October        | Tue  |      1.5 | 8:00-9:30     | Introduction to Complex Networks (AA)                        | CBS   |
+| 5 October        | Tue  |      1.5 | 9:45-11:15    | Introduction to genome biophysics (30'). DNA supercoiling (1h). | CBS   |
+| 7 October        | Thu  |      1.5 | 1:15-2:50     | Nucleosomes (30'). Histone modifications (30'). DNA machines (30'). | CBS   |
+| 7 October        | Thu  |      1.5 | 3:00-4:30     | Introduction to Complex Networks (AA)                        | CBS   |
+| 7 October        | Thu  |      1.5 | 4:45-6:15     | (LC)                                                         | CBS   |
+| 8 October        | Fri  |        1 | 9:45-10:45    | AFM                                                          | CBS   |
+| 8 October        | Fri  |      1.5 | 11:00-12:30   | (LC)                                                         | CBS   |
+| 12 October       | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
+| 12 October       | Tue  |      1.5 | 9:45-11:20    | DNA origami (30') by Gaetan Bellot. Optical Tweezers (30') by Ashley Nord. | CBS   |
+| 15 October       | Fri  |      1.5 | 11:30-13:00   | (PEM)                                                        | CBS   |
+| 19 October       | Tue  |      1.5 | 8:00-9:30     | Advanced Imaging Systems: 3D-SIM and STED (30'). Fluctuation microscopies (1h). Genome Biophysics: Transcription factors I (30'). | CBS   |
+| 19 October       | Tue  |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
+| **21 October* ** | Thu  |      1.5 | 1:15-2:45     | (PEM)                                                        | CBS   |
+| **21 October***  | Thu  |      1.5 | 3:00-4:30     | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS   |
+| 22 October       | Fri  |      1.5 | 9:45-11:15    | Multiplexing methods (1h)                                    | CBS   |
+| 22 October       | Fri  |      1.5 | 11:30-1:00    | (LC)                                                         | CBS   |
+| 26 October       | Tue  |      1.5 | 8:00-9:30     | (PEM/MA)                                                     | CBS   |
+| 28 October       | Thu  |      1.5 | 3:00-4:30     | (PEM/LCo)                                                    | CBS   |
+|                  |      | **40.0** |               |                                                              | CBS   |
+
+*= We are trying to move these lectures to give you the possibility to attend the Forum Enterprise.
 
 
 
