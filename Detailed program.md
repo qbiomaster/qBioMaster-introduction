@@ -62,7 +62,7 @@ When you send the assignment by email, please use the subject `Assignment X - In
 
 | **Title**                                                    | **Deadline**      | Instructor |
 | ------------------------------------------------------------ | ----------------- | ---------- |
-| [Water consumption](./constructs/UE_introduction/water.ipynb) [Not evaluated but compulsory] | Wed 22/9 at 23:59 | LC         |
+| [Water consumption](./constructs/UE_Introduction/water.ipynb) [Not evaluated but compulsory] | Wed 22/9 at 23:59 | LC         |
 |                                                              |                   |            |
 |                                                              |                   |            |
 
@@ -96,7 +96,7 @@ Explain the course, introduce the teachers, projects, evaluation. Outline the co
 
 #### Homework: *How many litres of water do you use each day?*
 
-[Water consumption](./constructs/UE_introduction/water.ipynb) 
+ [Water consumption](./constructs/UE_Introduction/water.ipynb) 
 
 Give an estimate of how many litres of water per day you consume following your lifestyle.
 
