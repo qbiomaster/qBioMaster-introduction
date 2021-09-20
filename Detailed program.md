@@ -58,6 +58,8 @@ Slots are usually 1.5h long.
 
 Assignments given by LC should be sent to him by email (.ipynb file plus other needed material in case) by the deadline. Returning the homework with a delay will bring you a penalty.
 
+When you send the assignment by email, please use the subject `Assignment X - Intro qbio` (where `X`is the number of the assignment); name the file as `AX_NameSurname.ipynb` and put all the necessary files (datasets, images,...) in a directory named `data_NamSurname`. Then zip the files and send the archive. For instance, when Luca sends the assignment 3, he will name the file `A3_LucaCiandrini.ipynb`, put all data in the folder `data_LucaCiandrini`, compress everything in a single file to be sent in a message with subject `Assignment 3 - Intro qbio`.
+
 | **Title**                                                    | **Deadline**      | Instructor |
 | ------------------------------------------------------------ | ----------------- | ---------- |
 | [Water consumption](./constructs/UE_introduction/water.ipynb) [Not evaluated but compulsory] | Wed 22/9 at 23:59 | LC         |
@@ -85,8 +87,6 @@ Evaluation by projects (compulsory 5*20%). Students will have to return 5 compul
 
 
 ## Tentative program
-
-(In parenthesis the number of hours, 1 lecture is 1.5h)
 
 
 
@@ -135,23 +135,21 @@ In this block we want to introduce a few different modelling approaches, and in 
 3. Simulate a simple stochastic process (Gillespie algorithm) and compare to its deterministic variant.
 4. Understand a model based on PDEs.
 
-READING: D.J. Wilkinson, *"Stochastic modelling for quantitative description of heterogeneous biological systems"*, Nature Reviews (2009) [doi:10.1038/nrg2509](doi:10.1038/nrg2509)
+--> READING: D.J. Wilkinson, *"Stochastic modelling for quantitative description of heterogeneous biological systems"*, Nature Reviews (2009) [doi:10.1038/nrg2509](doi:10.1038/nrg2509)
 
 #### Modelling with Ordinary Differential Equations (2h)
 
 ##### Project: `Solving ODE (pencil and computer) `
 
-The idea is to build this Lab on the Toggle Switch.
+[Modelling toolbox: ODE](./constructs/Modelling_ODE.ipynb)
 
-*Objective:* Sketch a model based on ODE, simple solving techniques. Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines. Solve your system of equations with Python. 
+*Objective:* Sketch a model based on ODE, simple solving techniques. Solve your system of equations with Python. 
 
-*Time:*  During the class? Demonstration by the teacher?
+Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines,... will be tackled in a following lecture.
+
+*Time:*  During the class, demonstration by the teacher.
 
 *How:*  Jupyter notebook, step-by-step.
-
-*Evaluation:* not evaluated? 
-
-*Outline:* To be done
 
 
 
@@ -159,15 +157,13 @@ The idea is to build this Lab on the Toggle Switch.
 
 ##### Project: `Gillespie Algorithm  `
 
+[Modelling toolbox: stochastic simulations](./constructs/Modelling_stoc.ipynb)
+
 *Objective:* Introduction to Monte Carlo methods. Understanding the concept of noise, learn how to simulate a stochastic biochemical reaction. Distributions, coefficient of variation (and similar).
 
-*Time:* During the class? Demonstration by the teacher?
+*Time:* During the class, demonstration by the teacher.
 
 *How:*  Jupyter notebook, step-by-step
-
-*Evaluation:* not evaluated
-
-*Outline:* To be done
 
 
 
