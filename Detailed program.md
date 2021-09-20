@@ -141,7 +141,7 @@ In this block we want to introduce a few different modelling approaches, and in 
 
 ##### Project: `Solving ODE (pencil and computer) `
 
-[Modelling toolbox: ODE](./constructs/Modelling_ODE.ipynb)
+[Modelling toolbox: ODE](./constructs/UE_Introduction/Modelling_ODE.ipynb)
 
 *Objective:* Sketch a model based on ODE, simple solving techniques. Solve your system of equations with Python. 
 
@@ -157,7 +157,7 @@ Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines,... will be tac
 
 ##### Project: `Gillespie Algorithm  `
 
-[Modelling toolbox: stochastic simulations](./constructs/Modelling_stoc.ipynb)
+[Modelling toolbox: stochastic simulations](./constructs/UE_Introduction/Modelling_stoc.ipynb)
 
 *Objective:* Introduction to Monte Carlo methods. Understanding the concept of noise, learn how to simulate a stochastic biochemical reaction. Distributions, coefficient of variation (and similar).
 
