@@ -43,15 +43,14 @@ Slots are usually 1.5h long.
 | 15 October      | Fri  |      1.5 | 11:30-13:00   | (PEM)                                                        | CBS   |
 | 19 October      | Tue  |      1.5 | 8:00-9:30     | Advanced Imaging Systems: 3D-SIM and STED (30'). Fluctuation microscopies (1h). Genome Biophysics: Transcription factors I (30'). | CBS   |
 | 19 October      | Tue  |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
-| **21 October*** | Thu  |      1.5 | 1:15-2:45     | (PEM)                                                        | CBS   |
-| **21 October*** | Thu  |      1.5 | 3:00-4:30     | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS   |
-| 22 October      | Fri  |      1.5 | 9:45-11:15    | Multiplexing methods (1h)                                    | CBS   |
+| 22 October      | Fri  |      1.5 | 9:45-11:15    | Higher-order chromatin structure  (1h). Loop extrusion (30').| CBS   |
 | 22 October      | Fri  |      1.5 | 11:30-1:00    | (LC)                                                         | CBS   |
 | 26 October      | Tue  |      1.5 | 8:00-9:30     | (PEM/MA)                                                     | CBS   |
 | 28 October      | Thu  |      1.5 | 3:00-4:30     | (PEM/LCo)                                                    | CBS   |
+| 10 November     | Wed  |      1.5 | 9:00-10:30    | (PEM)                                                        | CBS   |
+| 10 November     | Wed  |      1.5 | 10:45-12:15   | Multiplexing methods (1h)                                    | CBS   |
 |                 |      | **40.0** |               |                                                              | CBS   |
 
-*= We are trying to move these lectures to give you the possibility to attend the Forum Enterprise.
 
 
 
