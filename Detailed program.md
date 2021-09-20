@@ -36,10 +36,10 @@ Slots are usually 1.5h long.
 | 7 October       | Thu  |      1.5 | 1:15-2:50     | Nucleosomes (30'). Histone modifications (30'). DNA machines (30'). | CBS   |
 | 7 October       | Thu  |      1.5 | 3:00-4:30     | Introduction to Complex Networks (AA)                        | CBS   |
 | 7 October       | Thu  |      1.5 | 4:45-6:15     | (LC)                                                         | CBS   |
-| 8 October       | Fri  |        1 | 9:45-10:45    | AFM                                                          | CBS   |
+| 8 October       | Fri  |      1.25| 9:45-11:00    | AFM                                                          | CBS   |
 | 8 October       | Fri  |      1.5 | 11:00-12:30   | (LC)                                                         | CBS   |
 | 12 October      | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
-| 12 October      | Tue  |      1.5 | 9:45-11:20    | DNA origami (30') by Gaetan Bellot. Optical Tweezers (30') by Ashley Nord. | CBS   |
+| 12 October      | Tue  |      1.5 | 9:45-11:20    | DNA origami (30') by Gaetan Bellot. Optical Tweezers (1h) by Ashley Nord. | CBS   |
 | 15 October      | Fri  |      1.5 | 11:30-13:00   | (PEM)                                                        | CBS   |
 | 19 October      | Tue  |      1.5 | 8:00-9:30     | Advanced Imaging Systems: 3D-SIM and STED (30'). Fluctuation microscopies (1h). Genome Biophysics: Transcription factors I (30'). | CBS   |
 | 19 October      | Tue  |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
