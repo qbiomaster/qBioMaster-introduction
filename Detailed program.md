@@ -26,8 +26,8 @@ Slots are usually 1.5h long.
 | 16 September | Thu  |      1.5 | 3:00-4:30     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). | CBS   |
 | 21 September | Tue  |      1.5 | 8:00-9:30     | Modelling tools: ODE (LC)                                    | CBS   |
 | 21 September | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   |
-| 23 September | Thu  |      1.5 | 3:00-4:30     | (LC)                                                         | CBS   |
-| 23 September | Thu  |      1.5 | 4:45-6:15     | (LC)                                                         | CBS   |
+| 23 September | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   |
+| 23 September | Thu  |      1.5 | 4:45-6:15     | Macromolecules as Random Walks (LC)                          | CBS   |
 | 24 September | Fri  |      1.5 | 3:00-4:30     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS   |
 | 28 September | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
 | 28 September | Tue  |      1.5 | 9:45-11:20    | Advanced Imaging Systems: Confocal (30') /SMLM (1h).         | CBS   |
