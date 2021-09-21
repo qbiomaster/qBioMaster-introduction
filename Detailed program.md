@@ -37,7 +37,7 @@ Slots are usually 1.5h long.
 | 7 October       | Thu  |      1.5 | 3:00-4:30     | Introduction to Complex Networks (AA)                        | CBS   |
 | 7 October       | Thu  |      1.5 | 4:45-6:15     | (LC)                                                         | CBS   |
 | 8 October       | Fri  |      1.25| 9:45-11:00    | AFM                                                          | CBS   |
-| 8 October       | Fri  |      1.5 | 11:00-12:30   | (LC)                                                         | CBS   |
+| 8 October       | Fri  |      1.5 | 11:00-12:30   | Noise (30' LC) + Gene expression noise in plants (SC)        | CBS   |
 | 12 October      | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
 | 12 October      | Tue  |      1.5 | 9:45-11:20    | DNA origami (30') by Gaetan Bellot. Optical Tweezers (1h) by Ashley Nord. | CBS   |
 | 15 October      | Fri  |      1.5 | 11:30-13:00   | (PEM)                                                        | CBS   |
