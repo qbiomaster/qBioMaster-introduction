@@ -45,7 +45,7 @@ Slots are usually 1.5h long.
 | 19 October      | Tue  |      1.5 | 9:45-11:20    | Transcription factors II and protein diffusion by spt-PALM (45'). Talk by W. Bourget (45') | CBS   |
 | 22 October      | Fri  |      1.5 | 9:45-11:15    | Higher-order chromatin structure  (1h). Loop extrusion (30').| CBS   |
 | 22 October      | Fri  |      1.5 | 11:30-1:00    | (LC)                                                         | CBS   |
-| 26 October      | Tue  |      1.5 | 8:00-9:30     | (PEM/MA)                                                     | CBS   |
+| 28 October      | Thu  |      1.5 | 9:45-11:15 (maybe a bit more...)     | (PEM/MA)                                                     | CBS   |
 | 28 October      | Thu  |      1.5 | 3:00-4:30     | (PEM/LCo)                                                    | CBS   |
 | 10 November     | Wed  |      1.5 | 9:00-10:30    | (PEM)                                                        | CBS   |
 | 10 November     | Wed  |      1.5 | 10:45-12:15   | Multiplexing methods (1h)                                    | CBS   |
