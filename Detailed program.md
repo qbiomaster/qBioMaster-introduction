@@ -213,18 +213,26 @@ We will first give an overview of the theory and some biological examples, that 
 *How:*  Jupyter notebook, step-by-step
 
    1. [Learn how to load images](constructs/UE_Introduction/Load_image.ipynb)
-   2. [Learn how to manipulate images](constructs/UE_Introduction/Basic_image_processing.ipynb)
-   3. [Image processing-based segmentation](constructs/UE_Introduction/Segmentation_masks_imageAnalysis.ipynb)
-   4. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb) 
 
-*Evaluation:* not evaluated
+   2. [Learn how to manipulate images](constructs/UE_Introduction/Basic_image_processing.ipynb)
+
+
+
+##### Project: `Imaging and AI-based segmentation`
+
+[AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
+
+[Image processing-based segmentation](constructs/UE_Introduction/Segmentation_masks_imageAnalysis.ipynb)
+
+
 
 *Outline:*
+
 -  You will start by following the constructs to load images and learn the basics of image manipulation.
 - You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional image segmentation methods, such as thresholding and watershed.
 -  Finally, you will learn how to apply artificial intelligence based (deep learning) algorithms to segment an image of nuclei within a Drosophila embryo.
 
-#### Introduction to fluroescence microscopy (1h - EM)
+#### Introduction to fluorescence microscopy (1h - EM)
 
 *Objectives: *
 
@@ -287,9 +295,10 @@ We will first give an overview of the theory and some biological examples, that 
             2. [Structured illumination microscopy (SIM)](constructs/UE_Introduction/SIM_microscopy.ipynb)
             3. [Stimulated emission depletion microscopy (STED)](constructs/UE_Introduction/STED_microscopy.ipynb)
 
-*Evaluation:* not evaluated
+##### Project: `Single-molecule localization microscopy`
 
 *Outline:*
+
 - Follow tutorials on SMLM, SIM and STED microscopies and answer questionnaires.
 - Calculate the resolution gained for each of these methods
 - Localize single molecules from a single-source dataset
@@ -321,8 +330,6 @@ We will first give an overview of the theory and some biological examples, that 
 
 
 #### Basics of near-field microscopies (AFM) (1h - LCo).
-
-
 
 *Objectives:*
 
@@ -436,24 +443,68 @@ Based on the regulation of bacterial chemotaxis
 
 ### Genome Biophysics (8h30' - MN)
 
-1. DNA (1h).
-   1. (30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. Basics of multi-scale chromosome organization. [DNA basics tutorial](constructs/UE_Introduction/Basics_DNA.ipynb)
-   2. (30') DNA in biotechnology: DNA origami. Talk by Gaetan Bellot.
-2. Manipulating DNA (1.5h).
-   1. (1h) DNA supercoling. Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb)
-   2. (30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](constructs/UE_Introduction/OT_construct.ipynb).  Talk by Ashley Nord.
-3. Nucleosomes and epigenetics (1.5h).
-   1. (30') First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) 
-   2. (30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Review of the most relevant histone modifications and their consequences. [Histone modifications](constructs/UE_Introduction/histoneModifications.ipynb)
-   3. (30') Mechanism of transcription by single-molecule manipulation methods. How do motor proteins read and write histone modification information. How do they work? Examples from structural and single molecule manipulation studies.  [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) 
-4. Transcription factors (2h).
-   1. (45') What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
-   2. (30') How can we study the dynamics of DNA binding proteins? Are they always bound to their targets?  [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_nucleus.ipynb)
-   3. (45') Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
-5. Higher-order chromatin structure (2h30').
-   1. (1h) From nucleosomes to TADs and chromosome territories. High-throughput sequencing-based chromosome architecture (Hi-C like techniques). [Higher-order chromosome structure](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
-   3. (30') Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can SMCs modulate the higher order organization of bacterial chromosomes? [The mechanism of loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
-   4. (1h) Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, chromatin tracing, ORCA, etc. [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+#### DNA (1h).
+
+##### Basics of DNA
+
+(30') What is DNA? DNA is the molecule that carries information. Double helix structure. Basepairing. Basics of multi-scale chromosome organization.
+
+Jupyter lab: [DNA basics tutorial](constructs/UE_Introduction/Basics_DNA.ipynb)
+
+(30') DNA in biotechnology: DNA origami. Talk by Gaetan Bellot.
+
+#### Manipulating DNA (1.5h).
+
+##### (1h) Motors and DNA supercoling
+Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Proteins acting on DNA management: replichore, topoisomerases, RNA polymerase, translocases and helicases. Example for bacteria. How can DNA supercoiling be manipulated in vitro? Principles and applications of magnetic tweezers. 
+
+Jupyter lab: [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb)
+
+(30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](constructs/UE_Introduction/OT_construct.ipynb).  Talk by Ashley Nord.
+
+#### Nucleosomes and epigenetics (1.5h)
+
+##### Nucleosomes 
+(30') First level of higher order chromatin structure in eukaryotes: the nucleosome. Structure of the nucleosome. Histones, histone octamers, and how DNA is wrapped around. 
+Jupyter lab: [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) 
+
+##### Epigenetics
+(30') What is epigenetics? Histone modifications can alter the structure of chromatin and the function of the nucleus. Review of the most relevant histone modifications and their consequences. [Histone modifications]
+Jupyter lab: (constructs/UE_Introduction/histoneModifications.ipynb)
+
+##### (30') Molecular motors working on DNA. 
+Mechanism of transcription by single-molecule manipulation methods. How do motor proteins read and write histone modification information. How do they work? Examples from structural and single molecule manipulation studies.  
+Jupyter lab: [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) 
+
+#### Transcription factors (2h).
+
+##### (45') Transcription factors 101.
+What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
+
+##### (45') Structural studies on TFs.
+Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
+
+##### Project: `Study the diffusion of DNA binding proteins using sptPALM`
+How can we study the dynamics of DNA binding proteins? Are they always bound to their targets? 
+
+Jupyter lab: [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_nucleus.ipynb)
+
+#### Higher-order chromatin structure (2h30').
+
+##### (1h) multiscale chromosome structure.
+From nucleosomes to TADs and chromosome territories. High-throughput sequencing-based chromosome architecture (Hi-C like techniques).
+Jupyter lab: [Higher-order chromosome structure](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
+
+##### (30') Loop extrusion.
+Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can SMCs modulate the higher order organization of bacterial chromosomes? 
+Jupyter lab: [The mechanism of loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
+
+##### (1h) Imaging based 3C.
+Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, chromatin tracing, ORCA, etc. 
+Jupyter lab: [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+
+##### Project: `Plot and analyze contact matrix data`
+Jupyter lab: [Higher-order chromosome structure](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
 
 ### Membrane Biophysics (6h)
 
