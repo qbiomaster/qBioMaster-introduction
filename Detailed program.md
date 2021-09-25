@@ -60,8 +60,8 @@ Assignments given by LC should be sent to him by email (.ipynb file plus other n
 
 When you send the assignment by email, please use the subject `Assignment X - Intro qbio` (where `X`is the number of the assignment); name the file as `AX_NameSurname.ipynb` and put all the necessary files (datasets, images,...) in a directory named `data`. Then zip the files and send the archive. For instance, when Luca sends the assignment 3, he will name the file `A3_LucaCiandrini.ipynb`, put all data in the folder `data`, compress everything in a single file to be sent in a message with subject `Assignment 3 - Intro qbio`.
 
-| # | **Title**                                                    | **Deadline**      | Instructor |
-| ------------------------------------------------------------ | ----------------- | ---------- |
+| # | **Title**                                                | **Deadline**      | Instructor |
+| --- |------------------------------------------------------------ | ----------------- | ---------- |
 | 0 | [Water consumption](./constructs/UE_Introduction/water.ipynb) [Not evaluated but compulsory] | Wed 22/9 at 23:59 | LC         |
 | 1 | [Logistic growth and competition](./assignments/assignment_1.ipynb) |  Wed 6/10 at 23:59                 |  LC          |
 |                                                              |                   |            |
