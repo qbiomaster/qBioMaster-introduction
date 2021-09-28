@@ -27,15 +27,15 @@ Slots are usually 1.5h long.
 | 21 September    | Tue  |      1.5 | 8:00-9:30     | Modelling tools: ODE (LC)                                    | CBS   |
 | 21 September    | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   |
 | 23 September    | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   |
-| 23 September    | Thu  |      1.5 | 4:45-6:15     | Macromolecules as Random Walks (LC)                          | CBS   |
+| 23 September    | Thu  |      1.5 | 4:45-6:15     | Random Walks (LC)                          | CBS   |
 | 24 September    | Fri  |      1.5 | 3:00-4:30     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS   |
-| 28 September    | Tue  |      1.5 | 8:00-9:30     | Gene expression regulation (LC)                              | CBS   |
+| 28 September    | Tue  |      1.5 | 8:00-9:30     | 2D RW and macromolecules as Random Walks (LC) | CBS   |
 | 1 October       | Fri  |      1.5 | 11:30-13:00   | Advanced Imaging Systems: Confocal (30') /SMLM (1h).         | CBS   |
 | 5 October       | Tue  |      1.5 | 8:00-9:30     | Introduction to Complex Networks (AA)                        | CBS   |
 | 5 October       | Tue  |      1.5 | 9:45-11:15    | Introduction to genome biophysics (30'). DNA supercoiling (1h). | CBS   |
 | 7 October       | Thu  |      1.5 | 1:15-2:50     | Nucleosomes (30'). Histone modifications (30'). DNA machines (30'). | CBS   |
 | 7 October       | Thu  |      1.5 | 3:00-4:30     | Introduction to Complex Networks (AA)                        | CBS   |
-| 7 October       | Thu  |      1.5 | 4:45-6:15     | (LC)                                                         | CBS   |
+| 7 October       | Thu  |      1.5 | 4:45-6:15     | Gene expression regulation (LC)                          | CBS   |
 | 8 October       | Fri  |      1.25| 9:45-11:00    | AFM                                                          | CBS   |
 | 8 October       | Fri  |      1.5 | 11:00-12:30   | Noise (30' LC) + Gene expression noise in plants (SC)        | CBS   |
 | 12 October      | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
