@@ -64,7 +64,7 @@ When you send the assignment by email, please use the subject `Assignment X - In
 | --- |------------------------------------------------------------ | ----------------- | ---------- |
 | 0 | [Water consumption](./constructs/UE_Introduction/water.ipynb) [Not evaluated but compulsory] | Wed 22/9 at 23:59 | LC         |
 | 1 | [Logistic growth and competition](./assignments/assignment_1.ipynb) |  Wed 6/10 at 23:59                 |  LC          |
-| a/b | Complex Network assignments from [class 1 and 2](./constructs/UE_Introduction/Network_Intro/2_Scripts/Introduction to Network analysis.ipynb) [Not evaluated but compulsory] | Mon 11/10 | AA |
+| a/b | Complex Network assignments from [class 1 and 2](./constructs/UE_Introduction/Network_Intro/2_Scripts/Introduction\ to\ Network\ analysis.ipynb) [Not evaluated but compulsory] | Mon 11/10 | AA |
 
 
 
