@@ -14,7 +14,7 @@ The majority of classes will not be "standard" lectures. Interaction will be pri
 
 #### Instructors
 
-[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet]
+[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro)]
 
 
 
