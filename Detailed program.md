@@ -38,13 +38,13 @@ Slots are usually 1.5h long.
 | 7 October       | Thu  |      1.5 | 4:45-6:15     | Gene expression regulation (LC)                          | CBS   |
 | 8 October       | Fri  |      1.25| 9:45-11:00    | AFM                                                          | CBS   |
 | 8 October       | Fri  |      1.5 | 11:00-12:30   | Noise (30' LC) + Gene expression noise in plants (SC)        | CBS   |
-| 12 October      | Tue  |      1.5 | 8:00-9:30     | (LC)                                                         | CBS   |
+| 12 October      | Tue  |      1.5 | 8:00-9:30     | Negative and positive autoregulation. Robustness (LC)                                                         | CBS   |
 | 12 October      | Tue  |      1.5 | 9:45-11:20    | DNA origami (30') by Gaetan Bellot. Optical Tweezers (1h) by Ashley Nord. | CBS   |
 | 15 October      | Fri  |      1.5 | 11:30-13:00   | (PEM)                                                        | CBS   |
 | 19 October      | Tue  |      1.5 | 8:00-9:30     | Advanced Imaging Systems: 3D-SIM and STED (30'). Fluctuation microscopies (1h). | CBS   |
 | 19 October      | Tue  |      1.5 | 9:45-11:20    | Genome Biophysics: Transcription factors (45'). Talk by W. Bourget (45') | CBS   |
 | 22 October      | Fri  |      1.5 | 9:45-11:15    | Higher-order chromatin structure  (1h). Loop extrusion (30').| CBS   |
-| 22 October      | Fri  |      1.5 | 11:30-1:00    | (LC)                                                         | CBS   |
+| 22 October      | Fri  |      1.5 | 11:30-1:00    | Measuring Gene Expression from Cytometer and Plate Reader experiments (LC)                                                         | CBS   |
 | 28 October      | Thu  |      1.5 | 3:00-4:30     | (PEM/LCo)                                                    | CBS   |
 | 29 October      | Fri  |      1.5 | 9:45-11:15 (maybe a bit more...)     | (PEM/MA)                                                     | CBS   |
 | 10 November     | Wed  |      1.5 | 9:00-10:30    | (PEM)                                                        | CBS   |
