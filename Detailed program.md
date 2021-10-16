@@ -318,8 +318,7 @@ We will first give an overview of the theory and some biological examples, that 
 *Evaluation:* not evaluated
 
 *Outline:*
-- Watch beforehand the lecture on FCS by Enrico Gratton
-- https://www.youtube.com/watch?v=xLNUFgYgU_w&list=PLrTP91eqdDiIzVtpn5gsUKqVciNUhm-CP&index=3
+- Watch beforehand the lecture on FCS by Enrico Gratton (https://www.youtube.com/watch?v=xLNUFgYgU_w&list=PLrTP91eqdDiIzVtpn5gsUKqVciNUhm-CP&index=3)
 - During the course, we will 
  - Undersdand the autocorrealtion curve and describe the type of information that can be extracted from it
  - Review the possibilities and the limitaion of the methods
