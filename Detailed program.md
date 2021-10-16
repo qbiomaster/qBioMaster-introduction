@@ -319,8 +319,8 @@ We will first give an overview of the theory and some biological examples, that 
 
 *Outline:*
 - Watch beforehand the lecture on FCS by Enrico Gratton (https://www.youtube.com/watch?v=xLNUFgYgU_w&list=PLrTP91eqdDiIzVtpn5gsUKqVciNUhm-CP&index=3)
-- During the course, we will 
- - Undersdand the autocorrealtion curve and describe the type of information that can be extracted from it
+- During the course, we will :
+ - Understand the autocorrelation curve and describe the type of information that can be extracted from it
  - Review the possibilities and the limitaion of the methods
  - Talk about advanced notions such as time resolved FCS, scanning FCS, Number and Brightnedd
 
