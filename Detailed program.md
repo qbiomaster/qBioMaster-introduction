@@ -322,7 +322,8 @@ We will first give an overview of the theory and some biological examples, that 
 - During the course, we will :
  - Understand the autocorrelation curve and describe the type of information that can be extracted from it
  - Review the possibilities and the limitaion of the methods
- - Talk about advanced notions such as time resolved FCS, scanning FCS, Number and Brightnedd
+ - Talk about advanced notions such as time resolved FCS, scanning FCS, Number and Brightness
+ - We will also make simulations and analysis of FCS experiments using the FluoSim software. Please dowload and install this software on you computer using the following link (https://filesender.renater.fr/?s=download&token=99d853e9-61ee-46f7-9309-b51f89a9e1dd). This software might help you as well to understand other types of experiments such as SPT, STORM or FRAP. Don't hesitate to explore it, and read the publication associated with it (Warning : do not use the link on the publication website, use my Filesender link)
 
 
 
