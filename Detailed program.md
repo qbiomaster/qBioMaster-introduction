@@ -309,23 +309,21 @@ We will first give an overview of the theory and some biological examples, that 
 
 *Objectives:*
 
-- Introduction to the concept of FCS : Fluorescence Correlation Spectroscopy
-- What can we measure : molecular diffusion, molecular interactions, chemical reactions
-- How do we measure : confocal microscope, alternating laser excitation
+- Introduction to the concept of FC(C)S : Fluorescence (Cross) Correlation Spectroscopy
+- What can we measure : molecular diffusion, molecular interactions
+- How do we measure : confocal and 2photon microscopes
 - Data analysis : auto and cross correlation, photon counting histogram
 
-*Time:* Constructs to be learnt beforehand, discuss construct content with teacher during class and after class (1h).
-
-*How:* 
 
 *Evaluation:* not evaluated
 
 *Outline:*
-- Follow tutorials on FCS and answer questionnaires.
-- Undersdand the autocorrealtion curve and describe the type of information that can be extracted from it
-- Discussion around the possibilities and the limitaion of the methods
-- Advanced notions : time resolved FCS, scanning FCS, Number and Brightnedd
-- Read additional resources with examples of how fluctuation microscopie can be used to gain biological insight.
+- Watch beforehand the lecture on FCS by Enrico Gratton
+- https://www.youtube.com/watch?v=xLNUFgYgU_w&list=PLrTP91eqdDiIzVtpn5gsUKqVciNUhm-CP&index=3
+- During the course, we will 
+ - Undersdand the autocorrealtion curve and describe the type of information that can be extracted from it
+ - Review the possibilities and the limitaion of the methods
+ - Talk about advanced notions such as time resolved FCS, scanning FCS, Number and Brightnedd
 
 
 
