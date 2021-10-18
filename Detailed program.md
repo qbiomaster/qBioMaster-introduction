@@ -495,7 +495,7 @@ Jupyter lab: [Higher-order chromosome structure](constructs/UE_Introduction/high
 
 ##### (30') Loop extrusion.
 Factors that modulate the organization of chromatin into domains and compartments. Cohesin/condensin and loop extrusion. Monitoring loop extrusion with single-molecule TIRF microscopy. How can SMCs modulate the higher order organization of bacterial chromosomes? 
-Jupyter lab: [The mechanism of loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
+Jupyter lab: [The mechanism of loop extrusion](constructs/UE_Introduction/loopExtrusion.ipynb)
 
 ##### (1h) Imaging based 3C.
 Heterogeneity in chromosome organization. Why it is important to detect chromatin organization in single cells? Imaging based methods  to trace chromatin: Hi-M, chromatin tracing, ORCA, etc. 
