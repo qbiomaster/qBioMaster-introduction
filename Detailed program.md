@@ -46,9 +46,10 @@ Slots are usually 1.5h long.
 | 22 October      | Fri  |      1.5 | 9:45-11:15    | Higher-order chromatin structure  (1h). Loop extrusion (30').| CBS   |
 | 28 October      | Thu  |      1.5 | 3:00-4:30     | (PEM/LCo)                                                    | CBS   |
 | 29 October      | Fri  |      1.5 | 9:45-11:15 (maybe a bit more...)     | (PEM/MA)                                                     | CBS   |
-| 9 November      | Tue  |      1.5 | 9:45-11:15    | Measuring Gene Expression from Cytometer and Plate Reader experiments (LC) | CBS   |
 | 10 November     | Wed  |      1.5 | 9:00-10:30    | (PEM)                                                        | CBS   |
 | 10 November     | Wed  |      1.5 | 10:45-12:15   | Multiplexing methods (1h)                                    | CBS   |
+| 15 November      | Mon  |      1.5 | 16:45-18:15    | Measuring Gene Expression from Cytometer and Plate Reader experiments (LC) | CBS   |
+
 |                 |      | **40.0** |               |                                                              | CBS   |
 
 
@@ -169,9 +170,9 @@ Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines,... will be tac
 
 #### Modelling with Partial Differential Equations (0.5h)
 
-Very brief interlude. Revise the concept of partial derivatives, in particular make the link to diffusion (macroscopic). 
+Very brief interlude. Revise the concept of partial derivatives, in particular make the link to diffusion (macroscopic). Introduction to diffusion equation.
 
-
+[Diffusion and RW](./constructs/UE_Introduction/diffusion.ipynb)
 
 ---
 
@@ -179,24 +180,16 @@ Very brief interlude. Revise the concept of partial derivatives, in particular m
 
 We will first give an overview of the theory and some biological examples, that will then be used in the introduction "Basics of microscopy" and "Genome Biophysics" parts.
 
+
 #### Random Walks (1.5h - LC)
 
 *Objective:* Give the basics of Random Walks in biology and emphasise the relation with the diffusion equation.
-
-*Time:* During the class.
-
-*How:*  Lecture with learning by peers and Jupyter notebook for step-by-step, visualisation of the lecture's concepts.
 
 #### Random Walk models of polymers (1.5h - LC)
 
 *Objective:* Understand the derivation and properties of the Freely Jointed Chain (FJC) and worm-like (WL) models.
 
-*Time:* During the class.
-
-*How:*  Lecture with learning by peers and Jupyter notebook for step-by-step, visualisation of the lecture's concepts.
-
-*Evaluation:* not evaluated
-
+Jupyter notebook is used to visualise concepts from the lecture.
 
 
 ### Basics of microscopy (7h - MN/EM)
@@ -362,6 +355,9 @@ Two lectures, one for a general introduction to complex networks, the other for 
 2. Small world effect, communities and robustness
 3. Models for generating networks: Erdos, Renjy; Preferential attachment
 
+
+[Folder with course material](constructs/UE_Introduction/Network_Intro)
+
 ##### Project: `   Analysis of real and data-driven network    `
 *Objective: To acquire competences in analysing  networks* 
 
@@ -369,24 +365,37 @@ Two lectures, one for a general introduction to complex networks, the other for 
 
 *How:*  The students will be divided in groups and will be given a  dataset of  therotical model networks as well as a data driven one . Based on the lecture's material the students will provide a descriptive analysis of the networks and compared the characteristics of the 2.  Jupyter notebook
 
-*Evaluation:* not evaluated
 
-*Outline:* To be done
-
-At the end of this project, explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
 
 ---
-### Gene Regulation - Robustness and Optimality (8h - LC)
+### Gene Regulation - Robustness (and Optimality) (8h - LC)
 
 #### Revisiting the Central Dogma (3h)
 
+Topics covered (mainly from the first chpaters of Uri Alon's book):
 1. Timescales of gene expression
 2. Gene regulation: Activator and Repressor, Hill functions, logic gates.
 3. Dynamics and response time of gene regulation
-4. Brief digression on translation regulation 
+4. Noise in gene expression
+5. Bulk and single cell measurements
 
+For visualisation and support: [Gene reguation](constructs/UE_Introduction/Gene_regulation.ipynb)
 
+##### Assignment (to be sent): `    Timescales of negative autoregulation     `
 
+Partly based on parts of https://www.biorxiv.org/content/10.1101/2021.04.09.439163v1 
+
+*Objective:* Merging the concepts learned in networks (negative feedback), gene regulation (timescales), simulations (Gillespie algorithm), stochasticity (noise, CV).
+
+*Time:* 2 weeks for this assignment
+
+*How:*  
+
+*Evaluation:* evaluated
+
+*Outline:* 
+
+<!--
 #### Gene regulatory Networks (3h)
 
 Where do you find networks in Biology? Focus on metabolic and genetic networks. What are their properties? Network motifs.
@@ -420,20 +429,21 @@ At the end of this project, explain the principles of Flow Cytometry, emphasise 
 *Outline:* To be done
 
 
+At the end of this project, explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
 
-##### Homework: `    Timescales of negative autoregulation     `
 
-Based on parts of https://www.biorxiv.org/content/10.1101/2021.04.09.439163v1 
+-->
 
-*Objective:* Merging the concepts learned in networks (negative feedback), gene regulation (timescales), simulations (Gillespie algorithm), stochasticity (noise, CV).
+##### Project: `Growth and expression: Plate reader data  `
 
-*Time:* 2 weeks for this assignment
+*Objective:* 
 
-*How:*  
+*Time:* During the class, demonstration by the teacher.
 
-*Evaluation:* evaluated
+*How:*  Jupyter notebook, step-by-step
 
-*Outline:* 
+Explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
+
 
 #### Robustness of protein circuits (2h)
 
