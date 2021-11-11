@@ -49,8 +49,7 @@ Slots are usually 1.5h long.
 | 10 November     | Wed  |      1.5 | 9:00-10:30    | (PEM)                                                        | CBS   |
 | 10 November     | Wed  |      1.5 | 10:45-12:15   | Multiplexing methods (1h)                                    | CBS   |
 | 15 November      | Mon  |      1.5 | 16:45-18:15    | Measuring Gene Expression from Cytometer and Plate Reader experiments (LC) | CBS   |
-
-|                 |      | **40.0** |               |                                                              | CBS   | |
+|                 |      | **40.0** |               |                                                              | CBS   | 
 
 
 
