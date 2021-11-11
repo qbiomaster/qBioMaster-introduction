@@ -50,7 +50,7 @@ Slots are usually 1.5h long.
 | 10 November     | Wed  |      1.5 | 10:45-12:15   | Multiplexing methods (1h)                                    | CBS   |
 | 15 November      | Mon  |      1.5 | 16:45-18:15    | Measuring Gene Expression from Cytometer and Plate Reader experiments (LC) | CBS   |
 
-|                 |      | **40.0** |               |                                                              | CBS   |
+|                 |      | **40.0** |               |                                                              | CBS   | |
 
 
 
@@ -368,7 +368,7 @@ Two lectures, one for a general introduction to complex networks, the other for 
 
 
 ---
-### Gene Regulation - Robustness (and Optimality) (8h - LC)
+### Gene Regulation - (quick intro to Robustness and Optimality) (8h - LC)
 
 #### Revisiting the Central Dogma (3h)
 
@@ -445,9 +445,6 @@ At the end of this project, explain the principles of Flow Cytometry, emphasise 
 Explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
 
 
-#### Robustness of protein circuits (2h)
-
-Based on the regulation of bacterial chemotaxis
 
 ### Genome Biophysics (8h30' - MN)
 
