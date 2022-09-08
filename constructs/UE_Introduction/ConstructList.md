@@ -19,9 +19,7 @@ This file will contain the updated list of constructs available for this UE.
    5. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
    
 2. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb) (1h).
-
    This construct will introduce:
-
    1. principles of fluorescence
    2. labeling methods
    3. widefield microscopy
@@ -72,15 +70,15 @@ This file will contain the updated list of constructs available for this UE.
    2. (30') [Histone modifications](histoneModifications.ipynb)
    3. (30') [DNA machines](DNAmachines.ipynb) 
 
-4. Transcription factors (2h).
+4. Transcription factors (1h15).
    1. (45') [Transcription_factors](transcription_factors.ipynb)
    2. (30') [Study the diffusion of DNA binding proteins using sptPALM](spt_PALM_ParB_proteins.ipynb)
-   3. (45') Talk by William Bourguet.
 
-5. Higher-order chromatin structure (2.5h).
+5. Higher-order chromatin structure (3.25h).
    1. (1h) [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
    2. (30') [Loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
-   3. (1h) [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+   3. (45') Talk by Thomas Robert on cohesin/condensins.   
+   4. (1h) [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
    
   
 
