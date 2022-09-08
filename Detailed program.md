@@ -23,11 +23,11 @@ Slots are usually 1.5h long.
 | Date            | Day  |   #hours | Starting Time | Subject                                                      | Where | Who |
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ----|
 | 15 September    | Thu  |      3.0 | 1:15-4:30     | Introduction and course organisation                         | CBS  | LC |
-| 15 September    | Thu  |      1.5 | 4:45-6:15     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). (MN) | CBS | MN|
+| 15 September    | Thu  |      1.5 | 4:45-6:15     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). | CBS | MN|
 | 22 September    | Thu  |      3.0 | 1:15-4:30     | Modelling tools: ODE (LC)                                    | CBS   | LC|
-| 21 September    | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   | LC|
-| 23 September    | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   | LC|
-| 23 September    | Thu  |      1.5 | 4:45-6:15     | Random Walks (LC)                          | CBS   | LC|
+|     | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   | LC|
+|     | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   | LC|
+|     | Thu  |      1.5 | 4:45-6:15     | Random Walks (LC)                          | CBS   | LC|
 | 22 September    | Thu  |      1.5 | 4:45-6:15     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS   | EM-MN|
 | 28 September    | Tue  |      1.5 | 8:00-9:30     | 2D RW and macromolecules as Random Walks (LC) | CBS   | LC|
 | 29 September    | Thu  |      1.5 | 15:00-16:30   | Advanced Imaging Systems: Confocal (30') /SMLM (1h). (MN)        | CBS   | MN |
