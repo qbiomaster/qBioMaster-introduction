@@ -24,7 +24,7 @@ Slots are usually 1.5h long.
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ----|
 | 15 September    | Thu  |      3.0 | 1:15-4:30     | Introduction and course organisation                         | CBS  | LC |
 | 15 September    | Thu  |      1.5 | 4:45-6:15     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). (MN) | CBS | MN|
-| 21 September    | Tue  |      1.5 | 8:00-9:30     | Modelling tools: ODE (LC)                                    | CBS   | LC|
+| 22 September    | Thu  |      3.0 | 1:15-4:30     | Modelling tools: ODE (LC)                                    | CBS   | LC|
 | 21 September    | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   | LC|
 | 23 September    | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   | LC|
 | 23 September    | Thu  |      1.5 | 4:45-6:15     | Random Walks (LC)                          | CBS   | LC|
