@@ -1,14 +1,10 @@
 # Constructs
 
-
-
 [TOC]
 
 ## Content
 
 This file will contain the updated list of constructs available for this UE.
-
-
 
 ### Introduction to optics and imaging (7h)
 
@@ -23,9 +19,7 @@ This file will contain the updated list of constructs available for this UE.
    5. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
    
 2. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb) (1h).
-
    This construct will introduce:
-
    1. principles of fluorescence
    2. labeling methods
    3. widefield microscopy
@@ -40,11 +34,7 @@ This file will contain the updated list of constructs available for this UE.
    2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) (15')
    3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) (15')
 
-5. Basics of fluorescence fluctuation (1h).
-
-   1. 
-
-6. Basics of near-field microscopies (AFM) (1h).
+5. Basics of near-field microscopies (AFM) (1h).
    1. [Introduction to AFM](STED_microscopy.ipynb)
 
    
@@ -65,12 +55,9 @@ This file will contain the updated list of constructs available for this UE.
 | [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) | up | marcelo |Introduction to STED microscopy with practical.|
 | [AFM](STED_microscopy.ipynb) | up | Luca Costa |Introduction to Atomic Force Microscopy.|
 
-
-
 ### Genome Biophysics (8.5h)
 
 1. DNA (1h).
-
    1. (30') [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
    2. (30') Talk by Gaetan Bellot on 'DNA origami and biotechnology'
    
@@ -79,24 +66,21 @@ This file will contain the updated list of constructs available for this UE.
    2. (30') [Study of molecular motors using optical tweezers](OT_construct.ipynb)  
 
 3. Nucleosomes and epigenetics (1.5h).
-
    1. (30') [Nucleosomes](nucleosomeParticle.ipynb) 
    2. (30') [Histone modifications](histoneModifications.ipynb)
    3. (30') [DNA machines](DNAmachines.ipynb) 
 
-4. Transcription factors (2h).
-
+4. Transcription factors (1h15).
    1. (45') [Transcription_factors](transcription_factors.ipynb)
    2. (30') [Study the diffusion of DNA binding proteins using sptPALM](spt_PALM_ParB_proteins.ipynb)
-   3. (45') Talk by William Bourguet.
 
-5. Higher-order chromatin structure (2.5h).
+5. Higher-order chromatin structure (3.25h).
    1. (1h) [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
    2. (30') [Loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
-   3. (1h) [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+   3. (45') Talk by Thomas Robert on cohesin/condensins.   
+   4. (1h) [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
    
-
-   
+  
 
 | Name                       | Status | Workers | Time | Description |
 | -------------------------- | ------ | ------- | ----------| ----------|
@@ -115,8 +99,7 @@ This file will contain the updated list of constructs available for this UE.
 | [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb) | up | marcelo |45'|Hi-M and chromatin tracing|
 
 
-
-## Teachers
+## Teachers for this UE
 
 - Luca Ciandrini
 
@@ -124,15 +107,15 @@ This file will contain the updated list of constructs available for this UE.
 
 - Pierre-Emmanuel Milhiet
 
-- Antoine Le Gall
-
-- JB Fiche
+- Luca Costa
 
 - Gaetan Bellot
 
-- William Bourguet
+- Thomas Robert
 
 - Ashley Nord
+
+
 
   
 
