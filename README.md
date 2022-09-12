@@ -25,7 +25,7 @@ The majority of classes will not be "standard" lectures. Interaction will be pri
 
 
 #### Rooms
-The course will take place in two different rooms at the CBS. The seminar room and the QuB (to be pronounced 'cube', which is the Algeco just outside the main entrance of the CBS29).
+The course will take place in two different rooms at the CBS: The *seminar room* (1st floor, CBS29) and the *QuB* (to be pronounced 'cube', which is the Algeco just outside the main entrance of the CBS29).
 
 Slots are usually 1.5h long.
 
