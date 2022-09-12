@@ -51,7 +51,7 @@ Slots are usually 1.5h long.
 | 27 October      | Thu  |      1.5 | 13:15-14:45      |  | CBS  - seminar room | LC | |
 | 27 October      | Thu  |      1.5 | 15:00-16:30     | Advanced Imaging Systems: 3D-SIM and STED (30') (MN). Fluctuation microscopies (1h). (EM) | CBS  - seminar room   | MN-EM| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 28 October      | Fri  |      1.5 | 09:45-11:15    | Genome Biophysics: Transcription factors (45'). External Talk by Thomas Robert. | CBS  -QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| 28 October       | Fri  |      1.5 | 11:30-13:00     | To be added                         | CBS - QuB   | PEM| |
+| 28 October       | Fri  |      1.5 | 11:30-13:00     |                         | CBS - QuB   | PEM| |
 | 17 November      | Thu  |      1.5 | 15:00-16:30    | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS - seminar room  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 18 November     | Fri  |      1.5 | 10:45-12:15   | Multiplexing methods (1h).                                   | CBS - QuB | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 
