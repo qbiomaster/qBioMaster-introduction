@@ -1,8 +1,6 @@
-# Constructs
+# Constructs for Imaging and Genome Biophysics
 
 [TOC]
-
-## Content
 
 This file will contain the updated list of constructs available for this UE.
 
@@ -80,32 +78,29 @@ This file will contain the updated list of constructs available for this UE.
    3. (45') Talk by Thomas Robert on cohesin/condensins.   
    4. (1h) [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
    
-  
+
 
 | Name                       | Status | Workers | Time | Description |
 | -------------------------- | ------ | ------- | ----------| ----------|
 | [What is DNA?](Basics_DNA.ipynb)  | up | marcelo | 30' | Introduce DNA: Structure and function. |
-| Talk by Gaetan Bellot | up | Gaetan Bellot | 30' | How to build 3D shapes using DNA origami. Applications to biotechnology |
+| Talk by Gaetan Bellot | n/a | Gaetan Bellot | 45' | How to build 3D shapes using DNA origami. Applications to biotechnology |
 | [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb) | up | marcelo |1h| DNA supercoiling, topoisomerases, magnetic tweezers          |
-| [Optical tweezers](OT_construct.ipynb) | up | Ashley |30'|Introduction to optical tweezers to study motors.|
+| [Optical tweezers](OT_construct.ipynb) | n/a | F. Pedaci |45'|Introduction to optical tweezers to study motors.|
 | [nucleosomes](constructs/UE_Introduction/nucleosomeParticle.ipynb) | up | marcelo |30'|Introduction on structure of nucleosomes. Activity: visualize structure of a nucleosome in pymol.|
 | [histoneModifications](constructs/UE_Introduction/histoneModifications.ipynb) | up | marcelo |30'|Basics of histone modifications and epigenetics.|
 | [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb) | up | marcelo |30'|Motors involved in DNA processing, including RNA/DNA polymerases, or chromatin remodelers|
 | [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb) | up | marcelo |30'|Introduction on general and specific transcription factors.|
-| [Study the diffusion of DNA binding proteins using sptPALM](constructs/UE_Introduction/spt_PALM_nucleus.ipynb) | planned | Antoine |30'|This construct will show students how to load a sptPALM dataset of TF trajectories and use packages to calculate diffusion properties.|
-| Talk by William Bourguet |  |                  |45'||
+| External Talk | n/a |                  |45'|Thomas Robert (CBS)|
 | [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/HiC_matrices_Bacillus_subtilis.ipynb) | up | Antoine-Marcelo |30'| Studying protein diffusion by spt-PALM                       |
 | [The mechanism of loop extrusion](LoopExtrusion.ipynb) | up | marcelo          |30'|Read and comment TIRF microscopy paper demonstrating loop extrusion|
 | [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb) | up | marcelo |45'|Hi-M and chromatin tracing|
 
 
-## Teachers for this UE
-
-- Luca Ciandrini
+## Teachers for these modules
 
 - Marcelo Nollmann
 
-- Pierre-Emmanuel Milhiet
+- Emmanuel Margeat
 
 - Luca Costa
 
@@ -113,7 +108,7 @@ This file will contain the updated list of constructs available for this UE.
 
 - Thomas Robert
 
-- Ashley Nord
+- F. Pedaci
 
 
 
