@@ -21,7 +21,7 @@ The majority of classes will not be "standard" lectures. Interaction will be pri
 
 #### Instructors
 
-[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro)]
+[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro); JN = Jérémie Naud (IGF)]
 
 
 #### Rooms
@@ -35,15 +35,15 @@ Slots are usually 1.5h long.
 | 15 September    | Thu  |      1.5 | 16:45-18:15     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). | CBS - QuB | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 22 September    | Thu  |      3.0 | 13:15-16:30     |                    | CBS - Seminar room  | LC |  |
 | 22 September    | Thu  |      1.5 | 16:45-18:15     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS - Seminar room   | EM-MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| 29 September    | Thu  |      1.5 | 13:15-14:45     |                    | CBS - QuB  | LC |  |
+| 29 September    | Thu  |      1.5 | 13:15-14:45     |                    | CBS - QuB  | JN |  |
 | 29 September    | Thu  |      1.5 | 15:00-16:30   | Advanced Imaging Systems: Confocal (30') /SMLM (1h).        | CBS - QuB  | MN | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 30 September    | Fri  |      3.0 | 9:45-13:00     | Introduction to network theory                    | CBS - QuB  | AA |  |
-| 6 October       | Thu  |      1.5 | 13:15-14:45    |  | CBS - Seminar room  | LC|  |
+| 6 October       | Thu  |      1.5 | 13:15-14:45    |  | CBS - Seminar room  | JN|  |
 | 6 October       | Thu  |      1.5 | 15:00-16:30    | SMLM (30'). Introduction to genome biophysics. DNA supercoiling (1h). | CBS - Seminar room  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 7 October       | Fri  |      1.5 | 9:45-11:15     |                         | CBS - QuB   | LC| |
 | 7 October       | Fri  |      1.5 | 11:30-13:00     |                          | CBS - QuB   | PEM| |
 | 13 October      | Thu  |      1.5 | 15:00-16:30    | DNA origami (45') by Gaetan Bellot. Optical Tweezers (45') by F. Pedaci. | CBS - QuB      | Ext | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| 14 October       | Fri  |      1.5 | 9:45-11:15     |                          | CBS - QuB   | LC| |
+| 14 October       | Fri  |      1.5 | 9:45-11:15     | Gene expression noise in plants  | CBS - QuB   | SC| |
 | 14 October       | Fri  |      1.5 | 11:30-13:00     |                          | CBS - QuB   | PEM| |
 | 20 October       | Thu  |      3.0 | 13:15-16:30     | **To be added**                         | CBS - seminar room   | MN| |
 | 21 October       | Fri  |      1.5 | 9:45-11:15     |                          | CBS - QuB   | LC| |
