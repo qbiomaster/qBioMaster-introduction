@@ -20,36 +20,36 @@ The majority of classes will not be "standard" lectures. Interaction will be pri
 
 Slots are usually 1.5h long.
 
-| Date            | Day  |   #hours | Starting Time | Subject                                                      | Where | Who |
-| :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ----|
-| 15 September    | Thu  |      1.5 | 1:15-2:45     | Introduction and course organisation (LC)                    | CBS  | LC |
-| 15 September    | Thu  |      1.5 | 4:45-6:15     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). (MN) | CBS | MN|
-| 21 September    | Tue  |      1.5 | 8:00-9:30     | Modelling tools: ODE (LC)                                    | CBS   | LC|
-| 21 September    | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations  (LC)         | CBS   | LC|
-| 23 September    | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks (LC)                              | CBS   | LC|
-| 23 September    | Thu  |      1.5 | 4:45-6:15     | Random Walks (LC)                          | CBS   | LC|
-| 22 September    | Thu  |      1.5 | 4:45-6:15     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS   | EM-MN|
-| 28 September    | Tue  |      1.5 | 8:00-9:30     | 2D RW and macromolecules as Random Walks (LC) | CBS   | LC|
-| 29 September    | Thu  |      1.5 | 15:00-16:30   | Advanced Imaging Systems: Confocal (30') /SMLM (1h). (MN)        | CBS   | MN |
-| 5 October       | Tue  |      1.5 | 8:00-9:30     | Introduction to Complex Networks (AA)                        | CBS   | LC|
-| 6 October       | Thu  |      1.5 | 15:00-16:30    | SMLM (30'). Introduction to genome biophysics. DNA supercoiling (1h). (MN) | CBS   | MN|
-| 7 October       | Thu  |      1.5 | 3:00-4:30     | Introduction to Complex Networks (AA)                        | CBS   | LC|
-| 7 October       | Thu  |      1.5 | 4:45-6:15     | Gene expression regulation (LC)                          | CBS   | LC|
-| 8 October       | Fri  |      1.5 | 11:00-12:30   | Noise (30' LC) + Gene expression noise in plants (SC)        | CBS   | LC|
-| 12 October      | Tue  |      1.5 | 8:00-9:30     | Negative and positive autoregulation. Robustness (LC)   | CBS   | LC|
-| 13 October      | Tue  |      1.5 | 15:00-16:30    | DNA origami (45') by Gaetan Bellot. Optical Tweezers (45') by Ashley Nord. | CBS   | MN|
-| 15 October      | Fri  |      1.5 | 11:30-13:00   | (PEM)                                                        | CBS   | PEM|
-| 20 October      | Tue  |      1.5 | 13:15-14:45    | Nucleosomes (30'). Histone modifications (30'). DNA machines (30'). | CBS   | MN|
-| 20 October      | Tue  |      1.5 | 15:00-16:30    | AFM (Luca Costa) | CBS   | Lco |
-| 27 October      | Thu  |      1.5 | 15:00-16:30     | Advanced Imaging Systems: 3D-SIM and STED (30') (MN). Fluctuation microscopies (1h). (EM) | CBS   | MN-EM|
-| 28 October      | Fri  |      1.5 | 09:45-11:15    | Genome Biophysics: Transcription factors (45') (MN). External Talk | CBS   | MN|
-| 17 November      | Thu  |      1.5 | 15:00-16:30    | Higher-order chromatin structure  (1h). Loop extrusion (30'). (MN)| CBS   | MN|
-| 28 October      | Thu  |      1.5 | 3:00-4:30     | (PEM/LCo)                                                    | CBS   | PEM/LCo|
-| 29 October      | Fri  |      1.5 | 9:45-11:15 (maybe a bit more...)     | (PEM/MA)                                                     | CBS   | PEM/MA|
-| 10 November     | Wed  |      1.5 | 9:00-10:30    | (PEM)                                                        | CBS   | PEM|
-| 18 November     | Fri  |      1.5 | 10:45-12:15   | Multiplexing methods (1h) (MN)                                    | CBS   | MN|
-| 15 November      | Mon  |      1.5 | 16:45-18:15    | Measuring Gene Expression from Cytometer and Plate Reader experiments (LC) | CBS   | LC|
-|                 |      | **40.0** |               |                                                              | CBS   | |
+| Date            | Day  |   #hours | Time | Subject                                                      | Where | Who | Link |
+| :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ---- | ---- |
+| 15 September    | Thu  |      1.5 | 1:15-2:45     | Introduction and course organisation                    | CBS  | LC |  |
+| 15 September    | Thu  |      1.5 | 4:45-6:15     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). | CBS | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 21 September    | Tue  |      1.5 | 8:00-9:30     | Modelling tools: ODE (LC)                                    | CBS   | LC| |
+| 21 September    | Tue  |      1.5 | 9:45-11:15    | Modelling tools: Stochasticity and simulations         | CBS   | LC| |
+| 23 September    | Thu  |      1.5 | 3:00-4:30     | Diffusion and Random Walks                              | CBS   | LC| |
+| 23 September    | Thu  |      1.5 | 4:45-6:15     | Random Walks                          | CBS   | LC| |
+| 22 September    | Thu  |      1.5 | 4:45-6:15     | Introduction to fluorescence microscopy (1h - EM). Advanced Imaging Systems 1 : TIRF microscopy (30' - MN). | CBS   | EM-MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 28 September    | Tue  |      1.5 | 8:00-9:30     | 2D RW and macromolecules as Random Walks | CBS   | LC| |
+| 29 September    | Thu  |      1.5 | 15:00-16:30   | Advanced Imaging Systems: Confocal (30') /SMLM (1h).        | CBS   | MN | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 5 October       | Tue  |      1.5 | 8:00-9:30     | Introduction to Complex Networks                        | CBS   | AA | |
+| 6 October       | Thu  |      1.5 | 15:00-16:30    | SMLM (30'). Introduction to genome biophysics. DNA supercoiling (1h). | CBS   | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 7 October       | Thu  |      1.5 | 3:00-4:30     | Introduction to Complex Networks                        | CBS   | AA | |
+| 7 October       | Thu  |      1.5 | 4:45-6:15     | Gene expression regulation                          | CBS   | LC| |
+| 8 October       | Fri  |      1.5 | 11:00-12:30   | Noise (30' LC) + Gene expression noise in plants        | CBS   | SC | |
+| 12 October      | Tue  |      1.5 | 8:00-9:30     | Negative and positive autoregulation. Robustness   | CBS   | LC| |
+| 13 October      | Tue  |      1.5 | 15:00-16:30    | DNA origami (45') by Gaetan Bellot. Optical Tweezers (45') by F. Pedaci. | CBS   | Ext | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 15 October      | Fri  |      1.5 | 11:30-13:00   | (PEM)                                                        | CBS   | PEM| |
+| 20 October      | Tue  |      1.5 | 13:15-14:45    | Nucleosomes (30'). Histone modifications (30'). DNA machines (30'). | CBS   | MN| |
+| 20 October      | Tue  |      1.5 | 15:00-16:30    | AFM (Luca Costa) | CBS   | Lco |  |
+| 27 October      | Thu  |      1.5 | 15:00-16:30     | Advanced Imaging Systems: 3D-SIM and STED (30') (MN). Fluctuation microscopies (1h). (EM) | CBS   | MN-EM| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 28 October      | Fri  |      1.5 | 09:45-11:15    | Genome Biophysics: Transcription factors (45'). External Talk by Thomas Robert. | CBS   | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 17 November      | Thu  |      1.5 | 15:00-16:30    | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS   | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 28 October      | Thu  |      1.5 | 3:00-4:30     | (PEM/LCo)                                                    | CBS   | PEM/LCo| |
+| 29 October      | Fri  |      1.5 | 9:45-11:15 (maybe a bit more...)     | (PEM/MA)                                                     | CBS   | PEM/MA| |
+| 10 November     | Wed  |      1.5 | 9:00-10:30    | (PEM)                                                        | CBS   | PEM| |
+| 18 November     | Fri  |      1.5 | 10:45-12:15   | Multiplexing methods (1h).                                   | CBS   | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 15 November      | Mon  |      1.5 | 16:45-18:15    | Measuring Gene Expression from Cytometer and Plate Reader experiments. | CBS   | LC| |
+|                 |      | **40.0** |               |                                                              | CBS   | | |
 
 
 
@@ -354,7 +354,6 @@ Two lectures, one for a general introduction to complex networks, the other for 
 2. Small world effect, communities and robustness
 3. Models for generating networks: Erdos, Renjy; Preferential attachment
 
-
 [Folder with course material](constructs/UE_Introduction/Network_Intro)
 
 ##### Project: `   Analysis of real and data-driven network    `
@@ -430,7 +429,6 @@ At the end of this project, explain the principles of Flow Cytometry, emphasise 
 
 At the end of this project, explain the principles of Flow Cytometry, emphasise the difference between bulk and population measurements.
 
-
 -->
 
 ##### Project: `Growth and expression: Plate reader data  `
@@ -464,7 +462,7 @@ Why is DNA supercoiled? What is the supercoiling state of DNA in a cell?  Protei
 
 Jupyter lab: [DNA supercoiling](constructs/UE_Introduction/DNAsupercoiling.ipynb)
 
-(30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](constructs/UE_Introduction/OT_construct.ipynb).  Talk by Ashley Nord.
+(30') Use of optical tweezers to understand the mechanisms of molecular motors. [OT_construct](constructs/UE_Introduction/OT_construct.ipynb).  Talk by F. Pedaci.
 
 #### Nucleosomes and epigenetics (1.5h)
 
@@ -486,7 +484,7 @@ Jupyter lab: [DNA machines](constructs/UE_Introduction/DNAmachines.ipynb)
 What is a transcription factor? what are general and developmental TFs? Why so many? What are cis-regulatory elements? What are enhancers? Why are enhancers important? What should I look at to identify an enhancer? Study of a genomic region using chip-seq profiles. [transcription_factors](constructs/UE_Introduction/transcription_factors.ipynb)
 
 ##### (45') Structural studies on TFs.
-Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. Talk by William Bourguet.
+Use of structural biology methods to dissect the mechanisms of transcription factors in transcriptional regulation. External Talk.
 
 ##### Project: `Study the diffusion of DNA binding proteins using sptPALM`
 How can we study the dynamics of DNA binding proteins? Are they always bound to their targets? 
