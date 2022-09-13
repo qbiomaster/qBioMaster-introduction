@@ -1,7 +1,7 @@
 
 | QBIO MASTER PROGRAM| Quantitative biology in practice |
 | ------------------------------------------------------------ | ---------------------------------------------- |
-| ![](README.assets/LOGO_original_RVB_WEB-1.png) | <img src="README.assets/logo_qbio_quadri.png" style="zoom:30%;" /> |
+| ![](README.assets/LOGO_original_RVB_WEB-1.png) | <img src="README.assets/logo_qbio_quadri.png" style="zoom:20%;" /> |
 
 *At the  crossroads of Biology, Physics, Chemistry and Informatics, qbio is the  master program destined for students interested in studying Biology with a quantitative perspective founded on transdisciplinary approaches.*
 
@@ -31,7 +31,7 @@ Slots are usually 1.5h long.
 
 | Date            | Day  |   #hours | Time | Topic                                                      | Where | Who | Link |
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ---- | ---- |
-| 15 September    | Thu  |      3.0 | 13:15-16:30     | Introduction and course organisation  (30') - Modelling tools: ODE                  | CBS - QuB  | LC |  |
+| 15 September    | Thu  |      3.0 | 13:15-16:30     | Introduction and course organisation  (30') - Modelling tools: ODE                  | CBS - QuB  | LC | D.J. Wilkinson, *"Stochastic modelling for quantitative description of heterogeneous biological systems"*, Nature Reviews (2009) [doi:10.1038/nrg2509](doi:10.1038/nrg2509) |
 | 15 September    | Thu  |      1.5 | 16:45-18:15     | Presentation of methodology and Jupyter labs (30'). Basics of image processing (1h). | CBS - QuB | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 22 September    | Thu  |      3.0 | 13:15-16:30     | Modelling tools: Stochasticity and simulations  -- Negative and positive autoregulation.                | CBS - Seminar room  | LC |  |
 | 22 September    | Thu  |      1.5 | 16:45-18:15     | Introduction to fluorescence microscopy (EM). | CBS - Seminar room   | EM-MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
@@ -60,6 +60,12 @@ Slots are usually 1.5h long.
 ### Evaluation
 
 Evaluation by projects (compulsory 5*20%). Students will have to return 5 compulsory homework projects - assignments, no other exam is planned.
+
+#### Assignments 
+
+Assignments given by LC should be sent to him by email (.ipynb file plus other needed material in case) by the deadline. Returning the homework with a delay will bring you a penalty.
+
+When you send the assignment by email, please use the subject `Assignment X - Intro qbio` (where `X`is the number of the assignment); name the file as `AX_NameSurname.ipynb` and put all the necessary files (datasets, images,...) in a directory named `data`. Then zip the files and send the archive. For instance, when Luca sends the assignment 3, he will name the file `A3_LucaCiandrini.ipynb`, put all data in the folder `data`, compress everything in a single file to be sent in a message with subject `Assignment 3 - Intro qbio`.
 
 
 
