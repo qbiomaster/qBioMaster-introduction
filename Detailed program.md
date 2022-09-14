@@ -31,7 +31,7 @@ In this block we want to introduce a few different modelling approaches, and in 
 
 *Objective:* Sketch a model based on ODE, simple solving techniques. Solve your system of equations with Python. 
 
-Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines,... will be tackled in a following lecture.
+<!-- Sketching Solutions in 2D: Phase Plane, Vector Field, Nullclines,... will be tackled in a following lecture.-->
 
 *Time:*  During the class, demonstration by the teacher.
 
