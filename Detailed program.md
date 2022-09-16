@@ -111,7 +111,7 @@ Jupyter notebook is used to visualise concepts from the lecture.
 - You will learn then how to segment an image of nuclei within a Drosophila embryo using conventional image segmentation methods, such as thresholding and watershed.
 -  Finally, you will learn how to apply artificial intelligence based (deep learning) algorithms to segment an image of nuclei within a Drosophila embryo.
 
-#### Introduction to fluorescence microscopy (1h - EM)
+#### Introduction to fluorescence microscopy (1.5h - EM)
 
 *Objectives: *
 
