@@ -48,7 +48,7 @@ Slots are usually 1.5h long.
 | 20 October       | Thu  |      3.0 | 13:15-16:30     | Nucleosomes and epigenetics (1.5h). Transcription factors (45').  Diffusion of DNA binding proteins using sptPALM (45') | CBS - seminar room   | MN| |
 | 21 October       | Fri  |      1.5 | 9:45-11:15     |   2D RW and macromolecules as Random Walks                       | CBS - QuB   | LC| |
 | 21 October       | Fri  |      1.5 | 11:30-13:00     |  Imaging and spectroscopy of biological membranes | CBS - QuB   | PEM| |
-| ~27 October      | Thu  |      1.5 | 13:15-14:45      | Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS  - seminar room | LC | |~~
+| 27 October      | Thu  |      1.5 | 13:15-14:45      | Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS  - seminar room | LC | **This lecture has been moved to the 30/9**|
 | 27 October      | Thu  |      1.5 | 15:00-16:30     | Confocal microscopy (30' - MN). Fluctuation microscopies (1h) (EM). | CBS  - seminar room   | MN-EM| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 28 October      | Fri  |      1.5 | 09:45-11:15    | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS  -QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 28 October       | Fri  |      1.5 | 11:30-13:00     | Probing membrane mechanics  | CBS - QuB   | LC| |
