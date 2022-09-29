@@ -28,7 +28,7 @@ This file will contain the updated list of constructs available for this UE.
    3. [Confocal microscopy](confocal_microscopy.ipynb) (30')
 
 4. Super-resolution microscopies (1.5h).
-   1. [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb) (1h)
+   1. [Single-molecule localization microscopy (SMLM)]([SMLM_microscopy.ipynb](Super-resolution-microscopies.ipynb)) (1h)
    2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) (15')
    3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) (15')
 
@@ -48,7 +48,7 @@ This file will contain the updated list of constructs available for this UE.
 | [Confocal microscopy](confocal_microscopy.ipynb)             | up      | Marcelo | Tutorial on confocal microscopy. `needs images` |
 | [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb) | up    | Marcelo | This construct will show students how to segment extended sources (e.g. nuclei) using the ASTROPY.|
 | [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb) | up    | JB | This construct will show students how to segment extended nuclei using starDist|
-| [Single-molecule localization microscopy (SMLM)](SMLM_microscopy.ipynb) | up     | Marcelo | This construct will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
+| [Single-molecule localization microscopy (SMLM)](Super-resolution-microscopies.ipynb) | up     | Marcelo | This construct will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
 | [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) | up | Marcelo | This construct will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space. |
 | [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) | up | marcelo |Introduction to STED microscopy with practical.|
 | [AFM](STED_microscopy.ipynb) | up | Luca Costa |Introduction to Atomic Force Microscopy.|
