@@ -28,7 +28,7 @@ This file will contain the updated list of constructs available for this UE.
    3. [Confocal microscopy](confocal_microscopy.ipynb) (30')
 
 4. Super-resolution microscopies (1.5h).
-   1. [Single-molecule localization microscopy (SMLM)]([SMLM_microscopy.ipynb](Super-resolution-microscopies.ipynb)) (1h)
+   1. [Single-molecule localization microscopy (SMLM)](Super-resolution-microscopies.ipynb) (1h)
    2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) (15')
    3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) (15')
 
