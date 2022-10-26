@@ -48,7 +48,7 @@ Slots are usually 1.5h long.
 | 21 October       | Fri  |      1.5 | 9:45-11:15     |   Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS - QuB   | LC|**To be rescheduled** |
 | 21 October       | Fri  |      1.5 | 11:30-13:00     | Physics of Membranes - A theoretical point of view  | CBS - QuB   | MA| Material given by email |
 | 21 October       | Fri  |      1.5 | 11:30-13:00     |  Imaging and spectroscopy of biological membranes | CBS - QuB   | PEM| **To be rescheduled** |
-| 27 October      | Thu  |      1.5 | 15:00-16:30     | Confocal microscopy (30' - MN). Fluctuation microscopies (1h) (EM). | CBS  - seminar room   | MN-EM| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 27 October      | Thu  |      1.5 | 15:00-16:30     | Confocal microscopy (30' - MN). Fluctuation microscopies (1h) (EM). | CBS  - seminar room   | MN-EM|   |
 | 28 October      | Fri  |      1.5 | 09:45-11:15    | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS  -QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 28 October       | Fri  |      1.5 | 11:30-13:00     | Probing membrane mechanics  | CBS - QuB   | LCo| |
 | 15 November   | Tue  |      3.0 | 8:30-11:30     | Introduction to network theory                    | CBS - QuB  | AA |  |
