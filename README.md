@@ -52,7 +52,7 @@ Slots are usually 1.5h long.
 | 28 October      | Fri  |      1.5 | 09:45-11:15    | Higher-order chromatin structure  (1h). Loop extrusion (30'). | CBS  -QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 28 October       | Fri  |      1.5 | 11:30-13:00     | Probing membrane mechanics  | CBS - QuB   | LCo| |
 | 15 November   | Tue  |      3.0 | 8:30-11:30     | Introduction to network theory                    | CBS - QuB  | AA |  |
-| 17 November      | Thu  |      1.5 | 15:00-16:30    | External Talk by Thomas Robert (45'). Multiplexing methods I (45'). | CBS - seminar room  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 17 November      | Thu  |      1.5 | 15:00-16:30    | External Talk by Thomas Robert (45'). Multiplexing methods I (45'). | CBS - QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 18 November     | Fri  |      1.5 | 10:45-12:15   | Multiplexing methods II (1h30).                              | CBS - QuB | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 
 
