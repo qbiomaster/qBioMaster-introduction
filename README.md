@@ -53,7 +53,7 @@ Slots are usually 1.5h long.
 | 28 October       | Fri  |      1.5 | 11:30-13:00     | Probing membrane mechanics  | CBS - QuB   | LCo| |
 | 15 November   | Tue  |      3.0 | 8:30-11:30     | Introduction to network theory                    | CBS - QuB  | AA |  |
 | 18 November      | Thu  |      1.5 | 11:30-12:45    | Membrane biophysics | CBS  | PEM |  |
-| 23 November      | Thu  |      1.5 | 9:45-11:00    | External Talk by Thomas Robert (45'). Multiplexing methods I (45'). | CBS - QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 23 November      | wed  |      1.5 | 9:45-11:00    | External Talk by Thomas Robert (45'). Multiplexing methods I (45'). | CBS - QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 25 November     | Fri  |      1.5 | 9:45-11:20   | Multiplexing methods II (1h30).                              | CBS - QuB | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 
 
