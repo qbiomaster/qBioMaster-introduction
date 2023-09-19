@@ -7,36 +7,31 @@ This file will contain the updated list of constructs available for this UE.
 ### Introduction to optics and imaging (7h)
 
 **Constructs**
+1. [Jupyter labs](../../docs/resourcesJupyter.md)
 
-1. Basics of image processing (1.5h).
-
-   1. [Jupyter labs](../../docs/resourcesJupyter.md)
-   2. [Load images](Load_image.ipynb)
-   3. [Manipulate images](Basic_image_processing.ipynb)
-   4. [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb)
-   5. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
+2. Basics of image processing 
+   1. [Load images](Load_image.ipynb)
+   2. [Manipulate images](Basic_image_processing.ipynb)
+   3. [Image processing-based segmentation](Segmentation_masks_imageAnalysis.ipynb)
+   4. [AI-based segmentation](constructs/UE_Introduction/AI_segmentation.ipynb)
    
-2. [Fluorescence_microscopy](Fluorescence_microscopy.ipynb) (1h).
+3. [Fluorescence and microscopy](Fluorescence_microscopy.ipynb) 
    This construct will introduce:
    1. principles of fluorescence
    2. labeling methods
    3. widefield microscopy
 
-3. Advanced imaging systems (1h).
+4. Advanced imaging systems 
+   1. [TIRF microscopy](TIRF_microscopy.ipynb)
+   2. [Confocal microscopy](confocal_microscopy.ipynb) 
 
-   2. [TIRF microscopy](TIRF_microscopy.ipynb) (30')
-   3. [Confocal microscopy](confocal_microscopy.ipynb) (30')
-
-4. Super-resolution microscopies (1.5h).
+5. Super-resolution microscopies 
    1. [Single-molecule localization microscopy (SMLM)](SMLM_tutorial1.ipynb) (1h)
    2. [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) (15')
    3. [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) (15')
 
-5. Basics of near-field microscopies (AFM) (1h).
-   1. [Introduction to AFM](STED_microscopy.ipynb)
-
-   
-
+6. Basics of near-field microscopies (AFM) 
+   1. [Introduction to AFM](AFM.ipynb)
 
 | Name                       | Status | Workers | Description                                                  |
 | -------------------------- | ------ | ------- | ------------------------------------------------------------ |
@@ -51,32 +46,30 @@ This file will contain the updated list of constructs available for this UE.
 | [Single-molecule localization microscopy (SMLM)](SMLM_tutorial1.ipynb) | up     | Marcelo | This construct will show students how to load an image of sources from a library, and use the ASTROPY package to localize the centers of localizations in 2D. |
 | [Structured illumination microscopy (SIM)](SIM_microscopy.ipynb) | up | Marcelo | This construct will show how to load SIM and widefield images and calculate the gain in resolution in the Fourier space. |
 | [Stimulated emission depletion microscopy (STED)](STED_microscopy.ipynb) | up | marcelo |Introduction to STED microscopy with practical.|
-| [AFM](STED_microscopy.ipynb) | up | Luca Costa |Introduction to Atomic Force Microscopy.|
+| [AFM](AFM.ipynb) | up | Luca Costa |Introduction to Atomic Force Microscopy.|
 
 ### Genome Biophysics (8.5h)
 
-1. DNA (1h).
-   1. (30') [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
-   2. (30') Talk by Gaetan Bellot on 'DNA origami and biotechnology'
+1. DNA.
+   1. [DNA basics](constructs/UE_Introduction/Basics_DNA.ipynb)
    
-2. Manipulating DNA (1.5h).
-   1. (1h) [Studying DNA supercoiling with magnetic tweezers](DNAsupercoiling.ipynb)
-   2. (30') [Study of molecular motors using optical tweezers](OT_construct.ipynb)  
+2. Manipulating DNA
+   1. [Studying DNA supercoiling with magnetic tweezers](DNAsupercoiling.ipynb)
+   2. [Study of molecular motors using optical tweezers](OT_construct.ipynb)  
 
-3. Nucleosomes and epigenetics (1.5h).
-   1. (30') [Nucleosomes](nucleosomeParticle.ipynb) 
-   2. (30') [Histone modifications](histoneModifications.ipynb)
-   3. (30') [DNA machines](DNAmachines.ipynb) 
+3. Nucleosomes and epigenetics
+   1. [Nucleosomes](nucleosomeParticle.ipynb) 
+   2. [Histone modifications](histoneModifications.ipynb)
+   3. [DNA machines](DNAmachines.ipynb) 
 
-4. Transcription factors (1h15).
-   1. (45') [Transcription_factors](transcription_factors.ipynb)
-   2. (30') [Study the diffusion of DNA binding proteins using sptPALM](spt_PALM_ParB_proteins.ipynb)
+4. Transcription factors
+   1. [Transcription_factors](transcription_factors.ipynb)
+   2. [Study the diffusion of DNA binding proteins using sptPALM](spt_PALM_ParB_proteins.ipynb)
 
-5. Higher-order chromatin structure (3.25h).
-   1. (1h) [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
-   2. (30') [Loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
-   3. (45') Talk by Thomas Robert on cohesin/condensins.   
-   4. (1h) [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
+5. Higher-order chromatin structure
+   1. [Loading and visualizing a Hi-C matrix](constructs/UE_Introduction/higher-order_chromatin_structure.ipynb)
+   2. [Loop extrusion](constructs/UE_Introduction/LoopExtrusion.ipynb)
+   3. [Multiplexing imaging methods](constructs/UE_Introduction/HiM.ipynb)
    
 
 
