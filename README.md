@@ -36,7 +36,7 @@ Slots are usually 1.5h long.
 | 12 October    | Thu  |      1.5 | 13:15-14:50   | TIRF microscopy (30'). SMLM (1h). | CBS - QuB  | MN | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 17 October      | Thu  |      1.5 | 08:00-11:15    | DNA origami (45') by Gaetan Bellot. Optical Tweezers (45') by A. Nord. Cohesin dynamics by T. Robert (45').| CBS - QuB      | Ext | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 24 October       | Thu  |      1.5 | 08:00-11:15    | Introduction to genome biophysics. DNA supercoiling (45'). Nucleosomes and epigenetics (45'). Higher-order chromatin structure (45').| CBS - Seminar room  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| 10 November       | Thu  |      3.0 | 9:45-11:15     | Transcription factors (45').  Diffusion of DNA binding proteins using sptPALM (45') | CBS - seminar room   | MN| |
+| 10 November       | Thu  |      3.0 | 9:45-11:15     | Transcription factors (45').  Diffusion of DNA binding proteins using sptPALM (45') | CBS - seminar room   | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 17 November      | Fri  |      1.5 | 10:00-11:15    | Loop extrusion (30'). Multiplexing methods I (45').| CBS  -QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 
 **Gene regulation**
