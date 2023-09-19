@@ -19,7 +19,7 @@ The majority of classes will not be "standard" lectures. Interaction will be pri
 
 #### Instructors
 
-[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro); JN = Jérémie Naud (IGF)]
+[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro); JN = Jérémie Naude (IGF)]
 
 
 #### Rooms
@@ -45,15 +45,16 @@ Slots are usually 1.5h long.
 | Date            | Day  |   #hours | Time | Topic                                                      | Where | Who | Link |
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ---- | ---- |
 | 21 September    | Thu  |      3.0 | 15:00-18:15     | Introduction and course organisation  (30') - Modelling tools: ODE                  | CBS - QuB  | LC | - D.J. Wilkinson, *"Stochastic modelling for quantitative description of heterogeneous biological systems"*, Nature Reviews (2009) [doi:10.1038/nrg2509](https://www.nature.com/articles/nrg2509)<br> - [Introductory construct](./constructs/UE_Introduction/Introduction.ipynb)<br> - [Modelling ODE](./constructs/UE_Introduction/Modelling_ODE.ipynb) |
-| 28 September    | Thu  |      1.5 | 13:15-16:30     | Modelling tools: Stochasticity and simulations 1 | CBS - Seminar room  | LC | - [Revise Exponential distribution](https://sixsigmastudyguide.com/exponential-distribution/)<br> - [Exponential distribution video](https://www.youtube.com/watch?v=2kg1O0j1J9c)<br>  - [Modelling stoc](./constructs/UE_Introduction/Modelling_stoc.ipynb) |
-| 29 September    | Fri  |      1.5 | 11:15-13:00     | Modelling tools: Stochasticity and simulations 2 | CBS - Seminar room  | LC | [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) - Ch1 and Ch2 <br> - [Modelling stoc](./constructs/UE_Introduction/Modelling_stoc.ipynb) |
-| 5 October    | Thu  |      1.5 | 15:00-16:45     |  Introduction to neurophysics                  | CBS - QuB  | JN | Revise Ch1 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/qbio_Course_1_JN.ipynb)|
-| 13 October       | Fri  |      1.5 | 9:45-11:15    | Geometric analysis of excitability | CBS - Seminar room  | JN| Ch2 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) |
+| 28 September    | Thu  |      1.5 | 15:00-16:30     | Modelling tools: Stochasticity and simulations 1 | CBS - Seminar room  | LC | - [Revise Exponential distribution](https://sixsigmastudyguide.com/exponential-distribution/)<br> - [Exponential distribution video](https://www.youtube.com/watch?v=2kg1O0j1J9c)<br>  - [Modelling stoc](./constructs/UE_Introduction/Modelling_stoc.ipynb) |
+| 29 September    | Fri  |      1.5 | 11:30-13:00     | Modelling tools: Stochasticity and simulations 2 | CBS - Seminar room  | LC | [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) - Ch1 and Ch2 <br> - [Modelling stoc](./constructs/UE_Introduction/Modelling_stoc.ipynb) |
+| 6 October    | Fri  |      1.5 | 11:30-13:00      | Introduction to network theory  1                  | CBS - QuB  | AA |  |
+| 13 October    | Fri  |      1.5 | 9:45-11:15      | Introduction to network theory  2                  | CBS - QuB  | AA |  |
 | 20 October    | Fri  |      1.5 | 9:45-11:15     | Gene regulation; Negative and positive autoregulation.         | CBS - QuB  | LC | 2nd chapter from [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/Gene_regulation.ipynb) |
-| 26 October       | Thu  |      3 | 13:15-16:30        |   Random Walks - 2D RW and macromolecules as Random Walks | CBS - QuB   | LC| Read R.Phillips et al., Physical Biology of the cell, 2nd Ed. Pages 311 - 322; 127-129; (Ch13 is not compulsory, but a useful ref for the diffusion equation) <br> - [Associated notebook](./constructs/UE_Introduction/diffusion.ipynb)|
+| 26 October    | Thu  |      1.5 | 13:15-14:45     |  Introduction to neurophysics                  | CBS - QuB  | JN | Revise Ch1 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/qbio_Course_1_JN.ipynb)|
+| 26 October       | Thu  |      1.5 | 15:00-16:30        |   Random Walks - 2D RW and macromolecules as Random Walks | CBS - QuB   | LC| Read R.Phillips et al., Physical Biology of the cell, 2nd Ed. Pages 311 - 322; 127-129; (Ch13 is not compulsory, but a useful ref for the diffusion equation) <br> - [Associated notebook](./constructs/UE_Introduction/diffusion.ipynb)|
 | 10 November       | Fri  |      1.5 | 11:30-13:00    |   Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS - QuB   | LC|  |
-| **TBA**       | **TBA**  |      1.5 | **TBA**     | Gene expression noise in plants  | CBS - QuB   | SC| |
-| **TBA**    | **TBA**  |      3.0 | **TBA**      | Introduction to network theory                    | CBS - QuB  | AA |  |
+| 14 November       | Tue  |      1.5 | 9:45-11:15    | Geometric analysis of excitability | CBS - Seminar room  | JN| Ch2 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) |
+| 17 November       | Fri  |      1.5 | 11:30-13:00    | Gene expression noise in plants  | CBS - QuB   | SC| |
 
 **Membrane Biophysics**
 
