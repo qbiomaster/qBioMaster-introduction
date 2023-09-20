@@ -54,7 +54,7 @@ Slots are usually 1.5h long.
 | 26 October       | Thu  |      1.5 | 15:00-16:30        |   Random Walks - 2D RW and macromolecules as Random Walks | CBS - QuB   | LC| Read R.Phillips et al., Physical Biology of the cell, 2nd Ed. Pages 311 - 322; 127-129; (Ch13 is not compulsory, but a useful ref for the diffusion equation) <br> - [Associated notebook](./constructs/UE_Introduction/diffusion.ipynb)|
 | 10 November       | Fri  |      1.5 | 11:30-13:00    |   Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS - QuB   | LC|  |
 | 14 November       | Tue  |      1.5 | 9:45-11:15    | Geometric analysis of excitability | CBS - Seminar room  | JN| Ch2 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) |
-| 17 November       | Fri  |      1.5 | 11:30-13:00    | Gene expression noise in plants  | CBS - QuB   | SC| |
+| 17 November       | Fri  |      1.5 | 11:30-13:00    | Gene expression noise in plants  | CBS - QuB   | SC| [Cortijo and Locke (2020)](https://www.sciencedirect.com/science/article/pii/S1360138520301503) |
 
 **Membrane Biophysics**
 
