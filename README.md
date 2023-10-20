@@ -49,7 +49,7 @@ Slots are usually 1.5h long.
 | ~~29 September~~    | Fri  |      1.5 | 11:30-13:00     | Modelling tools: Stochasticity and simulations 2 | CBS - QuB (small)  | LC | [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) - Ch1 and Ch2 <br> - [Modelling stoc](./constructs/UE_Introduction/Modelling_stoc.ipynb) |
 | ~~3 October~~    | Tue  |      1.5 | 9:45-11:15      | Introduction to network theory  1                  | CBS - QuB   | AA |  |
 | ~~13 October~~    | Fri  |      1.5 | 9:45-11:15      | Introduction to network theory  2                  | CBS - QuB (small) | AA |  |
-| 20 October    | Fri  |      1.5 | 9:45-11:15     | Gene regulation; Negative and positive autoregulation.         | CBS - QuB (small) | LC | 2nd chapter from [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/Gene_regulation.ipynb) |
+| ~~20 October~~    | Fri  |      1.5 | 9:45-11:15     | Gene regulation; Negative and positive autoregulation.         | CBS - QuB (small) | LC | 2nd chapter from [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/Gene_regulation.ipynb) |
 | 26 October    | Thu  |      1.5 | 13:15-14:45     |  Introduction to neurophysics                  | CBS - QuB  | JN | Revise Ch1 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/qbio_Course_1_JN.ipynb)|
 | 26 October       | Thu  |      1.5 | 15:00-16:30        |   Random Walks - 2D RW and macromolecules as Random Walks | CBS - QuB   | LC| Read R.Phillips et al., Physical Biology of the cell, 2nd Ed. Pages 311 - 322; 127-129; (Ch13 is not compulsory, but a useful ref for the diffusion equation) <br> - [Associated notebook](./constructs/UE_Introduction/diffusion.ipynb)|
 | 10 November       | Fri  |      1.5 | 11:30-13:00    |   Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS - QuB (small)  | LC|  |
@@ -62,7 +62,7 @@ Slots are usually 1.5h long.
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ---- | ---- |
 | ~~5 October~~       | Thu  |      1.5 | 16:45-18:15     | Introduction  | CBS - QuB   | PEM| Material given by email |
 | ~~13 October~~       | Fri  |      1.5 | 11:30-13:00     |  Imaging and spectroscopy of biological membranes | CBS - QuB (small)   | PEM|  |
-| 20 October       | Fri  |      1.5 | 11:30-13:00     | Experimental characterization of biological membranes  | CBS - QuB (small)  | PEM | |
+| ~~20 October~~       | Fri  |      1.5 | 11:30-13:00     | Experimental characterization of biological membranes  | CBS - QuB (small)  | PEM | |
 | 27 October       | Fri  |      1.5 | 11:30-13:00     | Probing membrane mechanics  | CBS - QuB  (smal;)  | LCo | |
 
 <!--| 18 November      | Thu  |      1.5 | 11:30-12:45    | Membrane biophysics | CBS  | PEM |  |-->
