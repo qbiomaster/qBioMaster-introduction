@@ -1,0 +1,9 @@
+﻿Origin;Destination;Weight
+a;e;2
+e;d;1
+d;f;1
+f;e;5
+f;h;1
+f;g;3
+h;b;2
+c;h;4
