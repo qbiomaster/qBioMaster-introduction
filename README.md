@@ -31,14 +31,18 @@ Slots are usually 1.5h long.
 
 | Date            | Day  | #hours | Time | Topic | Where | Who | Link |
 | --------------  | ---- | -------  | -------------- |------------------------------------------------------------ | ----- | ---- | ---- |
-| ~~21 September~~   | Thu  |      1.5 | 13:15-14-50     | Presentation of methodology and Jupyter labs (15'). Basics of Imaging (30'). Basics of image processing (30'). | CBS - QuB | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| ~~28 September~~    | Thu  |      1.5 | 13:15-14:50     | Introduction to Atomic Force Microscopy (Luca Costa). | CBS - QuB   | Lco|  [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| ~~05 October~~    | Thu  |      1.5 | 13:15-14:50     | Introduction to fluorescence (35' - EM). Confocal microscopy (30' - MN).| CBS - QuB | EM-MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| ~~12 October~~    | Thu  |      1.5 | 13:15-14:50   | TIRF microscopy (30'). SMLM (1h). | CBS - QuB  | MN | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| ~~17 October~~      | Tue  |      3.0 | 08:00-11:15    | DNA origami (45') by Gaetan Bellot. Optical Tweezers (45') by A. Nord. Cohesin dynamics by T. Robert (45').| CBS - QuB      | Ext | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| ~~24 October~~       | Tue  |      3.0 | 08:00-11:15    | Introduction to genome biophysics. DNA supercoiling (45'). Nucleosomes and epigenetics (45'). Higher-order chromatin structure (45').| CBS - QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| ~~10 November~~       | Fri  |      3.0 | 9:45-11:15     | Transcription factors (45').  Diffusion of DNA binding proteins using sptPALM (45') | CBS - QuB (small)   | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| 17 November      | Fri  |      1.5 | 10:00-11:15    | Loop extrusion (30'). Multiplexing methods I (45').| CBS  - QuB (small) | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 19/9      | Thu  |     1.5 | 15:00-16:30    | DNA origami (45') by Gaetan Bellot. | CBS - QuB      | Ext | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 26/9   | Thu  |      1.5 | 13:15-14:45     | Basics of Imaging (45'). Basics of image processing (45'). | CBS - QuB | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 26/9    | Thu  |      1.5 | 15:00-16:30     | Introduction to Atomic Force Microscopy (Luca Costa). | CBS - QuB   | Lco|  [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 03/10    | Thu  |      1.5 | 13:15-14:50   | Cohesin structure and dynamics by Thomas Robert. | CBS - QuB  | MN | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 10/10    | Thu  |      1.5 | 13:15-14:50   | Article (30'). Confocal microscopy (30'). TIRF (30'). | CBS - QuB  | MN | [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 17/10       | Tue  |      1.5 | 15:00-16:30    | Article (45'). SMLM (45').| CBS - QuB  | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 18/10       | Fri  |      1.5 | 9:45-11:00     | Article (45'). DNA supercoiling (45'). | CBS - QuB (small)   | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 24/10    | Thu  |      1.5 | 13:15-16:30     | Introduction to fluorescence (EM). | CBS - QuB | EM-MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 08/11      | Fri  |      1.5 | 9:45-11:00    | Article (30').  Nucleosomes and epigenetics (30'). Transcription Factors (30')| CBS  - QuB (small) | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 14/11      | Thu  |      1.5 | 15:00-16:30    | Article (45').  Higher-order chromatin structure (45')| CBS  - QuB (small) | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+| 29/11      | Fri  |      1.5 | 9:45-11:00    | Article (30').  Loop extrusion (30'). Multiplexing methods I (30')| CBS  - QuB (small) | MN| [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
+
 
 **Gene regulation and modelling**
 
