@@ -31,7 +31,7 @@ Slots are usually 1.5h long.
 
 | Date            | Day  | #hours | Time | Topic | Where | Who | Link |
 | --------------  | ---- | -------  | -------------- |------------------------------------------------------------ | ----- | ---- | ---- |
-| 19/9      | Thu  |     1.5 | 15:00-16:30    | DNA origami (45') by Gaetan Bellot. | CBS - QuB      | Ext |  |
+| 19/9      | Thu  |     1.5 | 15:00-16:30    | DNA origami by Julie Finkel. | CBS - QuB      | Ext |  |
 | 26/9   | Thu  |      1.5 | 13:15-14:45     | Basics of Imaging (45'). Basics of image processing (45'). | CBS - QuB | MN| [Imaging](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/Fluorescence_microscopy.ipynb) + [Basics of Image Processing](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md)|
 | 26/9    | Thu  |      1.5 | 15:00-16:30     | Introduction to Atomic Force Microscopy (Luca Costa). | CBS - QuB   | Lco|  [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
 | 03/10    | Thu  |      1.5 | 13:15-14:50   | Cohesin structure and dynamics by Thomas Robert. | CBS - QuB  | MN | |
