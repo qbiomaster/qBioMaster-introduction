@@ -16,14 +16,17 @@
 The majority of classes will not be "standard" lectures. Interaction will be privileged, and the attendants should prepare the class before the frontal lecture (see link column in the table below).
 
 ### Timetable
+The reference Timetable is the one on [GoogleDoc](https://docs.google.com/spreadsheets/d/1dTizyJ3rMcFFUIsRRxD_az0jm2KmWsaJ/edit?usp=sharing&ouid=110860328344015702167&rtpof=true&sd=true). 
+Below you can find more details for each lecture and the material you have to prepare **before** coming to the lecture.
+
 
 #### Instructors
 
-[AA= Andrea Apolloni (CIRAD); EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro); JN = Jérémie Naude (IGF)]
+[EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro); JN = Jérémie Naude (IGF)]
 
 
 #### Rooms
-The course will take place in two different rooms at the CBS: The *seminar room* (1st floor, CBS29) and the *QuB* (to be pronounced 'cube', which is the Algeco just outside the main entrance of the CBS29).
+The course will take place in the lecture room at the *QuB* (to be pronounced 'cube', which is the Algeco just outside the back entrance of the CBS29).
 
 Slots are usually 1.5h long.
 
@@ -37,11 +40,11 @@ Slots are usually 1.5h long.
 | 03/10    | Thu  |      1.5 | 13:15-14:50   | Cohesin structure and dynamics by Thomas Robert. | CBS - QuB  | Ext | |
 | 10/10    | Thu  |      1.5 | 13:15-14:50   | Article (30'). Confocal microscopy (30'). TIRF (30'). | CBS - QuB  | MN | [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3942261/) + [Confocal](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/confocal_microscopy.ipynb) + [TIRF](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/TIRF_microscopy.ipynb)|
 | 17/10       | Tue  |      1.5 | 15:00-16:30    | Article (45'). SMLM (45').| CBS - QuB  | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8292130/) + [SMLM](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/SMLM_tutorial1.ipynb) |
-| 18/10       | Fri  |      1.5 | 9:45-11:00     | Article (45'). DNA supercoiling (45'). | CBS - QuB (small) | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3797773/) + [DNA](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/Basics_DNA.ipynb) + [DNA supercoiling](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/DNAsupercoiling.ipynb)|
+| 18/10       | Fri  |      1.5 | 9:45-11:00     | Article (45'). DNA supercoiling (45'). | CBS - QuB | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3797773/) + [DNA](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/Basics_DNA.ipynb) + [DNA supercoiling](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/DNAsupercoiling.ipynb)|
 | 24/10    | Thu  |      1.5 | 13:15-16:30     | Introduction to fluorescence (EM). | CBS - QuB | EM|  |
-| 08/11      | Fri  |      1.5 | 9:45-11:00    | Article (30').  Nucleosomes and epigenetics (30'). Transcription Factors (30')| CBS  - QuB (small) | MN| [Article](https://github.com/qbiomaster/qBioMaster-introduction/blob/78c027bc74d31f4dd155b4a2dded39b189a4d86d/constructs/UE_Introduction/resources/Strick_topoII.pdf) + [Nucleosomes](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/nucleosomeParticle.ipynb) + [Epigenetics](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/histoneModifications.ipynb) + [TFs](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/transcription_factors.ipynb)|
-| 14/11      | Thu  |      1.5 | 15:00-16:30    | Article (30').  Higher-order chromatin structure (30'). Loop Extrusion (30')| CBS  - QuB (small) | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10450203/) + [Chromatin structure](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/higher-order_chromatin_structure.ipynb) + [Loop extrusion](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/loopExtrusion.ipynb) |
-| 29/11      | Fri  |      1.5 | 9:45-11:00    | Article (45').  Multiplexing methods I (45')| CBS  - QuB (small) | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9069445/) + [Multiplexing microscopy](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/HiM.ipynb) |
+| 08/11      | Fri  |      1.5 | 9:45-11:00    | Article (30').  Nucleosomes and epigenetics (30'). Transcription Factors (30')| CBS  - QuB  | MN| [Article](https://github.com/qbiomaster/qBioMaster-introduction/blob/78c027bc74d31f4dd155b4a2dded39b189a4d86d/constructs/UE_Introduction/resources/Strick_topoII.pdf) + [Nucleosomes](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/nucleosomeParticle.ipynb) + [Epigenetics](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/histoneModifications.ipynb) + [TFs](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/transcription_factors.ipynb)|
+| 14/11      | Thu  |      1.5 | 15:00-16:30    | Article (30').  Higher-order chromatin structure (30'). Loop Extrusion (30')| CBS  - QuB  | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10450203/) + [Chromatin structure](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/higher-order_chromatin_structure.ipynb) + [Loop extrusion](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/loopExtrusion.ipynb) |
+| 29/11      | Fri  |      1.5 | 9:45-11:00    | Article (45').  Multiplexing methods I (45')| CBS  - QuB  | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9069445/) + [Multiplexing microscopy](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/HiM.ipynb) |
 
 
 **Gene regulation and modelling**
@@ -51,23 +54,23 @@ Slots are usually 1.5h long.
 | 17 September    | Tue  |      1.5 | 10:30-12:00     | Introduction and course organisation  (30') - Modelling tools: ODE                  | CBS - QuB  | LC | - D.J. Wilkinson, *"Stochastic modelling for quantitative description of heterogeneous biological systems"*, Nature Reviews (2009) [doi:10.1038/nrg2509](https://www.nature.com/articles/nrg2509)<br> - [Introductory construct](./constructs/UE_Introduction/Introduction.ipynb)<br> - [Modelling ODE](./constructs/UE_Introduction/Modelling_ODE.ipynb) |
 | 19 September    | Thu  |      1.5 | 13:15-14:45     | Modelling tools: Stochasticity and simulations 1 | CBS - QuB  | LC | - [Revise Exponential distribution](https://sixsigmastudyguide.com/exponential-distribution/)<br> - [Exponential distribution video](https://www.youtube.com/watch?v=2kg1O0j1J9c)<br>  - [Modelling stoc](./constructs/UE_Introduction/Modelling_stoc.ipynb) |
 |     | Fri  |      1.5 | 11:30-13:00     | Modelling tools: Stochasticity and simulations 2 | CBS - QuB (small)  | LC | [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) - Ch1 and Ch2 <br> - [Modelling stoc](./constructs/UE_Introduction/Modelling_stoc.ipynb) |
-|     | Tue  |      1.5 | 9:45-11:15      | Introduction to network theory  1                  | CBS - QuB   | AA |  |
-|     | Fri  |      1.5 | 9:45-11:15      | Introduction to network theory  2                  | CBS - QuB (small) | AA |  |
+|     | Tue  |      1.5 | 9:45-11:15      | Introduction to network theory  1                  | CBS - QuB   |  |  |
+|     | Fri  |      1.5 | 9:45-11:15      | Introduction to network theory  2                  | CBS - QuB  |  |  |
 |     | Fri  |      1.5 | 9:45-11:15     | Gene regulation; Negative and positive autoregulation.         | CBS - QuB (small) | LC | 2nd chapter from [Uri Alon, An introduction to systems biology, 2nd Ed.](https://www.google.fr/books/edition/An_Introduction_to_Systems_Biology/Lg3MDwAAQBAJ?hl=fr&gbpv=1&dq=An+Introduction+to+Systems+Biology&pg=PA36&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/Gene_regulation.ipynb) |
-|     | Thu  |      1.5 | 13:15-14:45     |  Introduction to neurophysics                  | CBS - QuB  | JN | Revise Ch1 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/qbio_Course_1_JN.ipynb)|
-|        | Thu  |      1.5 | 15:00-16:30        |   Random Walks - 2D RW and macromolecules as Random Walks | CBS - QuB   | LC| Read R.Phillips et al., Physical Biology of the cell, 2nd Ed. Pages 311 - 322; 127-129; (Ch13 is not compulsory, but a useful ref for the diffusion equation) <br> - [Associated notebook](./constructs/UE_Introduction/diffusion.ipynb)|
-|        | Fri  |      1.5 | 11:30-13:00    |   Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS - QuB (small)  | LC|  |
+|     | Thu  |      1.5 | 13:15-14:45     |  Introduction to neurophysics                  | CBS - QuB  |  | Revise Ch1 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/qbio_Course_1_JN.ipynb)|
+|        | Thu  |      1.5 | 15:00-16:30        |   Random Walks - 2D RW and macromolecules as Random Walks | CBS - QuB   | | Read R.Phillips et al., Physical Biology of the cell, 2nd Ed. Pages 311 - 322; 127-129; (Ch13 is not compulsory, but a useful ref for the diffusion equation) <br> - [Associated notebook](./constructs/UE_Introduction/diffusion.ipynb)|
+|        | Fri  |      1.5 | 11:30-13:00    |   Measuring Gene Expression from Cytometer and Plate Reader experiments | CBS - QuB   | LC|  |
 |        | Tue  |      1.5 | 9:45-11:15    | Geometric analysis of excitability | CBS - QuB  | JN| Ch2 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/qBio_course_2_Naudé_2023.ipynb)|
-|        | Fri  |      1.5 | 11:30-13:00    | Gene expression noise in plants  | CBS - QuB  (small) | SC| [Cortijo and Locke (2020)](https://www.sciencedirect.com/science/article/pii/S1360138520301503) |
+|        | Fri  |      1.5 | 11:30-13:00    | Gene expression noise in plants  | CBS - QuB   | SC| [Cortijo and Locke (2020)](https://www.sciencedirect.com/science/article/pii/S1360138520301503) |
 
 **Membrane Biophysics**
 
 | Date            | Day  |   #hours | Time | Topic                                                      | Where | Who | Link |
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ---- | ---- |
-| ~~5 October~~       | Thu  |      1.5 | 16:45-18:15     | Introduction  | CBS - QuB   | PEM| Material given by email |
-| ~~13 October~~       | Fri  |      1.5 | 11:30-13:00     |  Imaging and spectroscopy of biological membranes | CBS - QuB (small)   | PEM|  |
-| ~~20 October~~       | Fri  |      1.5 | 11:30-13:00     | Experimental characterization of biological membranes  | CBS - QuB (small)  | PEM | |
-| ~~27 October~~       | Fri  |      1.5 | 11:30-13:00     | Probing membrane mechanics  | CBS - QuB  (smal;)  | LCo | |
+|       |   |      1.5 | 16:45-18:15     | Introduction  | CBS - QuB   | PEM| Material given by email |
+|        |   |      1.5 | 11:30-13:00     |  Imaging and spectroscopy of biological membranes | CBS - QuB (small)   | PEM|  |
+|        |   |      1.5 | 11:30-13:00     | Experimental characterization of biological membranes  | CBS - QuB (small)  | PEM | |
+|        |   |      1.5 | 11:30-13:00     | Probing membrane mechanics  | CBS - QuB  (smal;)  | LCo | |
 
 <!--| 18 November      | Thu  |      1.5 | 11:30-12:45    | Membrane biophysics | CBS  | PEM |  |-->
 
