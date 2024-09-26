@@ -22,7 +22,7 @@ Below you can find more details for each lecture and the material you have to pr
 
 #### Instructors
 
-[EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nolan; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro); JN = Jérémie Naude (IGF)]
+[EM = Emmanuel Margeat ; LC = Luca Ciandrini; LCo = Luca Costa ; MN = Marcelo Nollmann; PEM = Pierre-Emmanuel Milhiet; SC = Sandra Cortijo (BPMP / SupAgro); JN = Jérémie Naude (IGF)]
 
 
 #### Rooms
