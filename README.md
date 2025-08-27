@@ -44,8 +44,7 @@ Slots are usually 1.5h long.
 | 06/11      | Fri  |      1.5 |  15:00-16:30    | Article (30').  Nucleosomes and epigenetics (30'). Transcription Factors (30')| CBS  - QuB  | MN| [Article](https://github.com/qbiomaster/qBioMaster-introduction/blob/78c027bc74d31f4dd155b4a2dded39b189a4d86d/constructs/UE_Introduction/resources/Strick_topoII.pdf) + [Nucleosomes](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/nucleosomeParticle.ipynb) + [Epigenetics](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/histoneModifications.ipynb) + [TFs](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/transcription_factors.ipynb)|
 | 13/11      | Thu  |      1.5 | 15:00-16:30    | Article (30').  Higher-order chromatin structure (30'). Loop Extrusion (30')| CBS  - QuB  | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10450203/) + [Chromatin structure](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/higher-order_chromatin_structure.ipynb) + [Loop extrusion](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/loopExtrusion.ipynb) |
 | 27/11      | Fri  |      1.5 |  13:15-14:50    | Article (45').  Multiplexing methods I (45')| CBS  - QuB  | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9069445/) + [Multiplexing microscopy](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/HiM.ipynb) |
-
-| 03/10    | Thu  |      1.5 | 13:15-14:50   | Cohesin structure and dynamics by Thomas Robert (45'). Optical tweezers and flagellar motors by Francesco Pedaci (45'). | CBS - QuB  | Ext | |
+| 03/12    | Thu  |      1.5 | 13:15-14:50   | Cohesin structure and dynamics by Thomas Robert (45'). Optical tweezers and flagellar motors by Francesco Pedaci (45'). | CBS - QuB  | Ext | |
 
 **Gene regulation and modelling**
 
