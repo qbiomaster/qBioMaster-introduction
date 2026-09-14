@@ -16,7 +16,7 @@
 The majority of classes will not be "standard" lectures. Interaction will be privileged, and the attendants should prepare the class before the frontal lecture (see link column in the table below).
 
 ### Timetable
-The reference Timetable is the one on [GoogleDoc](https://docs.google.com/spreadsheets/d/1ql514LKKdXaEYiQ4cxt4rEDNwwXXSUew/edit?usp=sharing&ouid=110860328344015702167&rtpof=true&sd=true). 
+The reference Timetable is the one on [GoogleDoc](https://docs.google.com/spreadsheets/d/19_Bwkybd86P7nmEwTfxF5rR5eIAWM7aKF2rCw9KM3gg/edit?usp=sharing). 
 Below you can find more details for each lecture and the material you have to prepare **before** coming to the lecture.
 
 
