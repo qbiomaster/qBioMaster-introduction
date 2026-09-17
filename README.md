@@ -51,7 +51,7 @@ Slots are usually 1.5h long.
 
 | Date            | Day  |   #hours | Time | Topic                                                      | Where | Who | Link |
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ---- | ---- |
-| 17/9    | Thu  |      1.5 | 13:15-14:45     | Introduction and course organisation  (30') - A simple example:  protein production and degradation - Protein partitioning at cell division                | CBS29  | LC | - [pre-lecture read](./docs/gene_regulation_and_modelling/IntroQBio_L1_preread.pdf) |
+| 17/9    | Thu  |      1.5 | 13:15-14:45     | Introduction and course organisation  (30') - A simple example:  protein production and degradation - Protein partitioning at cell division                | CBS29  | LC | - [pre-lecture read](./docs/gene_regulation_and_modelling/IntroQBio_L1_preread.pdf)  - [slides](./slides/Intro_qbio01_LC.pdf) - [notebook](./constructs/UE_Introduction/IntroQBio_L1_notebook.ipynb) |
 | --    | Thu  |      1.5 | --     | -- | CBS60  | LC | - |
 |  --   | Thu  |      1.5 | --     |  | CBS60 | LC | - |
 |  --   | Thu  |      1.5 | --     |  | CBS60 | LC | |
