@@ -41,11 +41,11 @@ Slots are usually 1.5h long.
 | 12/11      | Fri  |      1.5 |  15:00-16:30    | Article (30').  Nucleosomes and epigenetics (30'). Transcription Factors (30')| CBS60  | MN| [Article](https://github.com/qbiomaster/qBioMaster-introduction/blob/78c027bc74d31f4dd155b4a2dded39b189a4d86d/constructs/UE_Introduction/resources/Strick_topoII.pdf) + [Nucleosomes](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/nucleosomeParticle.ipynb) + [Epigenetics](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/histoneModifications.ipynb) + [TFs](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/transcription_factors.ipynb)|
 | 26/11      | Thu  |      1.5 | 13:15-14:45    | Article (30').  Higher-order chromatin structure (30'). Loop Extrusion (30')| CBS60  | MN| [Article](https://pubmed.ncbi.nlm.nih.gov/32679076/) + [Chromatin structure](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/higher-order_chromatin_structure.ipynb) + [Loop extrusion](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/loopExtrusion.ipynb) |
 | 3/12      | Fri  |      1.5 |  13:15-14:50    | Article (45').  Multiplexing methods I (45')| CBS60  | MN| [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9069445/) + [Multiplexing microscopy](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/HiM.ipynb) |
-| XXX      | Thu  |     1.5 |  13:15-14:50    | DNA origami by Gaetan Bellot. | CBS60      | Ext |  |
+| 24/9      | Thu  |     1.5 |  15:00-16:30    | DNA origami by Gaetan Bellot. | CBS60      | Ext |  |
 | XXX    | Thu  |      1.5 | 13:15-14:45     | Introduction to Atomic Force Microscopy (Luca Costa). | CBS60   | Lco|  [constructList](https://github.com/qbiomaster/qBioMaster-introduction/blob/main/constructs/UE_Introduction/ConstructList.md) |
-| XXX    | Thu  |      1.5 | 16:30-18:15     | Introduction to fluorescence (EM). | CBS60 | EM|  |
-| XXX    | Thu  |      1.5 |  13:15-14:50   | Optical tweezers and flagellar motors by Francesco Pedaci and Ashley Nord (45'). | CBS60  | Ext | |
-| XXX    | Thu  |      1.5 | 15:00-16:30   | Cohesin structure and dynamics by Thomas Robert (45') | CBS60  | Ext | |
+| 17/9    | Thu  |      1.5 | 16:30-18:15     | Introduction to fluorescence (EM). | CBS60 | EM|  |
+| 19/11    | Thu  |      1.5 |  15:00-16:30   | Optical tweezers and flagellar motors by Malo Marmol | CBS60  | Ext | |
+| 22/10    | Thu  |      1.5 | 15:00-16:30   | Cohesin structure and dynamics by Alex Nore (45') | CBS60  | Ext | |
 
 **Gene regulation and modelling**
 
