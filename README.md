@@ -53,8 +53,8 @@ Slots are usually 1.5h long.
 | :-------------- | ---- | -------: | ------------- | ------------------------------------------------------------ | ----- | ---- | ---- |
 | 17/9    | Thu  |      1.5 | 13:15-14:45     | Introduction and course organisation  (30') - A simple example:  protein production and degradation - Protein partitioning at cell division                | CBS29  | LC | - [pre-lecture read](./docs/gene_regulation_and_modelling/IntroQBio_L1_preread.pdf)  - [slides](./slides/Intro_qbio01_LC.pdf) - [notebook](./constructs/UE_Introduction/IntroQBio_L1_notebook.ipynb) -[after-class **UPDATED**](./docs/gene_regulation_and_modelling/IntroQBio_L1_after_class_v2.pdf) |
 | 8/10    | Thu  |      1.5 | 13:15-14:45     | ODE vs simulations; gene regulation | CBS60  | LC | - [pre-lecture read](./docs/gene_regulation_and_modelling/IntroQBio_L2_preread.pdf) -[notebook](./constructs/UE_Introduction/IntroQBio_L2_notebook.ipynb)|
-| 15/10   | Thu  |      1.5 | 13:15-14:45     | Positive auto-regulation and stability | CBS60 | LC | - [pre-lecture read](./docs/gene_regulation_and_modelling/IntroQBio_L3_preread.pdf) [notebook](./constructs/UE_Introduction/IntroQBio_L3_notebook.ipynb)|
-|  --   | Thu  |      1.5 | --     |  | CBS60 | LC | |
+| 15/10   | Thu  |      1.5 | 13:15-14:45     | Positive auto-regulation and stability | CBS60 | LC | - [pre-lecture read](./docs/gene_regulation_and_modelling/IntroQBio_L3_preread.pdf) [notebook](./constructs/UE_Introduction/IntroQBio_L3_notebook_v2.ipynb)|
+|  21/10  | Wed  |      1.5 | 9:00-10:30    |  | CBS29 | LC | [notebook](./constructs/UE_Introduction/IntroQBio_L4_notebook.ipynb) |
 |  --   | Thu  |      1.5 | --     |  | CBS60 | LC | |
 |  --   | Thu  |      1.5 | --     |  | CBS60 | LC | |
 |  --   | Thu  |      1.5 | --     |  | CBS60 | LC | |
