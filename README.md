@@ -56,7 +56,7 @@ Slots are usually 1.5h long.
 | 15/10   | Thu  |      1.5 | 13:15-14:45     | Positive auto-regulation and stability | CBS60 | LC | - [pre-lecture read](./docs/gene_regulation_and_modelling/IntroQBio_L3_preread.pdf) [notebook](./constructs/UE_Introduction/IntroQBio_L3_notebook_v2.ipynb)|
 |  21/10  | Wed  |      1.5 | 9:00-10:30    |  | CBS29 | LC | [notebook](./constructs/UE_Introduction/IntroQBio_L4_notebook.ipynb) |
 |  12/11  | Thu  |      1.5 | 13:15-14:45   | Random Walk and Diffusion | CBS60 | LC | [notebook](./constructs/UE_Introduction/IntroQBio_L5_notebook.ipynb) -[after-class](./docs/gene_regulation_and_modelling/IntroQBio_L5_after_class.pdf) |
-|  --   | Thu  |      1.5 | --     |  | CBS60 | LC | |
+|  19/11   | Thu  |      1.5 | 13:15-14:45     | The physics of chemotaxis | CBS60 | LC | - [slides](./slides/Intro_qbio_L6_slides.pdf) |
 |  --   | Thu  |      1.5 | --     |  | CBS60 | LC | |
 |  --   | Thu  |      1.5 | --     |  Introduction to neurophysics                  | tba  |  | Revise Ch1 from [Strogaz' book](https://www.google.fr/books/edition/Nonlinear_Dynamics_and_Chaos/1kpnDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) <br> - [Associated notebook](./constructs/UE_Introduction/qbio_Course_1_JN.ipynb)|
 |  --   | Thu  |      1.5 | --    |  --  | CBS60   | JN|  |
